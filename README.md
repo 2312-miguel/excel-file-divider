@@ -1,72 +1,148 @@
 # Excel File Divider
 
-Una herramienta para dividir archivos de Excel en partes más pequeñas.
+A powerful tool to split large Excel files into smaller, manageable parts while maintaining data integrity and structure.
 
-## Descripción
+## Description
 
-Esta aplicación permite dividir archivos de Excel grandes en archivos más pequeños, facilitando su manejo y procesamiento.
+This application allows you to divide large Excel files into smaller files, making them easier to handle and process. It maintains data integrity and the original file structure.
 
-## Estructura del Proyecto
+## Project Structure
 
 ```
 divide-xlsx/
-├── src/           # Código fuente
+├── src/           # Source code
 │   └── excelDivider.js
-├── data/          # Archivos de Excel
-├── config.json    # Configuración del proyecto
-└── package.json   # Dependencias y scripts
+├── data/          # Input Excel files
+├── output/        # Divided Excel files output
+├── config.json    # Project configuration
+└── package.json   # Dependencies and scripts
 ```
 
-## Requisitos Previos
+## Prerequisites
 
-- Node.js (v12 o superior)
-- npm (viene con Node.js)
+- Node.js (v12 or higher)
+- npm (comes with Node.js)
 
-## Instalación
+## Installation
 
-1. Clona el repositorio:
+1. Clone the repository:
    ```bash
-   git clone [URL_DEL_REPOSITORIO]
-   cd divide-xlsx
+   git clone https://github.com/2312-miguel/excel-file-divider.git
+   cd excel-file-divider
    ```
 
-2. Instala las dependencias:
+2. Install dependencies:
    ```bash
    npm install
    ```
 
-## Uso
+## Usage
 
-1. Coloca los archivos de Excel que deseas dividir en la carpeta `data/`
-2. Configura los parámetros en `config.json`
-3. Ejecuta el script:
-   ```bash
-   node src/excelDivider.js
-   ```
+### Using Command Line
 
-## Configuración
+```bash
+# Basic usage
+node src/excelDivider.js --input "data/file.xlsx" --sheet "Sheet1" --rows 5000 --output "output"
 
-El archivo `config.json` permite personalizar:
-- Número de filas por archivo
-- Formato de salida
-- Otras opciones específicas
+# Using short parameter names
+node src/excelDivider.js -i "data/file.xlsx" -s "Sheet1" -r 5000 -o "output"
+```
 
-## Contribuir
+### Available Options
 
-Las contribuciones son bienvenidas. Por favor:
-1. Haz fork del proyecto
-2. Crea una rama para tu feature (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
+| Option | Alias | Description | Default |
+|--------|-------|-------------|---------|
+| --input | -i | Input Excel file path | From config.json |
+| --sheet | -s | Sheet name to process | From config.json |
+| --rows | -r | Rows per output file | From config.json |
+| --output | -o | Output directory | From config.json |
+| --help | -h | Show help | - |
 
-## Licencia
+### Using Configuration File
 
-Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
+Modify the `config.json` file:
+
+```json
+{
+  "inputFile": "data/file.xlsx",
+  "sheetName": "Sheet1",
+  "rowsPerFile": 5000,
+  "outputDir": "output"
+}
+```
+
+## Examples
+
+```bash
+# Process a specific Excel file
+node src/excelDivider.js -i "data/INVENTORY.xlsx" -s "Sheet1" -r 5000 -o "output"
+
+# Use custom configuration
+node src/excelDivider.js --config "custom_config.json"
+
+# Show help
+node src/excelDivider.js --help
+```
+
+## Output Structure
+
+The program creates files with the following structure:
+
+```
+output/
+├── Sheet1_part_001.xlsx  # First chunk of data with headers
+├── Sheet1_part_002.xlsx  # Second chunk with headers
+└── ...                   # Additional files as needed
+```
+
+Each output file contains:
+- Original headers from the source file
+- A subset of rows based on the specified row limit
+- Same formatting and column structure as the source
+- Sequential numbering in the filename
+
+### File Naming Convention
+
+Output files follow this pattern:
+```
+[SheetName]_part_[SequentialNumber].xlsx
+```
+Example: `Sheet1_part_001.xlsx`, `Sheet1_part_002.xlsx`, etc.
+
+## Features
+
+- 📊 Split large Excel files into multiple smaller files
+- 📑 Maintain headers in all output files
+- 📁 Automatic output directory creation
+- ❌ Comprehensive error handling
+- 🔍 Sheet-by-sheet processing
+- ⚙️ Configurable via JSON file or command line arguments
+- 📈 Preserves data formatting and structure
+- 🚀 Fast and memory-efficient processing
+
+## Contributing
+
+Contributions are welcome. Please:
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Support
+
+If you encounter any issues or have questions, please:
+1. Check the existing issues in the repository
+2. Create a new issue with a detailed description
+3. Include sample files and steps to reproduce (if applicable)
 
 ## Contacto
 
-[Tu Nombre] - [tu@email.com]
+[Miguel] - [miguelangels.dev@gmail.com]
 
 ## Features
 
@@ -109,10 +185,10 @@ npm install
 npm start
 
 # Using command line arguments
-node dividirExcel.js --input "myfile.xlsx" --sheet "Sheet1" --rows 5000 --output "output"
+node excelDivider.js --input "myfile.xlsx" --sheet "Sheet1" --rows 5000 --output "output"
 
 # Using short aliases
-node dividirExcel.js -i "myfile.xlsx" -s "Sheet1" -r 5000 -o "output"
+node excelDivider.js -i "myfile.xlsx" -s "Sheet1" -r 5000 -o "output"
 ```
 
 ### Available Command Line Options
@@ -156,15 +232,20 @@ Create or modify `config.json`:
 
 ```bash
 # Process a specific Excel file with custom settings
-node dividirExcel.js -i "sales_data.xlsx" -s "2023" -r 1000 -o "sales_output"
+node excelDivider.js -i "sales_data.xlsx" -s "2023" -r 1000 -o "sales_output"
 
 # Use a different config file
-node dividirExcel.js -c "custom_config.json"
+node excelDivider.js -c "custom_config.json"
 
 # Show help
-node dividirExcel.js --help
+node excelDivider.js --help
 ```
 
 ## Output Structure
 
 The program will create files in the following format:
+
+output/
+├── Sheet1_part_001.xlsx # First chunk of data with headers
+├── Sheet1_part_002.xlsx # Second chunk with headers
+└── ... # Additional files as needed
