@@ -1,0 +1,32 @@
+{
+  "name": "excel-file-divider",
+  "version": "1.0.0",
+  "description": "A tool for splitting large Excel files into smaller parts while maintaining data integrity",
+  "main": "dividirExcel.js",
+  "scripts": {
+    "start": "node dividirExcel.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "excel",
+    "xlsx",
+    "split",
+    "divide",
+    "large-files",
+    "data-processing"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "xlsx": "^0.18.5",
+    "yargs": "^17.7.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/excel-file-divider.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/excel-file-divider/issues"
+  },
+  "homepage": "https://github.com/yourusername/excel-file-divider#readme"
+}

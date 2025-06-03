@@ -1,0 +1,10 @@
+{
+    "inputFile": "INVENTARIO NETMEE 2025.xlsx",
+    "sheetName": "Hoja1",
+    "rowsPerFile": 100000,
+    "excludeColumns": [
+        5
+    ],
+    "itemColumnIndex": 0,
+    "outputDir": "output"
+}
