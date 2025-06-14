@@ -1,0 +1,24 @@
+{
+  "inputFile": "data/archivo.xlsx",
+  "sheetName": "Hoja 1",
+  "tableName": "usuarios",
+  "outputFile": "output/usuarios_inserts.sql",
+  "sqlType": "insert",
+  "columnMappings": [
+    {
+      "excelColumn": "Nombre",
+      "sqlColumn": "nombre",
+      "type": "string"
+    },
+    {
+      "excelColumn": "Edad",
+      "sqlColumn": "edad",
+      "type": "number"
+    },
+    {
+      "excelColumn": "Fecha Nacimiento",
+      "sqlColumn": "fecha_nacimiento",
+      "type": "date"
+    }
+  ]
+} 

@@ -1,0 +1,5603 @@
+UPDATE contracts t
+SET t.`nro` = 5
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA ROSAURA SANCHEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 8
+WHERE LOWER(t.`servicio`) LIKE LOWER('EDITH TIBADUIZA%');
+
+UPDATE contracts t
+SET t.`nro` = 13
+WHERE LOWER(t.`servicio`) LIKE LOWER('DIEGO FERNEY HIGUERA%');
+
+UPDATE contracts t
+SET t.`nro` = 19
+WHERE LOWER(t.`servicio`) LIKE LOWER('MYRYAM JANETH MALAVER%');
+
+UPDATE contracts t
+SET t.`nro` = 21
+WHERE LOWER(t.`servicio`) LIKE LOWER('JUAN FRANCISCO TRUJILLO%');
+
+UPDATE contracts t
+SET t.`nro` = 30
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS ARTURO RODRIGUEZ ESCORCHE%');
+
+UPDATE contracts t
+SET t.`nro` = 37
+WHERE LOWER(t.`servicio`) LIKE LOWER('MIGUEL ANTONIO MARTINEZ AMAYA%');
+
+UPDATE contracts t
+SET t.`nro` = 41
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA MARLEN ADAME ESPEJO%');
+
+UPDATE contracts t
+SET t.`nro` = 46
+WHERE LOWER(t.`servicio`) LIKE LOWER('ELIZABETH SILVA SOTAQUIRA%');
+
+UPDATE contracts t
+SET t.`nro` = 47
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANA ISABEL LOPEZ ADAME%');
+
+UPDATE contracts t
+SET t.`nro` = 72
+WHERE LOWER(t.`servicio`) LIKE LOWER('VIVIANA CAROLINA PEREZ QUINTANA%');
+
+UPDATE contracts t
+SET t.`nro` = 73
+WHERE LOWER(t.`servicio`) LIKE LOWER('JEFFERSON MANRIQUE DOMINGUEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 83
+WHERE LOWER(t.`servicio`) LIKE LOWER('LADY MILENA DIAZ DUEÑAS%');
+
+UPDATE contracts t
+SET t.`nro` = 123
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE GABRIEL NITOLA CAMARGO%');
+
+UPDATE contracts t
+SET t.`nro` = 129
+WHERE LOWER(t.`servicio`) LIKE LOWER('HECTOR JULIAN MANRIQUE%');
+
+UPDATE contracts t
+SET t.`nro` = 132
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANA EDELMIRA PUERTO DE TAMARA%');
+
+UPDATE contracts t
+SET t.`nro` = 133
+WHERE LOWER(t.`servicio`) LIKE LOWER('FRANCISCO MARTINEZ PERALTA%');
+
+UPDATE contracts t
+SET t.`nro` = 141
+WHERE LOWER(t.`servicio`) LIKE LOWER('ZULMA ROCIO VALCARCEL BALLESTEROS%');
+
+UPDATE contracts t
+SET t.`nro` = 150
+WHERE LOWER(t.`servicio`) LIKE LOWER('CLAUDIA PATRICIA MENDIVELSO%');
+
+UPDATE contracts t
+SET t.`nro` = 157
+WHERE LOWER(t.`servicio`) LIKE LOWER('JULIETH ROCIO RIVERA LANCHEROS%');
+
+UPDATE contracts t
+SET t.`nro` = 165
+WHERE LOWER(t.`servicio`) LIKE LOWER('JESSID DANIEL RINCON MARIÑO%');
+
+UPDATE contracts t
+SET t.`nro` = 167
+WHERE LOWER(t.`servicio`) LIKE LOWER('JAIRO PALACIOS GUERRERO%');
+
+UPDATE contracts t
+SET t.`nro` = 195
+WHERE LOWER(t.`servicio`) LIKE LOWER('HILDA AZUCENA CORREA RINCON%');
+
+UPDATE contracts t
+SET t.`nro` = 205
+WHERE LOWER(t.`servicio`) LIKE LOWER('RUBIELA QUIÑONES PARRA%');
+
+UPDATE contracts t
+SET t.`nro` = 207
+WHERE LOWER(t.`servicio`) LIKE LOWER('AURA PATRICIA MEDINA%');
+
+UPDATE contracts t
+SET t.`nro` = 209
+WHERE LOWER(t.`servicio`) LIKE LOWER('JEFFER ANDRES GONZALEZ MONTAÑA%');
+
+UPDATE contracts t
+SET t.`nro` = 212
+WHERE LOWER(t.`servicio`) LIKE LOWER('FILIA ESPERANZA MONTAÑA%');
+
+UPDATE contracts t
+SET t.`nro` = 226
+WHERE LOWER(t.`servicio`) LIKE LOWER('VICTOR RINCON GONZALEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 236
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANDRES ALONSO PINEDA BARRERA%');
+
+UPDATE contracts t
+SET t.`nro` = 237
+WHERE LOWER(t.`servicio`) LIKE LOWER('DEYBI YOLIMA PEDRAZA ROJAS%');
+
+UPDATE contracts t
+SET t.`nro` = 238
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIANA MENDOZA CHACÓN%');
+
+UPDATE contracts t
+SET t.`nro` = 239
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUDY MILENA ESTEPA%');
+
+UPDATE contracts t
+SET t.`nro` = 247
+WHERE LOWER(t.`servicio`) LIKE LOWER('NARCISO GRANADOS CARDENAS%');
+
+UPDATE contracts t
+SET t.`nro` = 251
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS ERNESTO LOPEZ MORENO%');
+
+UPDATE contracts t
+SET t.`nro` = 252
+WHERE LOWER(t.`servicio`) LIKE LOWER('DANIEL ESTIVEN GONZALEZ ALBARRACIN%');
+
+UPDATE contracts t
+SET t.`nro` = 263
+WHERE LOWER(t.`servicio`) LIKE LOWER('NIDIA YOANA SILVA BALLESTEROS%');
+
+UPDATE contracts t
+SET t.`nro` = 264
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANA INES PALACIOS%');
+
+UPDATE contracts t
+SET t.`nro` = 270
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA HERMINIA BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 275
+WHERE LOWER(t.`servicio`) LIKE LOWER('OSCAR JULIO PUERTO GRANADOS%');
+
+UPDATE contracts t
+SET t.`nro` = 284
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIBEL LOPEZ FONSECA%');
+
+UPDATE contracts t
+SET t.`nro` = 287
+WHERE LOWER(t.`servicio`) LIKE LOWER('CARLOS FERNANDO ROJAS RODRIGUEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 291
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANA ROSA VARGAS GOMEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 294
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANDREA MILENA BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 296
+WHERE LOWER(t.`servicio`) LIKE LOWER('ARIEL CACERES MARTINEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 299
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUZ MARINA MARTINEZ BOHORQUEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 300
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS ALFONSO ARAQUE%');
+
+UPDATE contracts t
+SET t.`nro` = 311
+WHERE LOWER(t.`servicio`) LIKE LOWER('ZULY JANETH VARGAS SANCHEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 312
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARCO FIDEL BECERRA SAENZ%');
+
+UPDATE contracts t
+SET t.`nro` = 314
+WHERE LOWER(t.`servicio`) LIKE LOWER('DIANA MARCELA ESTEPA MARQUEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 316
+WHERE LOWER(t.`servicio`) LIKE LOWER('SANDRA MILENA ALBA FLOREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 320
+WHERE LOWER(t.`servicio`) LIKE LOWER('CARLOS ALIRIO PULIDO JIMENEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 322
+WHERE LOWER(t.`servicio`) LIKE LOWER('CLARA MARCELA SUAREZ MENDOZA%');
+
+UPDATE contracts t
+SET t.`nro` = 325
+WHERE LOWER(t.`servicio`) LIKE LOWER('RUBY DANIELA OCHOA MEDINA%');
+
+UPDATE contracts t
+SET t.`nro` = 328
+WHERE LOWER(t.`servicio`) LIKE LOWER('HEVER PINZON SAIZ%');
+
+UPDATE contracts t
+SET t.`nro` = 332
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANGELA SOFIA CORREA%');
+
+UPDATE contracts t
+SET t.`nro` = 335
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANA CELVIRA PAREDES CELY%');
+
+UPDATE contracts t
+SET t.`nro` = 339
+WHERE LOWER(t.`servicio`) LIKE LOWER('FREDY GUILLERMO GUEVARA ESTUPIÑAN%');
+
+UPDATE contracts t
+SET t.`nro` = 353
+WHERE LOWER(t.`servicio`) LIKE LOWER('HOLMAN ANDRES LEON%');
+
+UPDATE contracts t
+SET t.`nro` = 356
+WHERE LOWER(t.`servicio`) LIKE LOWER('LIBARDO GARZON DIAZ%');
+
+UPDATE contracts t
+SET t.`nro` = 361
+WHERE LOWER(t.`servicio`) LIKE LOWER('OMAIRA PITA FONSECA%');
+
+UPDATE contracts t
+SET t.`nro` = 369
+WHERE LOWER(t.`servicio`) LIKE LOWER('MANUEL IGNACIO ALVAREZ CORREDOR%');
+
+UPDATE contracts t
+SET t.`nro` = 372
+WHERE LOWER(t.`servicio`) LIKE LOWER('JUAN CARLOS FRANCO%');
+
+UPDATE contracts t
+SET t.`nro` = 375
+WHERE LOWER(t.`servicio`) LIKE LOWER('MAURICIO OSTOS CUSBA%');
+
+UPDATE contracts t
+SET t.`nro` = 376
+WHERE LOWER(t.`servicio`) LIKE LOWER('TERESA GONZALEZ BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 381
+WHERE LOWER(t.`servicio`) LIKE LOWER('CHRISTOPER ANTHONY HARRIS%');
+
+UPDATE contracts t
+SET t.`nro` = 383
+WHERE LOWER(t.`servicio`) LIKE LOWER('DIANA KARINA GUACANEME GUERRERO%');
+
+UPDATE contracts t
+SET t.`nro` = 394
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARTHA VIVIANA VELANDIA SANTOS%');
+
+UPDATE contracts t
+SET t.`nro` = 395
+WHERE LOWER(t.`servicio`) LIKE LOWER('YAQUELINE BECERRA MARTINEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 403
+WHERE LOWER(t.`servicio`) LIKE LOWER('JUAN GABRIEL MEDINA BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 404
+WHERE LOWER(t.`servicio`) LIKE LOWER('MAGDA ROCIO TEATINO MORALES%');
+
+UPDATE contracts t
+SET t.`nro` = 406
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARTHA CECILIA ACERO NIÑO%');
+
+UPDATE contracts t
+SET t.`nro` = 413
+WHERE LOWER(t.`servicio`) LIKE LOWER('JHON SEBASTIAN MORALES TAMARA%');
+
+UPDATE contracts t
+SET t.`nro` = 414
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANTONIO JOSE PLAZAS CIPAGAUTA%');
+
+UPDATE contracts t
+SET t.`nro` = 421
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE ENRIQUE CAMARGO%');
+
+UPDATE contracts t
+SET t.`nro` = 422
+WHERE LOWER(t.`servicio`) LIKE LOWER('YENNIFER KENNY COVIS ALVAREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 425
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANGELA MAGALY GONZALEZ MENDIVELSO%');
+
+UPDATE contracts t
+SET t.`nro` = 433
+WHERE LOWER(t.`servicio`) LIKE LOWER('EMPERATRIZ ROJAS GONZALEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 435
+WHERE LOWER(t.`servicio`) LIKE LOWER('YUVELY ASTRID ROJAS%');
+
+UPDATE contracts t
+SET t.`nro` = 438
+WHERE LOWER(t.`servicio`) LIKE LOWER('AURA DEL CARMEN HIGUERA AVELLANEDA%');
+
+UPDATE contracts t
+SET t.`nro` = 441
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUCIA BECERRA DE MUÑOZ%');
+
+UPDATE contracts t
+SET t.`nro` = 442
+WHERE LOWER(t.`servicio`) LIKE LOWER('EDNA ROCIO RAMIREZ BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 443
+WHERE LOWER(t.`servicio`) LIKE LOWER('JHON EFRAIN PEÑA CAMARGO%');
+
+UPDATE contracts t
+SET t.`nro` = 447
+WHERE LOWER(t.`servicio`) LIKE LOWER('ALBERTO LEMUS VALENCIA%');
+
+UPDATE contracts t
+SET t.`nro` = 449
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA GUERRERO GONZALEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 450
+WHERE LOWER(t.`servicio`) LIKE LOWER('LEIDY JOHANA FONSECA%');
+
+UPDATE contracts t
+SET t.`nro` = 453
+WHERE LOWER(t.`servicio`) LIKE LOWER('PEDRO JOSE CORREDOR BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 460
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANGELA MAYERLY BARRERA PEREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 466
+WHERE LOWER(t.`servicio`) LIKE LOWER('ALIX AMANDA CABRA PINTO%');
+
+UPDATE contracts t
+SET t.`nro` = 470
+WHERE LOWER(t.`servicio`) LIKE LOWER('YESIKA PAOLA GARIBELLO RIVERA%');
+
+UPDATE contracts t
+SET t.`nro` = 472
+WHERE LOWER(t.`servicio`) LIKE LOWER('LIBARDO CELY CORREA%');
+
+UPDATE contracts t
+SET t.`nro` = 476
+WHERE LOWER(t.`servicio`) LIKE LOWER('GILDARDO PRADA MARTINEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 485
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUZ MARIELA MORALES GUARIN%');
+
+UPDATE contracts t
+SET t.`nro` = 486
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE FRANCISCO BECERRA RAMIREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 490
+WHERE LOWER(t.`servicio`) LIKE LOWER('MAUREN ELIANA PEREZ MORALES%');
+
+UPDATE contracts t
+SET t.`nro` = 492
+WHERE LOWER(t.`servicio`) LIKE LOWER('PAULA ANDREA RANGEL ARDILA%');
+
+UPDATE contracts t
+SET t.`nro` = 494
+WHERE LOWER(t.`servicio`) LIKE LOWER('RAFAEL ANTONIO RIVERA SANABRIA%');
+
+UPDATE contracts t
+SET t.`nro` = 499
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANA MARIA MALAVER%');
+
+UPDATE contracts t
+SET t.`nro` = 506
+WHERE LOWER(t.`servicio`) LIKE LOWER('YUDY ELENA BECERRA CELY%');
+
+UPDATE contracts t
+SET t.`nro` = 510
+WHERE LOWER(t.`servicio`) LIKE LOWER('YAQUELINE GUEVARA VILLAMIL%');
+
+UPDATE contracts t
+SET t.`nro` = 514
+WHERE LOWER(t.`servicio`) LIKE LOWER('LAURA CATALINA RODRIGUEZ MATEUS%');
+
+UPDATE contracts t
+SET t.`nro` = 515
+WHERE LOWER(t.`servicio`) LIKE LOWER('IVAN RAUL FLECHAS MENDOZA%');
+
+UPDATE contracts t
+SET t.`nro` = 519
+WHERE LOWER(t.`servicio`) LIKE LOWER('PATRICIA ALEXANDRA MERCHAN TAMAYO%');
+
+UPDATE contracts t
+SET t.`nro` = 520
+WHERE LOWER(t.`servicio`) LIKE LOWER('EDINSON RAUL MARTINEZ BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 522
+WHERE LOWER(t.`servicio`) LIKE LOWER('LAUREANO BONZA%');
+
+UPDATE contracts t
+SET t.`nro` = 524
+WHERE LOWER(t.`servicio`) LIKE LOWER('SANDRA MIREYA ALVAREZ SUESCUN%');
+
+UPDATE contracts t
+SET t.`nro` = 525
+WHERE LOWER(t.`servicio`) LIKE LOWER('DIANA PATRICIA CARDENAS TORRES%');
+
+UPDATE contracts t
+SET t.`nro` = 526
+WHERE LOWER(t.`servicio`) LIKE LOWER('JORGE GIRALDO%');
+
+UPDATE contracts t
+SET t.`nro` = 534
+WHERE LOWER(t.`servicio`) LIKE LOWER('FABIO MARTINEZ SILVA%');
+
+UPDATE contracts t
+SET t.`nro` = 536
+WHERE LOWER(t.`servicio`) LIKE LOWER('FREDY RAUL BECERRA FONSECA%');
+
+UPDATE contracts t
+SET t.`nro` = 537
+WHERE LOWER(t.`servicio`) LIKE LOWER('SONIA JANNETH RINCON SUESCUN%');
+
+UPDATE contracts t
+SET t.`nro` = 541
+WHERE LOWER(t.`servicio`) LIKE LOWER('JUAN ANDRES BAUTISTA MOLANO%');
+
+UPDATE contracts t
+SET t.`nro` = 543
+WHERE LOWER(t.`servicio`) LIKE LOWER('LINA CAMILA JIMENEZ MARTINEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 545
+WHERE LOWER(t.`servicio`) LIKE LOWER('JAIME ANDRES CUSPOCA ARDILA%');
+
+UPDATE contracts t
+SET t.`nro` = 548
+WHERE LOWER(t.`servicio`) LIKE LOWER('CLARA MIREYA BECERRA DIAZ%');
+
+UPDATE contracts t
+SET t.`nro` = 549
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS RICARDO BECERRA BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 550
+WHERE LOWER(t.`servicio`) LIKE LOWER('JORGE ENRIQUE BECERRA SOSA%');
+
+UPDATE contracts t
+SET t.`nro` = 564
+WHERE LOWER(t.`servicio`) LIKE LOWER('IRMA INES CAMARGO DE LOPEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 569
+WHERE LOWER(t.`servicio`) LIKE LOWER('HERMES YAMIL CARDENAS RAMIREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 575
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA ELENA RODRIGUEZ AGUILAR%');
+
+UPDATE contracts t
+SET t.`nro` = 576
+WHERE LOWER(t.`servicio`) LIKE LOWER('RAUL ERNESTO GARCIA SANCHEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 579
+WHERE LOWER(t.`servicio`) LIKE LOWER('LEIDY JOHANA SANCHEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 581
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE IGNACIO RAMIREZ VALENCIA%');
+
+UPDATE contracts t
+SET t.`nro` = 586
+WHERE LOWER(t.`servicio`) LIKE LOWER('CARLOS MEJIA%');
+
+UPDATE contracts t
+SET t.`nro` = 588
+WHERE LOWER(t.`servicio`) LIKE LOWER('FABIAN OSWALDO FLECHAS MENDOZA%');
+
+UPDATE contracts t
+SET t.`nro` = 590
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA LUCIA AGUILLON RUIZ%');
+
+UPDATE contracts t
+SET t.`nro` = 593
+WHERE LOWER(t.`servicio`) LIKE LOWER('CLARA INES GUTIERREZ SIAUCHO%');
+
+UPDATE contracts t
+SET t.`nro` = 594
+WHERE LOWER(t.`servicio`) LIKE LOWER('GLORIA INES CRISTANCHO TINJACA%');
+
+UPDATE contracts t
+SET t.`nro` = 596
+WHERE LOWER(t.`servicio`) LIKE LOWER('NURY YISED GUEVARA%');
+
+UPDATE contracts t
+SET t.`nro` = 599
+WHERE LOWER(t.`servicio`) LIKE LOWER('DEISSY ALEYDA GUEVARA CAMARGO%');
+
+UPDATE contracts t
+SET t.`nro` = 600
+WHERE LOWER(t.`servicio`) LIKE LOWER('YULIETH CAROLINA CASTRO%');
+
+UPDATE contracts t
+SET t.`nro` = 608
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA RICARDA CAMARGO MALDONADO%');
+
+UPDATE contracts t
+SET t.`nro` = 609
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUZ MERY CORREDOR BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 615
+WHERE LOWER(t.`servicio`) LIKE LOWER('EDWIN ANTONIO BECERRA BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 621
+WHERE LOWER(t.`servicio`) LIKE LOWER('DISNARDA MARTINEZ OSORIO%');
+
+UPDATE contracts t
+SET t.`nro` = 626
+WHERE LOWER(t.`servicio`) LIKE LOWER('CLAUDIA CHAPARRO APONTE%');
+
+UPDATE contracts t
+SET t.`nro` = 628
+WHERE LOWER(t.`servicio`) LIKE LOWER('FANNY ESPERANZA CARDENAS PUERTO%');
+
+UPDATE contracts t
+SET t.`nro` = 630
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE JAIRO RIAÑO MOTA%');
+
+UPDATE contracts t
+SET t.`nro` = 633
+WHERE LOWER(t.`servicio`) LIKE LOWER('GLORIA NIEVES PUERTO PADILLA%');
+
+UPDATE contracts t
+SET t.`nro` = 638
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS ALFONSO PULIDO PULIDO%');
+
+UPDATE contracts t
+SET t.`nro` = 639
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUZ MARINA LOPEZ CAMARGO%');
+
+UPDATE contracts t
+SET t.`nro` = 641
+WHERE LOWER(t.`servicio`) LIKE LOWER('ALCIRA DAZA DE FARIETA%');
+
+UPDATE contracts t
+SET t.`nro` = 646
+WHERE LOWER(t.`servicio`) LIKE LOWER('RAFAEL RICARDO MEDINA DIAZ%');
+
+UPDATE contracts t
+SET t.`nro` = 647
+WHERE LOWER(t.`servicio`) LIKE LOWER('CLAUDIA MIREYA HIGUERA BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 649
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS GUILLERMO CASTILLO CHIVATA%');
+
+UPDATE contracts t
+SET t.`nro` = 658
+WHERE LOWER(t.`servicio`) LIKE LOWER('YANETH VIVIANA MALDONADO%');
+
+UPDATE contracts t
+SET t.`nro` = 663
+WHERE LOWER(t.`servicio`) LIKE LOWER('CARMEN EDILSA PEÑA SANABRIA%');
+
+UPDATE contracts t
+SET t.`nro` = 665
+WHERE LOWER(t.`servicio`) LIKE LOWER('JUAN DE DIOS BUITRAGO%');
+
+UPDATE contracts t
+SET t.`nro` = 666
+WHERE LOWER(t.`servicio`) LIKE LOWER('DIANA MAGDALENA CORTEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 669
+WHERE LOWER(t.`servicio`) LIKE LOWER('NASLY JULIETH POVEDA%');
+
+UPDATE contracts t
+SET t.`nro` = 671
+WHERE LOWER(t.`servicio`) LIKE LOWER('NELSON ORLANDO MARTINEZ ZAMBRANO%');
+
+UPDATE contracts t
+SET t.`nro` = 672
+WHERE LOWER(t.`servicio`) LIKE LOWER('ELIECER HIGUERA AVELLANEDA%');
+
+UPDATE contracts t
+SET t.`nro` = 675
+WHERE LOWER(t.`servicio`) LIKE LOWER('DIANA ROCIO MAYORGA VEGA%');
+
+UPDATE contracts t
+SET t.`nro` = 677
+WHERE LOWER(t.`servicio`) LIKE LOWER('GUSTAVO ADOLFO PUERTO LEGUIZAMÓN%');
+
+UPDATE contracts t
+SET t.`nro` = 678
+WHERE LOWER(t.`servicio`) LIKE LOWER('JORGE ORLANDO PEÑA CAMARGO%');
+
+UPDATE contracts t
+SET t.`nro` = 680
+WHERE LOWER(t.`servicio`) LIKE LOWER('DORA CONSTANZA CANARIA LEON%');
+
+UPDATE contracts t
+SET t.`nro` = 685
+WHERE LOWER(t.`servicio`) LIKE LOWER('LADY VIVIANA PINZON BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 686
+WHERE LOWER(t.`servicio`) LIKE LOWER('EDWIN ORLANDO LEON HERNANDEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 688
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA AZUCENA ROJAS CARVAJAL%');
+
+UPDATE contracts t
+SET t.`nro` = 693
+WHERE LOWER(t.`servicio`) LIKE LOWER('PEDRO ALFONSO MORENO%');
+
+UPDATE contracts t
+SET t.`nro` = 695
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANA ELVIA BURGOS MOLANO%');
+
+UPDATE contracts t
+SET t.`nro` = 698
+WHERE LOWER(t.`servicio`) LIKE LOWER('AGUSTIN CRISTANCHO TINJACA%');
+
+UPDATE contracts t
+SET t.`nro` = 702
+WHERE LOWER(t.`servicio`) LIKE LOWER('LAURA VALENTINA RAMIREZ FAURA%');
+
+UPDATE contracts t
+SET t.`nro` = 705
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA DEL PILAR OROZCO ROJAS%');
+
+UPDATE contracts t
+SET t.`nro` = 710
+WHERE LOWER(t.`servicio`) LIKE LOWER('MEYER EDILSON GONZALEZ HERNANDEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 713
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOLIN ALEXANDER NOVA%');
+
+UPDATE contracts t
+SET t.`nro` = 716
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE VALERIO LARA%');
+
+UPDATE contracts t
+SET t.`nro` = 718
+WHERE LOWER(t.`servicio`) LIKE LOWER('SANDRA LUCÍA PARRA PARRA%');
+
+UPDATE contracts t
+SET t.`nro` = 720
+WHERE LOWER(t.`servicio`) LIKE LOWER('ROSA MYRIAM MEDINA%');
+
+UPDATE contracts t
+SET t.`nro` = 725
+WHERE LOWER(t.`servicio`) LIKE LOWER('GERSON OSWALDO PEÑA%');
+
+UPDATE contracts t
+SET t.`nro` = 726
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIELA RIVERA%');
+
+UPDATE contracts t
+SET t.`nro` = 727
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA SUSANA SUELTA PULIDO%');
+
+UPDATE contracts t
+SET t.`nro` = 728
+WHERE LOWER(t.`servicio`) LIKE LOWER('ROSA MARIA ROBERTO VALDERRAMA%');
+
+UPDATE contracts t
+SET t.`nro` = 735
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA EMILCEN BARRETO MEDINA%');
+
+UPDATE contracts t
+SET t.`nro` = 744
+WHERE LOWER(t.`servicio`) LIKE LOWER('JAIME ALBERTO RIAÑO VILLAMIZAR%');
+
+UPDATE contracts t
+SET t.`nro` = 751
+WHERE LOWER(t.`servicio`) LIKE LOWER('GLADYS SOSA CABRA%');
+
+UPDATE contracts t
+SET t.`nro` = 753
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS EDILBERTO CAMARGO LOPEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 758
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARTHA ROCIO CELY%');
+
+UPDATE contracts t
+SET t.`nro` = 767
+WHERE LOWER(t.`servicio`) LIKE LOWER('ELSA NUBIA LEAL%');
+
+UPDATE contracts t
+SET t.`nro` = 773
+WHERE LOWER(t.`servicio`) LIKE LOWER('NAYIBE AMANDA DIAZ ALARCON%');
+
+UPDATE contracts t
+SET t.`nro` = 774
+WHERE LOWER(t.`servicio`) LIKE LOWER('LEIDY JOHANA CORREDOR NEMPEQUE%');
+
+UPDATE contracts t
+SET t.`nro` = 776
+WHERE LOWER(t.`servicio`) LIKE LOWER('HUGO FERNANDO BARRERA ALVARADO%');
+
+UPDATE contracts t
+SET t.`nro` = 777
+WHERE LOWER(t.`servicio`) LIKE LOWER('FLOR ALBA PEÑA%');
+
+UPDATE contracts t
+SET t.`nro` = 779
+WHERE LOWER(t.`servicio`) LIKE LOWER('LEIDY ROSMERY MOJICA CAMARGO%');
+
+UPDATE contracts t
+SET t.`nro` = 782
+WHERE LOWER(t.`servicio`) LIKE LOWER('ADRIANA MARIA CORREDOR LAGOS%');
+
+UPDATE contracts t
+SET t.`nro` = 787
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANA ISABEL ARIAS CABALLERO%');
+
+UPDATE contracts t
+SET t.`nro` = 788
+WHERE LOWER(t.`servicio`) LIKE LOWER('ROSA ADRIANA CRISTANCHO HIGUERA%');
+
+UPDATE contracts t
+SET t.`nro` = 794
+WHERE LOWER(t.`servicio`) LIKE LOWER('GLORIA ESPERANZA CONTRERAS MEDINA%');
+
+UPDATE contracts t
+SET t.`nro` = 805
+WHERE LOWER(t.`servicio`) LIKE LOWER('VICTOR MANUEL MORENO MORALES%');
+
+UPDATE contracts t
+SET t.`nro` = 808
+WHERE LOWER(t.`servicio`) LIKE LOWER('JEFFERSON DAVID CHAPARRO CAMARGO%');
+
+UPDATE contracts t
+SET t.`nro` = 809
+WHERE LOWER(t.`servicio`) LIKE LOWER('SAUL VALDERRAMA%');
+
+UPDATE contracts t
+SET t.`nro` = 818
+WHERE LOWER(t.`servicio`) LIKE LOWER('CLAUDIA ROCIO RAMIREZ MERCHAN%');
+
+UPDATE contracts t
+SET t.`nro` = 824
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE LUIS CARVAJAL RODRIGUEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 828
+WHERE LOWER(t.`servicio`) LIKE LOWER('LADY JOHANNA SUAREZ CAMARGO%');
+
+UPDATE contracts t
+SET t.`nro` = 829
+WHERE LOWER(t.`servicio`) LIKE LOWER('CARLOS ANDRES RUIZ VALBUENA%');
+
+UPDATE contracts t
+SET t.`nro` = 832
+WHERE LOWER(t.`servicio`) LIKE LOWER('EDITH CAROLINA CANO CAMARGO%');
+
+UPDATE contracts t
+SET t.`nro` = 846
+WHERE LOWER(t.`servicio`) LIKE LOWER('STELLA GARIBELLO CASTIBLANCO%');
+
+UPDATE contracts t
+SET t.`nro` = 848
+WHERE LOWER(t.`servicio`) LIKE LOWER('LADI INES PEREZ SANABRIA%');
+
+UPDATE contracts t
+SET t.`nro` = 849
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANACOR ANGARITA ROJAS%');
+
+UPDATE contracts t
+SET t.`nro` = 850
+WHERE LOWER(t.`servicio`) LIKE LOWER('LYDA MARCELA PEREZ RAMIREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 851
+WHERE LOWER(t.`servicio`) LIKE LOWER('BERTHA LUZ PINEDA AGUDELO%');
+
+UPDATE contracts t
+SET t.`nro` = 853
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANGELA MILENA ARIZA%');
+
+UPDATE contracts t
+SET t.`nro` = 856
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS ALBERTO CORREA%');
+
+UPDATE contracts t
+SET t.`nro` = 863
+WHERE LOWER(t.`servicio`) LIKE LOWER('FANNY ESPERANZA PUENTES LARA%');
+
+UPDATE contracts t
+SET t.`nro` = 864
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA DORIS SANCHEZ HERNANDEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 867
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUZ ESMERALDA FLECHAS CHAPARRO%');
+
+UPDATE contracts t
+SET t.`nro` = 874
+WHERE LOWER(t.`servicio`) LIKE LOWER('JAIME HERNANDO RINCON CORREA%');
+
+UPDATE contracts t
+SET t.`nro` = 875
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA VICTORIA DOTTOR DURAN%');
+
+UPDATE contracts t
+SET t.`nro` = 876
+WHERE LOWER(t.`servicio`) LIKE LOWER('ADRIANA MARIA ZANGUÑA FONSECA%');
+
+UPDATE contracts t
+SET t.`nro` = 877
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARTHA ISABEL LEMUS LOPEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 878
+WHERE LOWER(t.`servicio`) LIKE LOWER('YEISON JOSE VALDERRAMA%');
+
+UPDATE contracts t
+SET t.`nro` = 882
+WHERE LOWER(t.`servicio`) LIKE LOWER('LILIA MARIA CELY DE CHAPARRO%');
+
+UPDATE contracts t
+SET t.`nro` = 883
+WHERE LOWER(t.`servicio`) LIKE LOWER('MYRIAM CUENCA REYES%');
+
+UPDATE contracts t
+SET t.`nro` = 885
+WHERE LOWER(t.`servicio`) LIKE LOWER('DANIEL EDUARDO ESPINOSA%');
+
+UPDATE contracts t
+SET t.`nro` = 886
+WHERE LOWER(t.`servicio`) LIKE LOWER('JORGE ARTURO TORRES%');
+
+UPDATE contracts t
+SET t.`nro` = 890
+WHERE LOWER(t.`servicio`) LIKE LOWER('JHONATAN DAVID FLOREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 891
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARTHA ISABEL BARRERA MEDINA%');
+
+UPDATE contracts t
+SET t.`nro` = 902
+WHERE LOWER(t.`servicio`) LIKE LOWER('FABIAN LEONARDO VARGAS BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 903
+WHERE LOWER(t.`servicio`) LIKE LOWER('CLAUDIA MARCELA PARRA BARRERA%');
+
+UPDATE contracts t
+SET t.`nro` = 906
+WHERE LOWER(t.`servicio`) LIKE LOWER('LEONOR DE JESUS BECERRA SALAMANCA%');
+
+UPDATE contracts t
+SET t.`nro` = 908
+WHERE LOWER(t.`servicio`) LIKE LOWER('INGRID TATIANA RODRIGUEZ BERNAL%');
+
+UPDATE contracts t
+SET t.`nro` = 911
+WHERE LOWER(t.`servicio`) LIKE LOWER('CLAUDIA BECERRA PATARROYO%');
+
+UPDATE contracts t
+SET t.`nro` = 912
+WHERE LOWER(t.`servicio`) LIKE LOWER('ERIKA VANESA BONILLA%');
+
+UPDATE contracts t
+SET t.`nro` = 915
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA CLEOTILDE HIGUERA%');
+
+UPDATE contracts t
+SET t.`nro` = 918
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARITZA JAQUELINE PEÑA ESCAMILLA%');
+
+UPDATE contracts t
+SET t.`nro` = 921
+WHERE LOWER(t.`servicio`) LIKE LOWER('FABIO ERNESTO GIRAL SUAREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 925
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUZ ANGELA OCHOA CONGUTA%');
+
+UPDATE contracts t
+SET t.`nro` = 926
+WHERE LOWER(t.`servicio`) LIKE LOWER('LORENZO JUSTINIANO CARDENAS FLOREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 928
+WHERE LOWER(t.`servicio`) LIKE LOWER('AURA ASTRID CHINOME MEDINA%');
+
+UPDATE contracts t
+SET t.`nro` = 932
+WHERE LOWER(t.`servicio`) LIKE LOWER('ALVARO FABIO GONZALEZ PEREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 933
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUCILA PRADA LEAL%');
+
+UPDATE contracts t
+SET t.`nro` = 939
+WHERE LOWER(t.`servicio`) LIKE LOWER('CARLOS FABIAN BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 941
+WHERE LOWER(t.`servicio`) LIKE LOWER('PAOLA ANDREA MONTOYA MILÁN%');
+
+UPDATE contracts t
+SET t.`nro` = 942
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA ALEXANDRA BENITEZ QUIÑONES%');
+
+UPDATE contracts t
+SET t.`nro` = 956
+WHERE LOWER(t.`servicio`) LIKE LOWER('MAURICIO ALEXANDER CAMARGO%');
+
+UPDATE contracts t
+SET t.`nro` = 957
+WHERE LOWER(t.`servicio`) LIKE LOWER('OLGA CECILIA GOMEZ PAEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 960
+WHERE LOWER(t.`servicio`) LIKE LOWER('MAURICIO GONZALEZ GONZALEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 962
+WHERE LOWER(t.`servicio`) LIKE LOWER('CARLOS DOMINGO BERNAL REYES%');
+
+UPDATE contracts t
+SET t.`nro` = 964
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS ADOLFO AVELLANEDA%');
+
+UPDATE contracts t
+SET t.`nro` = 966
+WHERE LOWER(t.`servicio`) LIKE LOWER('GLORIA CARMENZA TIBADUIZA TORRES%');
+
+UPDATE contracts t
+SET t.`nro` = 967
+WHERE LOWER(t.`servicio`) LIKE LOWER('RIGOBERTO RUBIO LESMES%');
+
+UPDATE contracts t
+SET t.`nro` = 983
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE LIBORIO VALDERRAMA CHAPARRO%');
+
+UPDATE contracts t
+SET t.`nro` = 984
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANDREA JOHANNA RINCÓN SERRATO%');
+
+UPDATE contracts t
+SET t.`nro` = 985
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA CECILIA RUIZ CUSBA%');
+
+UPDATE contracts t
+SET t.`nro` = 1001
+WHERE LOWER(t.`servicio`) LIKE LOWER('ACUEDUCTO REGIONAL SAN GREGORIO%');
+
+UPDATE contracts t
+SET t.`nro` = 1004
+WHERE LOWER(t.`servicio`) LIKE LOWER('ALBA AZUCENA RIVERA%');
+
+UPDATE contracts t
+SET t.`nro` = 1007
+WHERE LOWER(t.`servicio`) LIKE LOWER('ALEXANDRA MORENO CHACON%');
+
+UPDATE contracts t
+SET t.`nro` = 1009
+WHERE LOWER(t.`servicio`) LIKE LOWER('ALVARO CHACON PEREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 1012
+WHERE LOWER(t.`servicio`) LIKE LOWER('ALVARO YECID GALINDO MEJIA%');
+
+UPDATE contracts t
+SET t.`nro` = 1013
+WHERE LOWER(t.`servicio`) LIKE LOWER('AMALIA CARDENAS CANO%');
+
+UPDATE contracts t
+SET t.`nro` = 1018
+WHERE LOWER(t.`servicio`) LIKE LOWER('YEIMY PAOLA ROJAS BAUTISTA%');
+
+UPDATE contracts t
+SET t.`nro` = 1019
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUZ ANGELA TINJACA CARREÑO%');
+
+UPDATE contracts t
+SET t.`nro` = 1020
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANDREA ISABEL MEDINA GUTIERREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 1025
+WHERE LOWER(t.`servicio`) LIKE LOWER('OCTAVIO FORERO%');
+
+UPDATE contracts t
+SET t.`nro` = 1026
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANGEL DOMINGO BECERRA CABRA%');
+
+UPDATE contracts t
+SET t.`nro` = 1028
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANGELICA DURFAY RIVEROS ORTEGA%');
+
+UPDATE contracts t
+SET t.`nro` = 1031
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANGIE KATERINE MOLINA ESTUPIÑAN%');
+
+UPDATE contracts t
+SET t.`nro` = 1032
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANGIE LORENA GIL GONZALEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 1035
+WHERE LOWER(t.`servicio`) LIKE LOWER('AUGUSTO LEONARDO BERDUGO ROJAS%');
+
+UPDATE contracts t
+SET t.`nro` = 1041
+WHERE LOWER(t.`servicio`) LIKE LOWER('BLANCA EDELMIRA MONTAÑA RIAÑO%');
+
+UPDATE contracts t
+SET t.`nro` = 1042
+WHERE LOWER(t.`servicio`) LIKE LOWER('BLANCA NUBIA BECERRA CABRA%');
+
+UPDATE contracts t
+SET t.`nro` = 1049
+WHERE LOWER(t.`servicio`) LIKE LOWER('CARLOS ALBERTO MOYA%');
+
+UPDATE contracts t
+SET t.`nro` = 1050
+WHERE LOWER(t.`servicio`) LIKE LOWER('CARLOS ALBERTO PINEDA VIVAS%');
+
+UPDATE contracts t
+SET t.`nro` = 1051
+WHERE LOWER(t.`servicio`) LIKE LOWER('CARLOS ALBERTO MEDINA PUERTO%');
+
+UPDATE contracts t
+SET t.`nro` = 1052
+WHERE LOWER(t.`servicio`) LIKE LOWER('CAMILO ERNESTO SANTOS NIÑO%');
+
+UPDATE contracts t
+SET t.`nro` = 1053
+WHERE LOWER(t.`servicio`) LIKE LOWER('CARLOS HERNAN PUERTO MOJICA%');
+
+UPDATE contracts t
+SET t.`nro` = 1064
+WHERE LOWER(t.`servicio`) LIKE LOWER('CLARA INES VERDUGO ROJAS%');
+
+UPDATE contracts t
+SET t.`nro` = 1070
+WHERE LOWER(t.`servicio`) LIKE LOWER('CLAUDIA PATRICIA MARTINEZ DIAZ%');
+
+UPDATE contracts t
+SET t.`nro` = 1071
+WHERE LOWER(t.`servicio`) LIKE LOWER('CONSTANZA ROCIO CHINOME PEDRAZA%');
+
+UPDATE contracts t
+SET t.`nro` = 1072
+WHERE LOWER(t.`servicio`) LIKE LOWER('CONSUELO PAIPILLA CAMARGO%');
+
+UPDATE contracts t
+SET t.`nro` = 1075
+WHERE LOWER(t.`servicio`) LIKE LOWER('CRISTIAN DAVID BECERRA HIGUERA%');
+
+UPDATE contracts t
+SET t.`nro` = 1081
+WHERE LOWER(t.`servicio`) LIKE LOWER('DAYANA ALEJANDRA AVENDAÑO CRUZ%');
+
+UPDATE contracts t
+SET t.`nro` = 1082
+WHERE LOWER(t.`servicio`) LIKE LOWER('DEISY ELIZABETH ESTUPINAN CETINA%');
+
+UPDATE contracts t
+SET t.`nro` = 1088
+WHERE LOWER(t.`servicio`) LIKE LOWER('OSCAR HERNANDO GOMEZ PITA%');
+
+UPDATE contracts t
+SET t.`nro` = 1093
+WHERE LOWER(t.`servicio`) LIKE LOWER('DIEGO ALBERTO BONZA DUARTE%');
+
+UPDATE contracts t
+SET t.`nro` = 1095
+WHERE LOWER(t.`servicio`) LIKE LOWER('DIEGO FABIAN NUNCIRA PALACIOS%');
+
+UPDATE contracts t
+SET t.`nro` = 1098
+WHERE LOWER(t.`servicio`) LIKE LOWER('DUVAN ALEJANDRO NAVAS CAMARGO%');
+
+UPDATE contracts t
+SET t.`nro` = 1100
+WHERE LOWER(t.`servicio`) LIKE LOWER('EDGAR DARIO PUERTO MEDINA%');
+
+UPDATE contracts t
+SET t.`nro` = 1101
+WHERE LOWER(t.`servicio`) LIKE LOWER('EDILBERTO NIETO LOPEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 1109
+WHERE LOWER(t.`servicio`) LIKE LOWER('ESPERANZA PATIÑO GRANADOS%');
+
+UPDATE contracts t
+SET t.`nro` = 1110
+WHERE LOWER(t.`servicio`) LIKE LOWER('SANDOVAL%');
+
+UPDATE contracts t
+SET t.`nro` = 1113
+WHERE LOWER(t.`servicio`) LIKE LOWER('EVARISTO ALVARADO DIAZ%');
+
+UPDATE contracts t
+SET t.`nro` = 1115
+WHERE LOWER(t.`servicio`) LIKE LOWER('EVEN NELLY COBOS MARTINEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 1116
+WHERE LOWER(t.`servicio`) LIKE LOWER('EXCELINO MATEUS DIAZ%');
+
+UPDATE contracts t
+SET t.`nro` = 1119
+WHERE LOWER(t.`servicio`) LIKE LOWER('FABIO ENRIQUE NIÑO%');
+
+UPDATE contracts t
+SET t.`nro` = 1121
+WHERE LOWER(t.`servicio`) LIKE LOWER('FABIOLA COMBITA TORRES%');
+
+UPDATE contracts t
+SET t.`nro` = 1126
+WHERE LOWER(t.`servicio`) LIKE LOWER('FERNANDO TORRES ACOSTA%');
+
+UPDATE contracts t
+SET t.`nro` = 1127
+WHERE LOWER(t.`servicio`) LIKE LOWER('FLAMINIO LARA MELO%');
+
+UPDATE contracts t
+SET t.`nro` = 1129
+WHERE LOWER(t.`servicio`) LIKE LOWER('FLOR ALBA MORALES GUARIN%');
+
+UPDATE contracts t
+SET t.`nro` = 1136
+WHERE LOWER(t.`servicio`) LIKE LOWER('FREDDY OSWALDO MARTINEZ PEDRAZA%');
+
+UPDATE contracts t
+SET t.`nro` = 1138
+WHERE LOWER(t.`servicio`) LIKE LOWER('GERMAN ALFONSO GUIO PUERTO%');
+
+UPDATE contracts t
+SET t.`nro` = 1139
+WHERE LOWER(t.`servicio`) LIKE LOWER('GILBERTO PIZA REINA%');
+
+UPDATE contracts t
+SET t.`nro` = 1140
+WHERE LOWER(t.`servicio`) LIKE LOWER('GINA PAOLA MONOSALVA ALVAREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 1144
+WHERE LOWER(t.`servicio`) LIKE LOWER('GLORIA MILENA BEDOYA JIMENEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 1146
+WHERE LOWER(t.`servicio`) LIKE LOWER('GUILLERMO PLAZAS ROSAS%');
+
+UPDATE contracts t
+SET t.`nro` = 1150
+WHERE LOWER(t.`servicio`) LIKE LOWER('HECTOR GARCIA LOPEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 1151
+WHERE LOWER(t.`servicio`) LIKE LOWER('HECTOR GABRIEL PARRA BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 1159
+WHERE LOWER(t.`servicio`) LIKE LOWER('HILPERT EDUARDO SANABRIA LARA%');
+
+UPDATE contracts t
+SET t.`nro` = 1161
+WHERE LOWER(t.`servicio`) LIKE LOWER('JAIME ALFONSO GARAVITO ARENAS%');
+
+UPDATE contracts t
+SET t.`nro` = 1165
+WHERE LOWER(t.`servicio`) LIKE LOWER('JAIRO ALIRIO CARDENAS PUERTO%');
+
+UPDATE contracts t
+SET t.`nro` = 1168
+WHERE LOWER(t.`servicio`) LIKE LOWER('JAQUELINE ESPEJO SANCHEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 1170
+WHERE LOWER(t.`servicio`) LIKE LOWER('JAVIER ANTONIO CORREA CORREDOR%');
+
+UPDATE contracts t
+SET t.`nro` = 1171
+WHERE LOWER(t.`servicio`) LIKE LOWER('JAVIER ORLANDO TORRES VASQUEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 1175
+WHERE LOWER(t.`servicio`) LIKE LOWER('JESSICA ANDREA SANCHEZ CASTAÑEDA%');
+
+UPDATE contracts t
+SET t.`nro` = 1177
+WHERE LOWER(t.`servicio`) LIKE LOWER('OSCAR ANTONIO DAZA%');
+
+UPDATE contracts t
+SET t.`nro` = 1178
+WHERE LOWER(t.`servicio`) LIKE LOWER('JINNA VANEZA BECERRA HIGUERA%');
+
+UPDATE contracts t
+SET t.`nro` = 1179
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOHANA SMITH BECERRA ROJAS%');
+
+UPDATE contracts t
+SET t.`nro` = 1180
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOHANNA GOMEZ TAMARA%');
+
+UPDATE contracts t
+SET t.`nro` = 1183
+WHERE LOWER(t.`servicio`) LIKE LOWER('JORGE FABIAN MANCIPE GARCIA%');
+
+UPDATE contracts t
+SET t.`nro` = 1186
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE ALFONSO AVENDAÑO BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 1188
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE EISENOVER CELY ROJAS%');
+
+UPDATE contracts t
+SET t.`nro` = 1197
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIELA CUERVO MORALES%');
+
+UPDATE contracts t
+SET t.`nro` = 1198
+WHERE LOWER(t.`servicio`) LIKE LOWER('JUAN CARLOS MORA%');
+
+UPDATE contracts t
+SET t.`nro` = 1199
+WHERE LOWER(t.`servicio`) LIKE LOWER('JAIRO CESAR BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 1205
+WHERE LOWER(t.`servicio`) LIKE LOWER('JULIAN ANDRES SANDOVAL ROJAS%');
+
+UPDATE contracts t
+SET t.`nro` = 1206
+WHERE LOWER(t.`servicio`) LIKE LOWER('JULIET PAULINA IGLESIAS CONRADO%');
+
+UPDATE contracts t
+SET t.`nro` = 1222
+WHERE LOWER(t.`servicio`) LIKE LOWER('LEIDY MIREYA BECERRA REYES%');
+
+UPDATE contracts t
+SET t.`nro` = 1223
+WHERE LOWER(t.`servicio`) LIKE LOWER('LIBARDO BAUTISTA BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 1224
+WHERE LOWER(t.`servicio`) LIKE LOWER('LIDIA ROSMERY TAMAYO PINEDA%');
+
+UPDATE contracts t
+SET t.`nro` = 1226
+WHERE LOWER(t.`servicio`) LIKE LOWER('LINA FERNANDA BECERRA CAMARGO%');
+
+UPDATE contracts t
+SET t.`nro` = 1228
+WHERE LOWER(t.`servicio`) LIKE LOWER('LISETH MARCELLA CHAPARRO HIGUERA%');
+
+UPDATE contracts t
+SET t.`nro` = 1229
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUCELLY DEL SOCORRO JARAMILLO GONZALEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 1230
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUCIO DE JESUS GUIO SANTAMARIA%');
+
+UPDATE contracts t
+SET t.`nro` = 1233
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS CARLOS RODRIGUEZ ESPINOSA%');
+
+UPDATE contracts t
+SET t.`nro` = 1241
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS LEOPOLDO BERDUGO ROJAS%');
+
+UPDATE contracts t
+SET t.`nro` = 1242
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS ORLANDO ORJUELA BARRETO%');
+
+UPDATE contracts t
+SET t.`nro` = 1248
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUZ EDITH TORRES GARCIA%');
+
+UPDATE contracts t
+SET t.`nro` = 1253
+WHERE LOWER(t.`servicio`) LIKE LOWER('MAIRA ALEJANDRA GUERRERO%');
+
+UPDATE contracts t
+SET t.`nro` = 1254
+WHERE LOWER(t.`servicio`) LIKE LOWER('NEPOMUCENO GOMEZ RAMIREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 1256
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARCOS JACKSON DURAN ORTIZ%');
+
+UPDATE contracts t
+SET t.`nro` = 1258
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA ALEJANDRA REYES CRUZ%');
+
+UPDATE contracts t
+SET t.`nro` = 1262
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA AZUCENA MAYORGA SOLIS%');
+
+UPDATE contracts t
+SET t.`nro` = 1264
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA CRISTINA PINZON VELANDIA%');
+
+UPDATE contracts t
+SET t.`nro` = 1275
+WHERE LOWER(t.`servicio`) LIKE LOWER('NORA AVENDAÑO BRICEÑO%');
+
+UPDATE contracts t
+SET t.`nro` = 1276
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA JENITH MOJICA DE SALAMANCA%');
+
+UPDATE contracts t
+SET t.`nro` = 1280
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA TERESA RUBIANO RUIZ%');
+
+UPDATE contracts t
+SET t.`nro` = 1281
+WHERE LOWER(t.`servicio`) LIKE LOWER('ERIKA XIMENA TIRIA TAMARA%');
+
+UPDATE contracts t
+SET t.`nro` = 1283
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIO PEÑA CAMARGO%');
+
+UPDATE contracts t
+SET t.`nro` = 1288
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARBY RUBIELA BARRETO CAMARGO%');
+
+UPDATE contracts t
+SET t.`nro` = 1292
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARTHA FABIOLA MANRIQUE TORRES%');
+
+UPDATE contracts t
+SET t.`nro` = 1293
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARTHA HELENA MONROY CASTRO%');
+
+UPDATE contracts t
+SET t.`nro` = 1294
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARTHA INES CORREA RINCON%');
+
+UPDATE contracts t
+SET t.`nro` = 1295
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARTHA ISABEL CAMARGO RODRIGUEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 1307
+WHERE LOWER(t.`servicio`) LIKE LOWER('MIGUEL ANGEL FONSECA MADERO%');
+
+UPDATE contracts t
+SET t.`nro` = 1308
+WHERE LOWER(t.`servicio`) LIKE LOWER('MIGUEL ANGEL RUIZ PEÑA%');
+
+UPDATE contracts t
+SET t.`nro` = 1309
+WHERE LOWER(t.`servicio`) LIKE LOWER('MIREYA GOMEZ FONSECA%');
+
+UPDATE contracts t
+SET t.`nro` = 1313
+WHERE LOWER(t.`servicio`) LIKE LOWER('NANCY YAMILE SOSA%');
+
+UPDATE contracts t
+SET t.`nro` = 1314
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANA ROSALBA PEREZ ALFONSO%');
+
+UPDATE contracts t
+SET t.`nro` = 1318
+WHERE LOWER(t.`servicio`) LIKE LOWER('NELSON EDUARDO CORREDOR%');
+
+UPDATE contracts t
+SET t.`nro` = 1322
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARCO ANTONIO ROA MARTINEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 1323
+WHERE LOWER(t.`servicio`) LIKE LOWER('NIDIA DEL PILAR GARCIA LEMUS%');
+
+UPDATE contracts t
+SET t.`nro` = 1324
+WHERE LOWER(t.`servicio`) LIKE LOWER('NUBIA ESPERANZA RAMIREZ CUSPOCA%');
+
+UPDATE contracts t
+SET t.`nro` = 1326
+WHERE LOWER(t.`servicio`) LIKE LOWER('NOHORA ASTRID CAMACHO PUERTO%');
+
+UPDATE contracts t
+SET t.`nro` = 1335
+WHERE LOWER(t.`servicio`) LIKE LOWER('OLGA SUSANA CEPEDA HIGUERA%');
+
+UPDATE contracts t
+SET t.`nro` = 1339
+WHERE LOWER(t.`servicio`) LIKE LOWER('OSCAR AUGUSTO LADINO LADINO%');
+
+UPDATE contracts t
+SET t.`nro` = 1340
+WHERE LOWER(t.`servicio`) LIKE LOWER('OSCAR GIOVANNY VALDERRAMA OBREGON%');
+
+UPDATE contracts t
+SET t.`nro` = 1341
+WHERE LOWER(t.`servicio`) LIKE LOWER('OTONIEL CUTA MANOSALVA%');
+
+UPDATE contracts t
+SET t.`nro` = 1342
+WHERE LOWER(t.`servicio`) LIKE LOWER('PABLO SUELTA PULIDO%');
+
+UPDATE contracts t
+SET t.`nro` = 1343
+WHERE LOWER(t.`servicio`) LIKE LOWER('PABLO EMILIO MATEUS CONTRERAS%');
+
+UPDATE contracts t
+SET t.`nro` = 1345
+WHERE LOWER(t.`servicio`) LIKE LOWER('PEDRO GIOVANNI PLAZAS AGUILAR%');
+
+UPDATE contracts t
+SET t.`nro` = 1347
+WHERE LOWER(t.`servicio`) LIKE LOWER('PILAR ADRIANA SOLANO SEGURA%');
+
+UPDATE contracts t
+SET t.`nro` = 1351
+WHERE LOWER(t.`servicio`) LIKE LOWER('ROBINSON ENRIQUE CARDENAS GUERRERO%');
+
+UPDATE contracts t
+SET t.`nro` = 1353
+WHERE LOWER(t.`servicio`) LIKE LOWER('RODOLFO CORREDOR CAMARGO%');
+
+UPDATE contracts t
+SET t.`nro` = 1355
+WHERE LOWER(t.`servicio`) LIKE LOWER('ROSA MARIA DIAZ CORREDOR%');
+
+UPDATE contracts t
+SET t.`nro` = 1358
+WHERE LOWER(t.`servicio`) LIKE LOWER('RUBIELA LARA BUITRAGO%');
+
+UPDATE contracts t
+SET t.`nro` = 1360
+WHERE LOWER(t.`servicio`) LIKE LOWER('RUTH FABIOLA GRANADOS CAMARGO%');
+
+UPDATE contracts t
+SET t.`nro` = 1361
+WHERE LOWER(t.`servicio`) LIKE LOWER('RUTH MATILDE PINTO CORREA%');
+
+UPDATE contracts t
+SET t.`nro` = 1365
+WHERE LOWER(t.`servicio`) LIKE LOWER('SANDRA MILENA CABRA GOMEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 1366
+WHERE LOWER(t.`servicio`) LIKE LOWER('SANTIAGO PINTO%');
+
+UPDATE contracts t
+SET t.`nro` = 1367
+WHERE LOWER(t.`servicio`) LIKE LOWER('SAUL ADRIAN FLOREZ NIÑO%');
+
+UPDATE contracts t
+SET t.`nro` = 1370
+WHERE LOWER(t.`servicio`) LIKE LOWER('SILVIA BENITEZ DURAN%');
+
+UPDATE contracts t
+SET t.`nro` = 1372
+WHERE LOWER(t.`servicio`) LIKE LOWER('SOFIA MARGARITA PALACIOS TOVAR%');
+
+UPDATE contracts t
+SET t.`nro` = 1374
+WHERE LOWER(t.`servicio`) LIKE LOWER('TATIANA ALEJANDRA RINCON%');
+
+UPDATE contracts t
+SET t.`nro` = 1375
+WHERE LOWER(t.`servicio`) LIKE LOWER('TERESA CAMARGO CAMARGO%');
+
+UPDATE contracts t
+SET t.`nro` = 1377
+WHERE LOWER(t.`servicio`) LIKE LOWER('MIGUEL ANGEL CASTILLO SIERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 1380
+WHERE LOWER(t.`servicio`) LIKE LOWER('VICTOR MANUEL RAMIREZ GAMBA%');
+
+UPDATE contracts t
+SET t.`nro` = 1383
+WHERE LOWER(t.`servicio`) LIKE LOWER('VIVIANA CAROLINA ARIAS ALAPE%');
+
+UPDATE contracts t
+SET t.`nro` = 1387
+WHERE LOWER(t.`servicio`) LIKE LOWER('WILMAR JOSE AMEZQUITA MEDINA%');
+
+UPDATE contracts t
+SET t.`nro` = 1388
+WHERE LOWER(t.`servicio`) LIKE LOWER('WILSON MEDINA PUERTO%');
+
+UPDATE contracts t
+SET t.`nro` = 1396
+WHERE LOWER(t.`servicio`) LIKE LOWER('YHOMARA BEDOYA JIMENEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 1397
+WHERE LOWER(t.`servicio`) LIKE LOWER('YOLANDA ALVAREZ PITA%');
+
+UPDATE contracts t
+SET t.`nro` = 1402
+WHERE LOWER(t.`servicio`) LIKE LOWER('YURGEN DIAZ CELYS%');
+
+UPDATE contracts t
+SET t.`nro` = 1403
+WHERE LOWER(t.`servicio`) LIKE LOWER('ZENAIDA GARCIA LOPEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 1406
+WHERE LOWER(t.`servicio`) LIKE LOWER('ALIDA ESPERANZA BERDUGO ANGARITA%');
+
+UPDATE contracts t
+SET t.`nro` = 1413
+WHERE LOWER(t.`servicio`) LIKE LOWER('NIDIA MILENA JUNCO VARGAS%');
+
+UPDATE contracts t
+SET t.`nro` = 2004
+WHERE LOWER(t.`servicio`) LIKE LOWER('MONICA CHIQUILLO%');
+
+UPDATE contracts t
+SET t.`nro` = 2005
+WHERE LOWER(t.`servicio`) LIKE LOWER('EMILIA ALVARADO CAMARGO%');
+
+UPDATE contracts t
+SET t.`nro` = 2012
+WHERE LOWER(t.`servicio`) LIKE LOWER('DORIS BARRERA PLAZAS%');
+
+UPDATE contracts t
+SET t.`nro` = 2013
+WHERE LOWER(t.`servicio`) LIKE LOWER('BLANCA NUBIA TORRES PEDREROS%');
+
+UPDATE contracts t
+SET t.`nro` = 2018
+WHERE LOWER(t.`servicio`) LIKE LOWER('STELLA ORTIZ SEGOVIA%');
+
+UPDATE contracts t
+SET t.`nro` = 2019
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUZ ANGELA CARREÑO TINJACA%');
+
+UPDATE contracts t
+SET t.`nro` = 2024
+WHERE LOWER(t.`servicio`) LIKE LOWER('CLEMENCIA SERRANO%');
+
+UPDATE contracts t
+SET t.`nro` = 2025
+WHERE LOWER(t.`servicio`) LIKE LOWER('ARGENIS RAQUEL CHACON NIÑO%');
+
+UPDATE contracts t
+SET t.`nro` = 2026
+WHERE LOWER(t.`servicio`) LIKE LOWER('YAZMIN IBAÑEZ CASTRO%');
+
+UPDATE contracts t
+SET t.`nro` = 2027
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSELYN VEGA CERÓN%');
+
+UPDATE contracts t
+SET t.`nro` = 2029
+WHERE LOWER(t.`servicio`) LIKE LOWER('GUILLERMO ANTONIO NITOLA SANCHEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 2035
+WHERE LOWER(t.`servicio`) LIKE LOWER('RAMON HERNANDO ganador tv GRANADOS%');
+
+UPDATE contracts t
+SET t.`nro` = 2036
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE PATROCINIO FRANCO DELGADO%');
+
+UPDATE contracts t
+SET t.`nro` = 2038
+WHERE LOWER(t.`servicio`) LIKE LOWER('JAIRO  OMAR CHAPARRO%');
+
+UPDATE contracts t
+SET t.`nro` = 2041
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARLENY MACHUCA GONZALEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 2045
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS MARIO VEGA BRIJALDO%');
+
+UPDATE contracts t
+SET t.`nro` = 2047
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARTHA LEONOR PULIDO MEDINA%');
+
+UPDATE contracts t
+SET t.`nro` = 2049
+WHERE LOWER(t.`servicio`) LIKE LOWER('EDWIN YOVANI CORREDOR BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 2051
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE EDGARDO TORRES TORRES%');
+
+UPDATE contracts t
+SET t.`nro` = 2052
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARILU AVENDAÑO AVENDAÑO%');
+
+UPDATE contracts t
+SET t.`nro` = 2055
+WHERE LOWER(t.`servicio`) LIKE LOWER('JUAN CARLOS BERDUGO CASTRO%');
+
+UPDATE contracts t
+SET t.`nro` = 2061
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA LIGIA LOPEZ GRANADOS%');
+
+UPDATE contracts t
+SET t.`nro` = 2066
+WHERE LOWER(t.`servicio`) LIKE LOWER('HOGAR GERIATRICO TUNDAMA%');
+
+UPDATE contracts t
+SET t.`nro` = 2067
+WHERE LOWER(t.`servicio`) LIKE LOWER('SERGIO ARMANDO BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 2072
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOHANA ANDREA VIVAS LOPEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 2077
+WHERE LOWER(t.`servicio`) LIKE LOWER('JAIRO SAUL VILLAMIL CACHAY%');
+
+UPDATE contracts t
+SET t.`nro` = 2082
+WHERE LOWER(t.`servicio`) LIKE LOWER('JHON ALEJANDRO MUÑOZ URREA%');
+
+UPDATE contracts t
+SET t.`nro` = 2083
+WHERE LOWER(t.`servicio`) LIKE LOWER('CLAUDIA MARIA CUCANCHON ESPINOSA%');
+
+UPDATE contracts t
+SET t.`nro` = 2088
+WHERE LOWER(t.`servicio`) LIKE LOWER('CARLOS FRANCISCO BERNAL GUIO%');
+
+UPDATE contracts t
+SET t.`nro` = 2090
+WHERE LOWER(t.`servicio`) LIKE LOWER('OMAR YESID ARAQUE MARTINEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 2106
+WHERE LOWER(t.`servicio`) LIKE LOWER('YEIMY ALEXANDRA ALBARRACIN%');
+
+UPDATE contracts t
+SET t.`nro` = 2111
+WHERE LOWER(t.`servicio`) LIKE LOWER('DANIEL SEPULVEDA ANGARITA%');
+
+UPDATE contracts t
+SET t.`nro` = 2117
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA TERESA ESTUPIÑAN%');
+
+UPDATE contracts t
+SET t.`nro` = 2118
+WHERE LOWER(t.`servicio`) LIKE LOWER('EDILMA PUERTO%');
+
+UPDATE contracts t
+SET t.`nro` = 2124
+WHERE LOWER(t.`servicio`) LIKE LOWER('RICARDO SIERRA CHAPARRO%');
+
+UPDATE contracts t
+SET t.`nro` = 2126
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUZ MARINA TABACO%');
+
+UPDATE contracts t
+SET t.`nro` = 2137
+WHERE LOWER(t.`servicio`) LIKE LOWER('WILLINTON JAVIER VARGAS HIGUERA%');
+
+UPDATE contracts t
+SET t.`nro` = 2139
+WHERE LOWER(t.`servicio`) LIKE LOWER('EMELDA GARCIA DIAZ%');
+
+UPDATE contracts t
+SET t.`nro` = 2140
+WHERE LOWER(t.`servicio`) LIKE LOWER('GLADYS ELVIRA CARDENAS GUALTEROS%');
+
+UPDATE contracts t
+SET t.`nro` = 2141
+WHERE LOWER(t.`servicio`) LIKE LOWER('LYDA MARCELA PEREZ RAMIREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 2142
+WHERE LOWER(t.`servicio`) LIKE LOWER('JAIRO CORREDOR BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 2145
+WHERE LOWER(t.`servicio`) LIKE LOWER('ALVARO JAIME ALVAREZ ALVARADO%');
+
+UPDATE contracts t
+SET t.`nro` = 2149
+WHERE LOWER(t.`servicio`) LIKE LOWER('JHON MANUEL GONZALEZ BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 2150
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE NORBERTO ALVAREZ GOMEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 2159
+WHERE LOWER(t.`servicio`) LIKE LOWER('MAURICIO SUAREZ NIÑO%');
+
+UPDATE contracts t
+SET t.`nro` = 2169
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE ALBERTO GUARIN GUATIBONZA%');
+
+UPDATE contracts t
+SET t.`nro` = 2177
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS ANGEL BUITRAGO SANTAMARIA%');
+
+UPDATE contracts t
+SET t.`nro` = 2180
+WHERE LOWER(t.`servicio`) LIKE LOWER('GABRIEL HUMBERTO PULIDO MEDINA%');
+
+UPDATE contracts t
+SET t.`nro` = 2186
+WHERE LOWER(t.`servicio`) LIKE LOWER('CRISTIAN ALEXANDER ROJAS SANCHEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 2188
+WHERE LOWER(t.`servicio`) LIKE LOWER('ALVARO ACERO AMAYA%');
+
+UPDATE contracts t
+SET t.`nro` = 2190
+WHERE LOWER(t.`servicio`) LIKE LOWER('HENRY DANIEL BECERRRA BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 2197
+WHERE LOWER(t.`servicio`) LIKE LOWER('MIREYA SOCORRO CARDENAS RAMIREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 2206
+WHERE LOWER(t.`servicio`) LIKE LOWER('GHEYSON ANDRES SANABRIA HERRERA%');
+
+UPDATE contracts t
+SET t.`nro` = 2215
+WHERE LOWER(t.`servicio`) LIKE LOWER('SANDRA MILENA BECERRA GARCIA%');
+
+UPDATE contracts t
+SET t.`nro` = 2218
+WHERE LOWER(t.`servicio`) LIKE LOWER('SHARID SIRLEY MENDOZA%');
+
+UPDATE contracts t
+SET t.`nro` = 2220
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOHN GUILLERMO DIAZ SAAVEDRA%');
+
+UPDATE contracts t
+SET t.`nro` = 2222
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANDREA LUZ DARY PANQUEVA HERNANDEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 2230
+WHERE LOWER(t.`servicio`) LIKE LOWER('ROSA ADELIA PUERTO%');
+
+UPDATE contracts t
+SET t.`nro` = 2233
+WHERE LOWER(t.`servicio`) LIKE LOWER('TERESA LIMAS%');
+
+UPDATE contracts t
+SET t.`nro` = 2240
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS IGNACIO SOLER ACERO%');
+
+UPDATE contracts t
+SET t.`nro` = 2245
+WHERE LOWER(t.`servicio`) LIKE LOWER('LEIDY TATIANA GRANADOS%');
+
+UPDATE contracts t
+SET t.`nro` = 2250
+WHERE LOWER(t.`servicio`) LIKE LOWER('NANCY SOFIA GOMEZ TAMAYO%');
+
+UPDATE contracts t
+SET t.`nro` = 2255
+WHERE LOWER(t.`servicio`) LIKE LOWER('RUTH LILIANA GUAYACAN YANQUEN%');
+
+UPDATE contracts t
+SET t.`nro` = 2256
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA SUSANA SUELTA PULIDO%');
+
+UPDATE contracts t
+SET t.`nro` = 2259
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANYELA RUBIELA NIÑO SANCHEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 2262
+WHERE LOWER(t.`servicio`) LIKE LOWER('DOLORES EMILIA MONTOYA%');
+
+UPDATE contracts t
+SET t.`nro` = 2265
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANA MILENA GARCIA CACERES%');
+
+UPDATE contracts t
+SET t.`nro` = 2269
+WHERE LOWER(t.`servicio`) LIKE LOWER('BARONIO BARRERA NIÑO%');
+
+UPDATE contracts t
+SET t.`nro` = 2273
+WHERE LOWER(t.`servicio`) LIKE LOWER('TATIANA PAOLA BOADA SANTACOLMA%');
+
+UPDATE contracts t
+SET t.`nro` = 2278
+WHERE LOWER(t.`servicio`) LIKE LOWER('JAIME ALCANTAR PEREZ MUNEVAR%');
+
+UPDATE contracts t
+SET t.`nro` = 2279
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUZ MERY CABRA SANCHEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 2280
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA LIGIA ALBARRACIN GOMEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 2281
+WHERE LOWER(t.`servicio`) LIKE LOWER('ADRIANA PATRICIA ESPITIA CARDENAS%');
+
+UPDATE contracts t
+SET t.`nro` = 2288
+WHERE LOWER(t.`servicio`) LIKE LOWER('YAMILE CATERINE CHINOME PEREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 2289
+WHERE LOWER(t.`servicio`) LIKE LOWER('CARLOS JULIAN BAUTISTA GONZALEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 2295
+WHERE LOWER(t.`servicio`) LIKE LOWER('PABLO RAMON GUARIN TORRES%');
+
+UPDATE contracts t
+SET t.`nro` = 2305
+WHERE LOWER(t.`servicio`) LIKE LOWER('ZULMA JOHANNA ACERO ROMERO%');
+
+UPDATE contracts t
+SET t.`nro` = 2309
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA ADELA AGUILAR BARRERA%');
+
+UPDATE contracts t
+SET t.`nro` = 2310
+WHERE LOWER(t.`servicio`) LIKE LOWER('MERCEDES BECERRA DE RAMIREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 2312
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANA CAROLINA RINCON TOBARIA%');
+
+UPDATE contracts t
+SET t.`nro` = 2316
+WHERE LOWER(t.`servicio`) LIKE LOWER('SERGIO ANDRES VALDERRAMA FLOREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 2319
+WHERE LOWER(t.`servicio`) LIKE LOWER('MANUEL ALEJANDRO VELANDIA PELAYO%');
+
+UPDATE contracts t
+SET t.`nro` = 2321
+WHERE LOWER(t.`servicio`) LIKE LOWER('JENNY DEL PILAR MARTINEZ GONZALEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 2326
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS CARLOS MENDEZ FANDIÑO%');
+
+UPDATE contracts t
+SET t.`nro` = 2327
+WHERE LOWER(t.`servicio`) LIKE LOWER('JIMENA NATALY BECERRA PEDRAZA%');
+
+UPDATE contracts t
+SET t.`nro` = 2330
+WHERE LOWER(t.`servicio`) LIKE LOWER('GLORIA ELENA MORENO MORALES%');
+
+UPDATE contracts t
+SET t.`nro` = 2332
+WHERE LOWER(t.`servicio`) LIKE LOWER('RICARDO ALONSO MARTINEZ HIGUERA%');
+
+UPDATE contracts t
+SET t.`nro` = 2337
+WHERE LOWER(t.`servicio`) LIKE LOWER('ELIANA ROCIO PUERTO CELY%');
+
+UPDATE contracts t
+SET t.`nro` = 2343
+WHERE LOWER(t.`servicio`) LIKE LOWER('FRANKLIN OJEDA%');
+
+UPDATE contracts t
+SET t.`nro` = 2344
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUZ ANGELA BECERRA HIGUERA%');
+
+UPDATE contracts t
+SET t.`nro` = 2347
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUZ MARINA BARRERA SIAUCHO%');
+
+UPDATE contracts t
+SET t.`nro` = 2350
+WHERE LOWER(t.`servicio`) LIKE LOWER('SANDRA MILENA PEDRAZA ORTIZ%');
+
+UPDATE contracts t
+SET t.`nro` = 2352
+WHERE LOWER(t.`servicio`) LIKE LOWER('NYDIA JOHANNA GUAJE BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 2353
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA EVELIA NIÑO%');
+
+UPDATE contracts t
+SET t.`nro` = 2354
+WHERE LOWER(t.`servicio`) LIKE LOWER('ETELBINA GOMEZ GONZALEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 2355
+WHERE LOWER(t.`servicio`) LIKE LOWER('ALIX MAYERLY GONZALEZ VELANDIA%');
+
+UPDATE contracts t
+SET t.`nro` = 2358
+WHERE LOWER(t.`servicio`) LIKE LOWER('CESAR EDUARDO GONZALEZ VELANDIA%');
+
+UPDATE contracts t
+SET t.`nro` = 2359
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE GREGORIO BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 2360
+WHERE LOWER(t.`servicio`) LIKE LOWER('GLORIA MARLEN VARGAS JOYA%');
+
+UPDATE contracts t
+SET t.`nro` = 2361
+WHERE LOWER(t.`servicio`) LIKE LOWER('LEYDY KARINA COIRAN OVIEDO%');
+
+UPDATE contracts t
+SET t.`nro` = 2368
+WHERE LOWER(t.`servicio`) LIKE LOWER('VICTOR JULIO BECERRA CAMARGO%');
+
+UPDATE contracts t
+SET t.`nro` = 2371
+WHERE LOWER(t.`servicio`) LIKE LOWER('YENNY LORENA PIRAZAN ESTUPIÑAN%');
+
+UPDATE contracts t
+SET t.`nro` = 2372
+WHERE LOWER(t.`servicio`) LIKE LOWER('DAYANA ASTRID NIÑO PAIPILLA%');
+
+UPDATE contracts t
+SET t.`nro` = 2374
+WHERE LOWER(t.`servicio`) LIKE LOWER('JORGE ELIECER PAIPILLA PEDRAZA%');
+
+UPDATE contracts t
+SET t.`nro` = 2381
+WHERE LOWER(t.`servicio`) LIKE LOWER('DIANA CAROLINA MARTINEZ VARGAS%');
+
+UPDATE contracts t
+SET t.`nro` = 2384
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUZ MARIA LEAL SILVA%');
+
+UPDATE contracts t
+SET t.`nro` = 2385
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA DEL CARMEN MANOSALVA%');
+
+UPDATE contracts t
+SET t.`nro` = 2391
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUZ NAYIBE HASTAMORIR FONSECA%');
+
+UPDATE contracts t
+SET t.`nro` = 2393
+WHERE LOWER(t.`servicio`) LIKE LOWER('PAOLA ANDREA RODRIGUEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 2396
+WHERE LOWER(t.`servicio`) LIKE LOWER('RUBEN DARIO VARGAS%');
+
+UPDATE contracts t
+SET t.`nro` = 2404
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANGELA PATRICIA JOYA PINZON%');
+
+UPDATE contracts t
+SET t.`nro` = 2406
+WHERE LOWER(t.`servicio`) LIKE LOWER('MAGOLA BAEZ INFANTE%');
+
+UPDATE contracts t
+SET t.`nro` = 2409
+WHERE LOWER(t.`servicio`) LIKE LOWER('VICTOR RAUL REYES VELANDIA%');
+
+UPDATE contracts t
+SET t.`nro` = 2410
+WHERE LOWER(t.`servicio`) LIKE LOWER('RAFAEL LEONARDO GARCIA ROMERO%');
+
+UPDATE contracts t
+SET t.`nro` = 2412
+WHERE LOWER(t.`servicio`) LIKE LOWER('EDITH JOHANNA MARTINEZ CUSPOCA%');
+
+UPDATE contracts t
+SET t.`nro` = 2420
+WHERE LOWER(t.`servicio`) LIKE LOWER('LEIDY JULIETA CARDENAS FLECHAS%');
+
+UPDATE contracts t
+SET t.`nro` = 2421
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA ELSA MORENO%');
+
+UPDATE contracts t
+SET t.`nro` = 2432
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA AMPARO CUSPOCA%');
+
+UPDATE contracts t
+SET t.`nro` = 2433
+WHERE LOWER(t.`servicio`) LIKE LOWER('SINTRACES VICTOR ALEXIS LEON GONZALEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 2439
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANA DILSA BECERRA MEDINA%');
+
+UPDATE contracts t
+SET t.`nro` = 2441
+WHERE LOWER(t.`servicio`) LIKE LOWER('DIANA PAOLA BARRERA RODRIGUEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 2442
+WHERE LOWER(t.`servicio`) LIKE LOWER('VICTOR HUGO BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 2456
+WHERE LOWER(t.`servicio`) LIKE LOWER('EVEN NELLY COBOS MARTINEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 2459
+WHERE LOWER(t.`servicio`) LIKE LOWER('RODOLFO ALBERTO PINTO LARA%');
+
+UPDATE contracts t
+SET t.`nro` = 2460
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE LUIS MERCHAN%');
+
+UPDATE contracts t
+SET t.`nro` = 2462
+WHERE LOWER(t.`servicio`) LIKE LOWER('MALFI RODRIGUEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 2463
+WHERE LOWER(t.`servicio`) LIKE LOWER('ERNESTO JESUS CUSPOCA NIÑO%');
+
+UPDATE contracts t
+SET t.`nro` = 2466
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE LIBARDO NEIRA TORRES%');
+
+UPDATE contracts t
+SET t.`nro` = 2474
+WHERE LOWER(t.`servicio`) LIKE LOWER('HUMBERTO RODRÍGUEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 2478
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUZ DARY MARIÑO MALPICA%');
+
+UPDATE contracts t
+SET t.`nro` = 2480
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARITZA JOHANA CABALLERO CEPEDA%');
+
+UPDATE contracts t
+SET t.`nro` = 2484
+WHERE LOWER(t.`servicio`) LIKE LOWER('NUBIA ARDILA AREVALO%');
+
+UPDATE contracts t
+SET t.`nro` = 2487
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS DARIO ESPEJO AVENDAÑO%');
+
+UPDATE contracts t
+SET t.`nro` = 2488
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA DEL ROSARIO LARA NIÑO%');
+
+UPDATE contracts t
+SET t.`nro` = 2489
+WHERE LOWER(t.`servicio`) LIKE LOWER('MAYRA JOHANNA ESPEJO CARDOZO%');
+
+UPDATE contracts t
+SET t.`nro` = 2493
+WHERE LOWER(t.`servicio`) LIKE LOWER('CESAR AUGUSTO CARO%');
+
+UPDATE contracts t
+SET t.`nro` = 2498
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUZ MYRIAM RUIZ CUSBA%');
+
+UPDATE contracts t
+SET t.`nro` = 2499
+WHERE LOWER(t.`servicio`) LIKE LOWER('CARLOS MARIO VELASQUEZ GUISADO%');
+
+UPDATE contracts t
+SET t.`nro` = 2500
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA RUBIELA PEMBERTY DE TORRES%');
+
+UPDATE contracts t
+SET t.`nro` = 2505
+WHERE LOWER(t.`servicio`) LIKE LOWER('NESTOR RAUL CAMPOS RIOS%');
+
+UPDATE contracts t
+SET t.`nro` = 2507
+WHERE LOWER(t.`servicio`) LIKE LOWER('GABRIEL LEONARDO CAMARGO SOSA%');
+
+UPDATE contracts t
+SET t.`nro` = 2509
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANDREA GOMEZ CORREDOR%');
+
+UPDATE contracts t
+SET t.`nro` = 2510
+WHERE LOWER(t.`servicio`) LIKE LOWER('RUBEN ANDRES CRISTANCHO PICO%');
+
+UPDATE contracts t
+SET t.`nro` = 2511
+WHERE LOWER(t.`servicio`) LIKE LOWER('ARISTOBULO JAIRO ont bloquea el puerto se cambio la ont 18-09-2024 por una wets ARCHILA CELY%');
+
+UPDATE contracts t
+SET t.`nro` = 2516
+WHERE LOWER(t.`servicio`) LIKE LOWER('CECILIA PLAZAS%');
+
+UPDATE contracts t
+SET t.`nro` = 2518
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA CRISTINA GONZALEZ NAVAS%');
+
+UPDATE contracts t
+SET t.`nro` = 2519
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANGELA MARCELA GUAYACUNDO ESCAMILLA%');
+
+UPDATE contracts t
+SET t.`nro` = 2523
+WHERE LOWER(t.`servicio`) LIKE LOWER('RAMIRO GONZALO GONZALEZ BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 2524
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARGARITA PEDRAZA GRANADOS%');
+
+UPDATE contracts t
+SET t.`nro` = 2532
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANA VICTORIA PEREZ DE SCHIBILI%');
+
+UPDATE contracts t
+SET t.`nro` = 2534
+WHERE LOWER(t.`servicio`) LIKE LOWER('HERNAN ROBERTO PEREZ SAVEDRA%');
+
+UPDATE contracts t
+SET t.`nro` = 2536
+WHERE LOWER(t.`servicio`) LIKE LOWER('NATIVIDAD DEL TRANSITO PEREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 2538
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA ZORAIDA SILVA VARGAS%');
+
+UPDATE contracts t
+SET t.`nro` = 2539
+WHERE LOWER(t.`servicio`) LIKE LOWER('SANDRA YANETH PINTO JAIME%');
+
+UPDATE contracts t
+SET t.`nro` = 2543
+WHERE LOWER(t.`servicio`) LIKE LOWER('CINDY ELAINE BELLO CERON%');
+
+UPDATE contracts t
+SET t.`nro` = 2546
+WHERE LOWER(t.`servicio`) LIKE LOWER('ALVARO ESTUPIÑAN MEJIA%');
+
+UPDATE contracts t
+SET t.`nro` = 2547
+WHERE LOWER(t.`servicio`) LIKE LOWER('JULIETH LILIANA FLECHAS MENDOZA%');
+
+UPDATE contracts t
+SET t.`nro` = 2551
+WHERE LOWER(t.`servicio`) LIKE LOWER('WILMAR ERNESTO PESCA SISSA%');
+
+UPDATE contracts t
+SET t.`nro` = 2555
+WHERE LOWER(t.`servicio`) LIKE LOWER('INES ROSALBA PARRA TIBADUIZA%');
+
+UPDATE contracts t
+SET t.`nro` = 2564
+WHERE LOWER(t.`servicio`) LIKE LOWER('JAIRO ENRIQUE LOPEZ PEREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 2579
+WHERE LOWER(t.`servicio`) LIKE LOWER('MERCEDES BOHORQUEZ MARTINEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 2593
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANDERSON JULIAN LOPEZ MORALES%');
+
+UPDATE contracts t
+SET t.`nro` = 2601
+WHERE LOWER(t.`servicio`) LIKE LOWER('CLAUDELINA JIMENEZ PABON%');
+
+UPDATE contracts t
+SET t.`nro` = 2603
+WHERE LOWER(t.`servicio`) LIKE LOWER('OCTAVIO LADINO DIAZ%');
+
+UPDATE contracts t
+SET t.`nro` = 2604
+WHERE LOWER(t.`servicio`) LIKE LOWER('OMAIRA MENDIVELSO GUTIERREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 2607
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE ORLANDO VALDERRAMA VIVAS%');
+
+UPDATE contracts t
+SET t.`nro` = 2608
+WHERE LOWER(t.`servicio`) LIKE LOWER('NESTOR ADOLFO PEDRAZA CORREDOR%');
+
+UPDATE contracts t
+SET t.`nro` = 2610
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS JOSE CORREA PEREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 2614
+WHERE LOWER(t.`servicio`) LIKE LOWER('JAVIER ENRIQUE RODRIGUEZ GRANADOS%');
+
+UPDATE contracts t
+SET t.`nro` = 2615
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS GENARO MOJICA SAAVEDRA%');
+
+UPDATE contracts t
+SET t.`nro` = 2616
+WHERE LOWER(t.`servicio`) LIKE LOWER('GUSTAVO ADOLFO GARCIA GARCIA%');
+
+UPDATE contracts t
+SET t.`nro` = 2623
+WHERE LOWER(t.`servicio`) LIKE LOWER('CARMEN JULIA LUNA GONZALEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 2627
+WHERE LOWER(t.`servicio`) LIKE LOWER('LIGIA CONSTANZA CAMPOS RIOS%');
+
+UPDATE contracts t
+SET t.`nro` = 2628
+WHERE LOWER(t.`servicio`) LIKE LOWER('JONATHAN ALEXANDER DUARTE PRIETO%');
+
+UPDATE contracts t
+SET t.`nro` = 2629
+WHERE LOWER(t.`servicio`) LIKE LOWER('GILMA MACHUCA NIÑO%');
+
+UPDATE contracts t
+SET t.`nro` = 3216
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA LUCENI RINCON ARISMENDY%');
+
+UPDATE contracts t
+SET t.`nro` = 6013
+WHERE LOWER(t.`servicio`) LIKE LOWER('HECTOR FABIO HERRERA MORENO%');
+
+UPDATE contracts t
+SET t.`nro` = 6015
+WHERE LOWER(t.`servicio`) LIKE LOWER('FRANCKLYN ALFREDO RINCON GALVIS%');
+
+UPDATE contracts t
+SET t.`nro` = 6016
+WHERE LOWER(t.`servicio`) LIKE LOWER('NELSON HIGUERA CELY%');
+
+UPDATE contracts t
+SET t.`nro` = 6017
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS GUILLERMO PUERTO BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 6024
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANTONIO JOSE PRADA VARGAS%');
+
+UPDATE contracts t
+SET t.`nro` = 6026
+WHERE LOWER(t.`servicio`) LIKE LOWER('LINA PATRICIA VASQUEZ MONTES%');
+
+UPDATE contracts t
+SET t.`nro` = 6032
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANA MILENA CAMARGO AGAMEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6036
+WHERE LOWER(t.`servicio`) LIKE LOWER('DIEGO EDUARDO BECERRA MERCHAN%');
+
+UPDATE contracts t
+SET t.`nro` = 6046
+WHERE LOWER(t.`servicio`) LIKE LOWER('VICTOR HERNANDO PUERTO NUÑEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6047
+WHERE LOWER(t.`servicio`) LIKE LOWER('LILIANA MARLEN CHAPARRO PINEDA%');
+
+UPDATE contracts t
+SET t.`nro` = 6052
+WHERE LOWER(t.`servicio`) LIKE LOWER('IVAN DARIO VARGAS VARGAS%');
+
+UPDATE contracts t
+SET t.`nro` = 6054
+WHERE LOWER(t.`servicio`) LIKE LOWER('FANNY ESPERANZA WILCHES%');
+
+UPDATE contracts t
+SET t.`nro` = 6060
+WHERE LOWER(t.`servicio`) LIKE LOWER('NIDIA ROCIO VELANDIA ROMERO%');
+
+UPDATE contracts t
+SET t.`nro` = 6063
+WHERE LOWER(t.`servicio`) LIKE LOWER('LEIDY PAOLA ZEA GUARIN%');
+
+UPDATE contracts t
+SET t.`nro` = 6081
+WHERE LOWER(t.`servicio`) LIKE LOWER('HAROLD ANDREY ORTIZ PUERTO%');
+
+UPDATE contracts t
+SET t.`nro` = 6082
+WHERE LOWER(t.`servicio`) LIKE LOWER('ASTRID NICOLE PLAZAS USCATEGUI%');
+
+UPDATE contracts t
+SET t.`nro` = 6088
+WHERE LOWER(t.`servicio`) LIKE LOWER('LINA ROSA DEL CARMEN BAEZ CASTRO%');
+
+UPDATE contracts t
+SET t.`nro` = 6089
+WHERE LOWER(t.`servicio`) LIKE LOWER('LEIDY DAIHANA LOAIZA MUNEVAR%');
+
+UPDATE contracts t
+SET t.`nro` = 6092
+WHERE LOWER(t.`servicio`) LIKE LOWER('YULI JOHANA LOPEZ CRISTANCHO%');
+
+UPDATE contracts t
+SET t.`nro` = 6093
+WHERE LOWER(t.`servicio`) LIKE LOWER('CLARA FERNANDA MORENO CASTAÑEDA%');
+
+UPDATE contracts t
+SET t.`nro` = 6097
+WHERE LOWER(t.`servicio`) LIKE LOWER('KATHERIN MARCELA MARTIN CIFUENTES%');
+
+UPDATE contracts t
+SET t.`nro` = 6098
+WHERE LOWER(t.`servicio`) LIKE LOWER('JESSICA STEFANIA ESQUIVEL RODRIGUEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6112
+WHERE LOWER(t.`servicio`) LIKE LOWER('YEISON FERNANDO BOHORQUEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6115
+WHERE LOWER(t.`servicio`) LIKE LOWER('SERGIO ANDRES VARGAS MONROY%');
+
+UPDATE contracts t
+SET t.`nro` = 6116
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS ALFONSO RIAÑO RIAÑO%');
+
+UPDATE contracts t
+SET t.`nro` = 6121
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE LUIS VEGA%');
+
+UPDATE contracts t
+SET t.`nro` = 6126
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA MELIDA HERNANDEZ ROJAS%');
+
+UPDATE contracts t
+SET t.`nro` = 6134
+WHERE LOWER(t.`servicio`) LIKE LOWER('ESMERALDA NUÑEZ CARREÑO%');
+
+UPDATE contracts t
+SET t.`nro` = 6140
+WHERE LOWER(t.`servicio`) LIKE LOWER('EDWIN ARTURO SANDOVAL BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 6145
+WHERE LOWER(t.`servicio`) LIKE LOWER('YEISON EDUARDO GARCIA CERON%');
+
+UPDATE contracts t
+SET t.`nro` = 6150
+WHERE LOWER(t.`servicio`) LIKE LOWER('PEDRO ENRIQUE BECERRA AVENDAÑO%');
+
+UPDATE contracts t
+SET t.`nro` = 6154
+WHERE LOWER(t.`servicio`) LIKE LOWER('MIRYAM MOLINA BOLIVAR%');
+
+UPDATE contracts t
+SET t.`nro` = 6160
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA MARCELA PINZON GUERRERO%');
+
+UPDATE contracts t
+SET t.`nro` = 6161
+WHERE LOWER(t.`servicio`) LIKE LOWER('JONATHAN  FELIPE GARCIA PEDRAZA%');
+
+UPDATE contracts t
+SET t.`nro` = 6176
+WHERE LOWER(t.`servicio`) LIKE LOWER('CRISTIAN FERNEY APONTE FLOREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6178
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE FERNANDO FONSECA CASTRO%');
+
+UPDATE contracts t
+SET t.`nro` = 6182
+WHERE LOWER(t.`servicio`) LIKE LOWER('NELSON DE JESUS SIERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 6184
+WHERE LOWER(t.`servicio`) LIKE LOWER('GABRIEL ALFONSO NIETO GUZMAN%');
+
+UPDATE contracts t
+SET t.`nro` = 6185
+WHERE LOWER(t.`servicio`) LIKE LOWER('AIDA MILENA CORREDOR SILVA%');
+
+UPDATE contracts t
+SET t.`nro` = 6196
+WHERE LOWER(t.`servicio`) LIKE LOWER('LEIDY ANGELICA PEREZ ACUÑA%');
+
+UPDATE contracts t
+SET t.`nro` = 6197
+WHERE LOWER(t.`servicio`) LIKE LOWER('YUDY CRISTINA COGARIA PEREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6210
+WHERE LOWER(t.`servicio`) LIKE LOWER('NIDIA EVANGELINA HERNANDEZ GONZALEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6218
+WHERE LOWER(t.`servicio`) LIKE LOWER('JONATAN STIVEN RODRIGUEZ RINCON%');
+
+UPDATE contracts t
+SET t.`nro` = 6226
+WHERE LOWER(t.`servicio`) LIKE LOWER('LIZETH YURANY BLANCO CORREDOR%');
+
+UPDATE contracts t
+SET t.`nro` = 6238
+WHERE LOWER(t.`servicio`) LIKE LOWER('YISON HORACIO MERCHAN AGUDELO%');
+
+UPDATE contracts t
+SET t.`nro` = 6243
+WHERE LOWER(t.`servicio`) LIKE LOWER('BETZABETH PAREDES PEREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6245
+WHERE LOWER(t.`servicio`) LIKE LOWER('CRISTIAN FERNEY NOVA MARTINEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6251
+WHERE LOWER(t.`servicio`) LIKE LOWER('JAVIER ALBERTO VEGA LARA%');
+
+UPDATE contracts t
+SET t.`nro` = 6255
+WHERE LOWER(t.`servicio`) LIKE LOWER('REINALDO CHAPARRO CORREDOR%');
+
+UPDATE contracts t
+SET t.`nro` = 6258
+WHERE LOWER(t.`servicio`) LIKE LOWER('SERGIO ANDRES CORREA GARCIA%');
+
+UPDATE contracts t
+SET t.`nro` = 6260
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANGELA CONSUELO DAZA CASTELLANOS%');
+
+UPDATE contracts t
+SET t.`nro` = 6267
+WHERE LOWER(t.`servicio`) LIKE LOWER('CRISTHIAN CAMILO PEREZ VELOZA%');
+
+UPDATE contracts t
+SET t.`nro` = 6271
+WHERE LOWER(t.`servicio`) LIKE LOWER('YULY ANDREA FIGUEREDO ESCALANTE%');
+
+UPDATE contracts t
+SET t.`nro` = 6272
+WHERE LOWER(t.`servicio`) LIKE LOWER('NANCY YURANI PEREZ RINCON%');
+
+UPDATE contracts t
+SET t.`nro` = 6274
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA ALICIA ESTUPIÑAN ALVARADO%');
+
+UPDATE contracts t
+SET t.`nro` = 6277
+WHERE LOWER(t.`servicio`) LIKE LOWER('YARLEY MILENA LOPEZ PEREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6278
+WHERE LOWER(t.`servicio`) LIKE LOWER('CESAR ALEJANDRO RINCON BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 6279
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANDERSON FELIPE ALMANZA GARCIA%');
+
+UPDATE contracts t
+SET t.`nro` = 6283
+WHERE LOWER(t.`servicio`) LIKE LOWER('BLANCA CECILIA VERGARA GONZALEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6286
+WHERE LOWER(t.`servicio`) LIKE LOWER('ALVARO DE JESUS BALLESTEROS BLANCO%');
+
+UPDATE contracts t
+SET t.`nro` = 6288
+WHERE LOWER(t.`servicio`) LIKE LOWER('GILBERTO PUERTO MOJICA%');
+
+UPDATE contracts t
+SET t.`nro` = 6289
+WHERE LOWER(t.`servicio`) LIKE LOWER('ZULY VIVIANA PUERTO CELY%');
+
+UPDATE contracts t
+SET t.`nro` = 6292
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS ALEXANDER MALDONADO ARANGO%');
+
+UPDATE contracts t
+SET t.`nro` = 6294
+WHERE LOWER(t.`servicio`) LIKE LOWER('LEIDY JOHANA BECERRA MEDINA%');
+
+UPDATE contracts t
+SET t.`nro` = 6295
+WHERE LOWER(t.`servicio`) LIKE LOWER('RAUL ALBERTO RODRIGUEZ SALAZAR%');
+
+UPDATE contracts t
+SET t.`nro` = 6298
+WHERE LOWER(t.`servicio`) LIKE LOWER('DAYANA ESTHEFANIA BARRERA PEREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6312
+WHERE LOWER(t.`servicio`) LIKE LOWER('VICTOR MANUEL MARTINEZ CHAPARRO%');
+
+UPDATE contracts t
+SET t.`nro` = 6315
+WHERE LOWER(t.`servicio`) LIKE LOWER('LESDY MILENA BARRERA PATIÑO%');
+
+UPDATE contracts t
+SET t.`nro` = 6317
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANA OLIVA AMESQUITA SANCHEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6318
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA LUISA CELY DE DIAZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6327
+WHERE LOWER(t.`servicio`) LIKE LOWER('JAQUELINE MARIN CAMACHO%');
+
+UPDATE contracts t
+SET t.`nro` = 6329
+WHERE LOWER(t.`servicio`) LIKE LOWER('AURA ALICIA PICON CORREDOR%');
+
+UPDATE contracts t
+SET t.`nro` = 6338
+WHERE LOWER(t.`servicio`) LIKE LOWER('ERIKA MARCELA ARCHILA%');
+
+UPDATE contracts t
+SET t.`nro` = 6339
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE DEL CARMEN BARRERA GOMEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6342
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS GENARO MOJICA SAAVEDRA%');
+
+UPDATE contracts t
+SET t.`nro` = 6349
+WHERE LOWER(t.`servicio`) LIKE LOWER('ALICIA PAVA DE PARRA%');
+
+UPDATE contracts t
+SET t.`nro` = 6350
+WHERE LOWER(t.`servicio`) LIKE LOWER('CESAR RAMIRO GONZALEZ MARTINEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6352
+WHERE LOWER(t.`servicio`) LIKE LOWER('HEIDY JOHANNA RAMIREZ CUSPOCA%');
+
+UPDATE contracts t
+SET t.`nro` = 6356
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE JOAQUIN ROMERO RINCON%');
+
+UPDATE contracts t
+SET t.`nro` = 6360
+WHERE LOWER(t.`servicio`) LIKE LOWER('YUDY CONSTANZA PEREZ CAMARGO%');
+
+UPDATE contracts t
+SET t.`nro` = 6363
+WHERE LOWER(t.`servicio`) LIKE LOWER('SANDRA ISABEL VARGAS BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 6370
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUZ MARINA GARCIA ARGUELLO%');
+
+UPDATE contracts t
+SET t.`nro` = 6372
+WHERE LOWER(t.`servicio`) LIKE LOWER('ESHELLEY CARYLL SUAREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6375
+WHERE LOWER(t.`servicio`) LIKE LOWER('JENNY CAROLINA OCHOA BARRERA%');
+
+UPDATE contracts t
+SET t.`nro` = 6377
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA AZUCENA MACHUCA%');
+
+UPDATE contracts t
+SET t.`nro` = 6378
+WHERE LOWER(t.`servicio`) LIKE LOWER('JAVIER EDUARDO ZARATE GARCIA%');
+
+UPDATE contracts t
+SET t.`nro` = 6380
+WHERE LOWER(t.`servicio`) LIKE LOWER('PATRICIA CARDONA HERRERA%');
+
+UPDATE contracts t
+SET t.`nro` = 6382
+WHERE LOWER(t.`servicio`) LIKE LOWER('EMILCEN GOMEZ TIRIA%');
+
+UPDATE contracts t
+SET t.`nro` = 6384
+WHERE LOWER(t.`servicio`) LIKE LOWER('GERMAN ENRIQUE VALDERRAMA ROMERO%');
+
+UPDATE contracts t
+SET t.`nro` = 6385
+WHERE LOWER(t.`servicio`) LIKE LOWER('CLAUDIA MARITZA COMBITA TORRES%');
+
+UPDATE contracts t
+SET t.`nro` = 6388
+WHERE LOWER(t.`servicio`) LIKE LOWER('YENNY ANDREA PEDRAZA%');
+
+UPDATE contracts t
+SET t.`nro` = 6393
+WHERE LOWER(t.`servicio`) LIKE LOWER('YULY ANDREA CONTRERAS CHAPARRO%');
+
+UPDATE contracts t
+SET t.`nro` = 6395
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARTHA SUAREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6402
+WHERE LOWER(t.`servicio`) LIKE LOWER('CARLOS ANTONIO PEREZ HIGUERA%');
+
+UPDATE contracts t
+SET t.`nro` = 6403
+WHERE LOWER(t.`servicio`) LIKE LOWER('MANUEL VARGAS PINEDA%');
+
+UPDATE contracts t
+SET t.`nro` = 6404
+WHERE LOWER(t.`servicio`) LIKE LOWER('CRISTIAN CAMILO PLAZAS MARTINEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6408
+WHERE LOWER(t.`servicio`) LIKE LOWER('GLORIA CARMENZA TIBADUIZA TORRES%');
+
+UPDATE contracts t
+SET t.`nro` = 6409
+WHERE LOWER(t.`servicio`) LIKE LOWER('SANDRA ENITH MEJIA MEDINA%');
+
+UPDATE contracts t
+SET t.`nro` = 6411
+WHERE LOWER(t.`servicio`) LIKE LOWER('FABIOLA VARGAS ANGARITA%');
+
+UPDATE contracts t
+SET t.`nro` = 6425
+WHERE LOWER(t.`servicio`) LIKE LOWER('EDNA HORTA SANDOVAL%');
+
+UPDATE contracts t
+SET t.`nro` = 6429
+WHERE LOWER(t.`servicio`) LIKE LOWER('CLARA YANETH COMBARIZA MARTINEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6432
+WHERE LOWER(t.`servicio`) LIKE LOWER('CARLOS ALBERTO PULIDO CORREDOR%');
+
+UPDATE contracts t
+SET t.`nro` = 6433
+WHERE LOWER(t.`servicio`) LIKE LOWER('RICARDO CARVAJAL%');
+
+UPDATE contracts t
+SET t.`nro` = 6436
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANA ASTRID AMADO CORCOBADO%');
+
+UPDATE contracts t
+SET t.`nro` = 6438
+WHERE LOWER(t.`servicio`) LIKE LOWER('JULIAN MATEO ACERO LEON%');
+
+UPDATE contracts t
+SET t.`nro` = 6439
+WHERE LOWER(t.`servicio`) LIKE LOWER('GRACIELA LOPEZ LOPEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6442
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA XIMENA SEQUERA CUY%');
+
+UPDATE contracts t
+SET t.`nro` = 6443
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUZ FANY CORREDOR GONZALEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6445
+WHERE LOWER(t.`servicio`) LIKE LOWER('OSCAR MAURICIO CASTILLO CHIVATA%');
+
+UPDATE contracts t
+SET t.`nro` = 6448
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE DE JESUS PLAZAS%');
+
+UPDATE contracts t
+SET t.`nro` = 6461
+WHERE LOWER(t.`servicio`) LIKE LOWER('VIVIANA BUITRAGO PEDRAZA%');
+
+UPDATE contracts t
+SET t.`nro` = 6462
+WHERE LOWER(t.`servicio`) LIKE LOWER('RAFAEL EDUARDO RICO MOGOLLON%');
+
+UPDATE contracts t
+SET t.`nro` = 6465
+WHERE LOWER(t.`servicio`) LIKE LOWER('GABRIEL ORLANDO TIMARAN VALLEJO%');
+
+UPDATE contracts t
+SET t.`nro` = 6483
+WHERE LOWER(t.`servicio`) LIKE LOWER('FABIO MIGUEL TRIANA BRICEÑO%');
+
+UPDATE contracts t
+SET t.`nro` = 6487
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANDRES RICARDO LANCHEROS SANABRIA%');
+
+UPDATE contracts t
+SET t.`nro` = 6488
+WHERE LOWER(t.`servicio`) LIKE LOWER('MONICA ESPERANZA CEPEDA RODRIGUEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6489
+WHERE LOWER(t.`servicio`) LIKE LOWER('SANDRA MILENA AYALA FORERO%');
+
+UPDATE contracts t
+SET t.`nro` = 6490
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUZ MARINA CALDERON SANTAMARIA%');
+
+UPDATE contracts t
+SET t.`nro` = 6492
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA CONSUELO RUEDA RODRIGUEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6495
+WHERE LOWER(t.`servicio`) LIKE LOWER('ALIRIO AMADO%');
+
+UPDATE contracts t
+SET t.`nro` = 6497
+WHERE LOWER(t.`servicio`) LIKE LOWER('SECURITAS COLOMBIA SIKA COLOMBIA FABIO COORDINADOR%');
+
+UPDATE contracts t
+SET t.`nro` = 6502
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUCAS GERARDO ZARATE VALERO%');
+
+UPDATE contracts t
+SET t.`nro` = 6503
+WHERE LOWER(t.`servicio`) LIKE LOWER('ERIKA KATERINE BECERRA GARCIA%');
+
+UPDATE contracts t
+SET t.`nro` = 6506
+WHERE LOWER(t.`servicio`) LIKE LOWER('DANILO ALBEIRO CRISTANCHO%');
+
+UPDATE contracts t
+SET t.`nro` = 6507
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOAQUIN ALONSO LEAL GARCIA%');
+
+UPDATE contracts t
+SET t.`nro` = 6511
+WHERE LOWER(t.`servicio`) LIKE LOWER('JAIRO ALEXANDER MERCHAN NIÑO%');
+
+UPDATE contracts t
+SET t.`nro` = 6512
+WHERE LOWER(t.`servicio`) LIKE LOWER('CRISTIAN FERNEY APONTE FLOREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6531
+WHERE LOWER(t.`servicio`) LIKE LOWER('YURIS SANCHEZ ESCOBAR%');
+
+UPDATE contracts t
+SET t.`nro` = 6532
+WHERE LOWER(t.`servicio`) LIKE LOWER('ERNESTO ALEJANDRO ESPINOSA RIVERA%');
+
+UPDATE contracts t
+SET t.`nro` = 6535
+WHERE LOWER(t.`servicio`) LIKE LOWER('SOCIEDAD ALFONDOQUE%');
+
+UPDATE contracts t
+SET t.`nro` = 6538
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUZ MARY DUCON FONSECA%');
+
+UPDATE contracts t
+SET t.`nro` = 6539
+WHERE LOWER(t.`servicio`) LIKE LOWER('GERMAN AMILCAR BOADA GUARIN%');
+
+UPDATE contracts t
+SET t.`nro` = 6540
+WHERE LOWER(t.`servicio`) LIKE LOWER('OSCAR BOADA GUARIN%');
+
+UPDATE contracts t
+SET t.`nro` = 6541
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE BALDOMIRO ROMERO%');
+
+UPDATE contracts t
+SET t.`nro` = 6542
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANDRES RICARDO MORENO DUCON%');
+
+UPDATE contracts t
+SET t.`nro` = 6545
+WHERE LOWER(t.`servicio`) LIKE LOWER('GLORIA INES LINARES%');
+
+UPDATE contracts t
+SET t.`nro` = 6547
+WHERE LOWER(t.`servicio`) LIKE LOWER('EDUARDO ESTEBAN ESPINOSA FORERO%');
+
+UPDATE contracts t
+SET t.`nro` = 6552
+WHERE LOWER(t.`servicio`) LIKE LOWER('MATILDE BECERRA CABRA%');
+
+UPDATE contracts t
+SET t.`nro` = 6554
+WHERE LOWER(t.`servicio`) LIKE LOWER('ALBERTO CAMARGO%');
+
+UPDATE contracts t
+SET t.`nro` = 6558
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE MANUEL CORREDOR PIÑEROS%');
+
+UPDATE contracts t
+SET t.`nro` = 6559
+WHERE LOWER(t.`servicio`) LIKE LOWER('LICETH NATALIA DIAZ RIVILLAS%');
+
+UPDATE contracts t
+SET t.`nro` = 6561
+WHERE LOWER(t.`servicio`) LIKE LOWER('PEDRO ALFONSO ESPEJO FUQUEN%');
+
+UPDATE contracts t
+SET t.`nro` = 6572
+WHERE LOWER(t.`servicio`) LIKE LOWER('MILTON ALFONSO ESPEJO BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 6576
+WHERE LOWER(t.`servicio`) LIKE LOWER('NELSON ALVAREZ FLOREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6577
+WHERE LOWER(t.`servicio`) LIKE LOWER('LILIANA ROSA KAMMERER THERAN%');
+
+UPDATE contracts t
+SET t.`nro` = 6582
+WHERE LOWER(t.`servicio`) LIKE LOWER('ROSA EMILIA MALAGON%');
+
+UPDATE contracts t
+SET t.`nro` = 6585
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE REINALDO CEPEDA QUIJANO%');
+
+UPDATE contracts t
+SET t.`nro` = 6586
+WHERE LOWER(t.`servicio`) LIKE LOWER('YENY SOFIA CRUZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6587
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS FERNANDO GUERRA PINEDA%');
+
+UPDATE contracts t
+SET t.`nro` = 6588
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA INES BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 6589
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA CAMILA CARDENAS%');
+
+UPDATE contracts t
+SET t.`nro` = 6590
+WHERE LOWER(t.`servicio`) LIKE LOWER('ROBINSON DAVID HERNANDEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6592
+WHERE LOWER(t.`servicio`) LIKE LOWER('NESTOR IVAN BUITRAGO%');
+
+UPDATE contracts t
+SET t.`nro` = 6595
+WHERE LOWER(t.`servicio`) LIKE LOWER('AMALIA PESCA HIGUERA%');
+
+UPDATE contracts t
+SET t.`nro` = 6598
+WHERE LOWER(t.`servicio`) LIKE LOWER('DIANA PAOLA MACHUCA ROJAS%');
+
+UPDATE contracts t
+SET t.`nro` = 6603
+WHERE LOWER(t.`servicio`) LIKE LOWER('FABIOLA PINZON CAMARGO%');
+
+UPDATE contracts t
+SET t.`nro` = 6605
+WHERE LOWER(t.`servicio`) LIKE LOWER('DANIEL FERNANDO GONZALEZ PEÑA%');
+
+UPDATE contracts t
+SET t.`nro` = 6607
+WHERE LOWER(t.`servicio`) LIKE LOWER('WILLIAM MONSALVE MANRIQUE%');
+
+UPDATE contracts t
+SET t.`nro` = 6608
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS ALBERTO CAÑON FORERO%');
+
+UPDATE contracts t
+SET t.`nro` = 6609
+WHERE LOWER(t.`servicio`) LIKE LOWER('INVERSIONES 2006 SAS Donatella Massan%');
+
+UPDATE contracts t
+SET t.`nro` = 6611
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIEM ROSA GARCIA%');
+
+UPDATE contracts t
+SET t.`nro` = 6613
+WHERE LOWER(t.`servicio`) LIKE LOWER('MATILDE HERNANDEZ TORRES%');
+
+UPDATE contracts t
+SET t.`nro` = 6614
+WHERE LOWER(t.`servicio`) LIKE LOWER('ALVARO JAVIER PANTOJA BURBANO%');
+
+UPDATE contracts t
+SET t.`nro` = 6615
+WHERE LOWER(t.`servicio`) LIKE LOWER('KAREN DAYANA SUAREZ CORREDOR%');
+
+UPDATE contracts t
+SET t.`nro` = 6618
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE BECERRA GUTIERREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6620
+WHERE LOWER(t.`servicio`) LIKE LOWER('ALIRIO ERNESTO QUINTERO HIGUERA%');
+
+UPDATE contracts t
+SET t.`nro` = 6621
+WHERE LOWER(t.`servicio`) LIKE LOWER('JESUS BECERRA SOSA%');
+
+UPDATE contracts t
+SET t.`nro` = 6624
+WHERE LOWER(t.`servicio`) LIKE LOWER('NIBELLY RODRIGUEZ TAUSA%');
+
+UPDATE contracts t
+SET t.`nro` = 6629
+WHERE LOWER(t.`servicio`) LIKE LOWER('MEIRA LEONOR GONZALEZ VALDERRAMA%');
+
+UPDATE contracts t
+SET t.`nro` = 6631
+WHERE LOWER(t.`servicio`) LIKE LOWER('DEISSY YAMILE ORDUZ OCHOA%');
+
+UPDATE contracts t
+SET t.`nro` = 6632
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA AIDAEL MEJIA GARCIA%');
+
+UPDATE contracts t
+SET t.`nro` = 6633
+WHERE LOWER(t.`servicio`) LIKE LOWER('JUAN SEBASTIAN SILVA FRANKY%');
+
+UPDATE contracts t
+SET t.`nro` = 6640
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE ADAN CELY BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 6641
+WHERE LOWER(t.`servicio`) LIKE LOWER('CLAUDIA CRISTINA ARAGON RODRIGUEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6643
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANDRES FELIPE ALVAREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6644
+WHERE LOWER(t.`servicio`) LIKE LOWER('CARLOS WILLIAM CHAPARRO%');
+
+UPDATE contracts t
+SET t.`nro` = 6647
+WHERE LOWER(t.`servicio`) LIKE LOWER('YESICA PAOLA HERRERA BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 6648
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARY LUZ VELANDIA%');
+
+UPDATE contracts t
+SET t.`nro` = 6650
+WHERE LOWER(t.`servicio`) LIKE LOWER('ELKIN ORLANDO MUNEVAR SANCHEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6656
+WHERE LOWER(t.`servicio`) LIKE LOWER('ERIKA FERNANDA ACUÑA MANRIQUE%');
+
+UPDATE contracts t
+SET t.`nro` = 6661
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUZ MARINA MESA CELY%');
+
+UPDATE contracts t
+SET t.`nro` = 6663
+WHERE LOWER(t.`servicio`) LIKE LOWER('FRANCISCA BECERRA SOSA%');
+
+UPDATE contracts t
+SET t.`nro` = 6664
+WHERE LOWER(t.`servicio`) LIKE LOWER('SONIA MARLENY ARIAS BERNAL%');
+
+UPDATE contracts t
+SET t.`nro` = 6665
+WHERE LOWER(t.`servicio`) LIKE LOWER('LAURA MARCELA ALVAREZ BOHORQUEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6666
+WHERE LOWER(t.`servicio`) LIKE LOWER('CARMENZA GONZALEZ PUENTES%');
+
+UPDATE contracts t
+SET t.`nro` = 6670
+WHERE LOWER(t.`servicio`) LIKE LOWER('FABIO EDUARDO CARDENAS NUNCIRA%');
+
+UPDATE contracts t
+SET t.`nro` = 6672
+WHERE LOWER(t.`servicio`) LIKE LOWER('ALEXANDER ANTONIO RIOS HENAO%');
+
+UPDATE contracts t
+SET t.`nro` = 6673
+WHERE LOWER(t.`servicio`) LIKE LOWER('NUBIA MARCELA BECERRA GONZALEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6674
+WHERE LOWER(t.`servicio`) LIKE LOWER('JORGE LUIS MARTINEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6677
+WHERE LOWER(t.`servicio`) LIKE LOWER('JEANETTE COROMOTO CARRASQUEL%');
+
+UPDATE contracts t
+SET t.`nro` = 6678
+WHERE LOWER(t.`servicio`) LIKE LOWER('BLANCA EMMA TORRES%');
+
+UPDATE contracts t
+SET t.`nro` = 6680
+WHERE LOWER(t.`servicio`) LIKE LOWER('OSCAR EDUARDO TORRES CORREDOR%');
+
+UPDATE contracts t
+SET t.`nro` = 6681
+WHERE LOWER(t.`servicio`) LIKE LOWER('PEDRO ANTONIO CASTIBLANCO%');
+
+UPDATE contracts t
+SET t.`nro` = 6683
+WHERE LOWER(t.`servicio`) LIKE LOWER('YULY PAOLA NIÑO TOLOZA%');
+
+UPDATE contracts t
+SET t.`nro` = 6684
+WHERE LOWER(t.`servicio`) LIKE LOWER('JHON JAIRO RODRIGUEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6685
+WHERE LOWER(t.`servicio`) LIKE LOWER('LIRA AZUCENA NUÑEZ DE BUITRAGO%');
+
+UPDATE contracts t
+SET t.`nro` = 6701
+WHERE LOWER(t.`servicio`) LIKE LOWER('RAQUEL CELESTE MARTINEZ YNDRIAGO%');
+
+UPDATE contracts t
+SET t.`nro` = 6702
+WHERE LOWER(t.`servicio`) LIKE LOWER('JAIME ANTONIO CORDOBA%');
+
+UPDATE contracts t
+SET t.`nro` = 6703
+WHERE LOWER(t.`servicio`) LIKE LOWER('GABRIEL CABRA GRANADOS%');
+
+UPDATE contracts t
+SET t.`nro` = 6704
+WHERE LOWER(t.`servicio`) LIKE LOWER('COLCLEAN JAGAR S.A.S%');
+
+UPDATE contracts t
+SET t.`nro` = 6705
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS CARLOS AGUDELO%');
+
+UPDATE contracts t
+SET t.`nro` = 6707
+WHERE LOWER(t.`servicio`) LIKE LOWER('BEISI YANINE JAFAYTEQUE MUCA%');
+
+UPDATE contracts t
+SET t.`nro` = 6708
+WHERE LOWER(t.`servicio`) LIKE LOWER('VIVIANA VARGAS RIAÑO%');
+
+UPDATE contracts t
+SET t.`nro` = 6711
+WHERE LOWER(t.`servicio`) LIKE LOWER('SANTIAGO PEÑA TUNJANO%');
+
+UPDATE contracts t
+SET t.`nro` = 6712
+WHERE LOWER(t.`servicio`) LIKE LOWER('RAFAEL YOBANY CELY CRISTANCHO%');
+
+UPDATE contracts t
+SET t.`nro` = 6713
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA LEONOR ESPEJO%');
+
+UPDATE contracts t
+SET t.`nro` = 6714
+WHERE LOWER(t.`servicio`) LIKE LOWER('ERIKA KATERINE SALAZAR BELTRAN%');
+
+UPDATE contracts t
+SET t.`nro` = 6715
+WHERE LOWER(t.`servicio`) LIKE LOWER('IVAN TORRES PEMBERTY%');
+
+UPDATE contracts t
+SET t.`nro` = 6716
+WHERE LOWER(t.`servicio`) LIKE LOWER('RICARDO CHIA BENITEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6717
+WHERE LOWER(t.`servicio`) LIKE LOWER('GABRIEL CABRA%');
+
+UPDATE contracts t
+SET t.`nro` = 6722
+WHERE LOWER(t.`servicio`) LIKE LOWER('CRISTHIAN CAMILO PEREZ VELOZA%');
+
+UPDATE contracts t
+SET t.`nro` = 6723
+WHERE LOWER(t.`servicio`) LIKE LOWER('JUAN GABRIEL CUERVO CELY%');
+
+UPDATE contracts t
+SET t.`nro` = 6728
+WHERE LOWER(t.`servicio`) LIKE LOWER('RAUL ALBERTO SILVA PARRA%');
+
+UPDATE contracts t
+SET t.`nro` = 6730
+WHERE LOWER(t.`servicio`) LIKE LOWER('PEDRO ALEJANDRO RODRIGUEZ CAMARGO%');
+
+UPDATE contracts t
+SET t.`nro` = 6734
+WHERE LOWER(t.`servicio`) LIKE LOWER('JUAN SEBASTIAN RINCON RUIZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6735
+WHERE LOWER(t.`servicio`) LIKE LOWER('ALBA MARINA VELIZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6737
+WHERE LOWER(t.`servicio`) LIKE LOWER('YESIKA ANDREA CELY%');
+
+UPDATE contracts t
+SET t.`nro` = 6739
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA RODRIGUEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6740
+WHERE LOWER(t.`servicio`) LIKE LOWER('CAROLINA CORONADO BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 6741
+WHERE LOWER(t.`servicio`) LIKE LOWER('HUGO ENRIQUE CORREA BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 6743
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANA MARIA CONTRERAS%');
+
+UPDATE contracts t
+SET t.`nro` = 6745
+WHERE LOWER(t.`servicio`) LIKE LOWER('JORGE ARMANDO SOLANO%');
+
+UPDATE contracts t
+SET t.`nro` = 6751
+WHERE LOWER(t.`servicio`) LIKE LOWER('WILLIAM ALBERTO PUERTO%');
+
+UPDATE contracts t
+SET t.`nro` = 6752
+WHERE LOWER(t.`servicio`) LIKE LOWER('RAFAEL FRANCISCO ARIZ MORELO%');
+
+UPDATE contracts t
+SET t.`nro` = 6753
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUZ HELENA CELY AMEZQUITA%');
+
+UPDATE contracts t
+SET t.`nro` = 6755
+WHERE LOWER(t.`servicio`) LIKE LOWER('JHON SEBASTIAN BONILLA BLANCO%');
+
+UPDATE contracts t
+SET t.`nro` = 6756
+WHERE LOWER(t.`servicio`) LIKE LOWER('VIVIANA CAROLINA ARIAS ALAPE%');
+
+UPDATE contracts t
+SET t.`nro` = 6761
+WHERE LOWER(t.`servicio`) LIKE LOWER('YARIBEL SUAREZ BLANCO%');
+
+UPDATE contracts t
+SET t.`nro` = 6777
+WHERE LOWER(t.`servicio`) LIKE LOWER('HENRY ALFONSO BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 6779
+WHERE LOWER(t.`servicio`) LIKE LOWER('AGENCIA LOGISTICA DE LAS FUERZAS MILITARES%');
+
+UPDATE contracts t
+SET t.`nro` = 6780
+WHERE LOWER(t.`servicio`) LIKE LOWER('ELIZABETH PINEDA GOMEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6782
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS ARTURO RINCON%');
+
+UPDATE contracts t
+SET t.`nro` = 6783
+WHERE LOWER(t.`servicio`) LIKE LOWER('LISIMACO RIVERA%');
+
+UPDATE contracts t
+SET t.`nro` = 6785
+WHERE LOWER(t.`servicio`) LIKE LOWER('JAMES LEONARDO CRISTANCHO%');
+
+UPDATE contracts t
+SET t.`nro` = 6789
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE DANIEL BARRIENTOS%');
+
+UPDATE contracts t
+SET t.`nro` = 6790
+WHERE LOWER(t.`servicio`) LIKE LOWER('DARIO ALEXANDER FUELPAZ CHALACA%');
+
+UPDATE contracts t
+SET t.`nro` = 6796
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSELYN CHAPARRO MONTAÑA%');
+
+UPDATE contracts t
+SET t.`nro` = 6800
+WHERE LOWER(t.`servicio`) LIKE LOWER('JORGE HUMBERTO falta firmar contrato PEREZ GUTIERREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6801
+WHERE LOWER(t.`servicio`) LIKE LOWER('SEBASTIAN ROJAS%');
+
+UPDATE contracts t
+SET t.`nro` = 6804
+WHERE LOWER(t.`servicio`) LIKE LOWER('SANDRA PATRICIA PAEZ VELANDIA%');
+
+UPDATE contracts t
+SET t.`nro` = 6805
+WHERE LOWER(t.`servicio`) LIKE LOWER('SANDRA PATRICIA GUTIERREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6807
+WHERE LOWER(t.`servicio`) LIKE LOWER('ENRIQUE FLORES PRIETO%');
+
+UPDATE contracts t
+SET t.`nro` = 6809
+WHERE LOWER(t.`servicio`) LIKE LOWER('DIZA PRODUCTION%');
+
+UPDATE contracts t
+SET t.`nro` = 6811
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA YANETH VELEZ CASTAÑEDA%');
+
+UPDATE contracts t
+SET t.`nro` = 6813
+WHERE LOWER(t.`servicio`) LIKE LOWER('SANDRA LILIANA JOYA SANDOVAL%');
+
+UPDATE contracts t
+SET t.`nro` = 6816
+WHERE LOWER(t.`servicio`) LIKE LOWER('ERIKA MATEUS PIRAJAN%');
+
+UPDATE contracts t
+SET t.`nro` = 6817
+WHERE LOWER(t.`servicio`) LIKE LOWER('OMAR ARIEL GOMEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6818
+WHERE LOWER(t.`servicio`) LIKE LOWER('YUMA PATRICIA MANCERA CONTRERAS%');
+
+UPDATE contracts t
+SET t.`nro` = 6819
+WHERE LOWER(t.`servicio`) LIKE LOWER('CAMILA ALEJANDRA SANCHEZ FONSECA%');
+
+UPDATE contracts t
+SET t.`nro` = 6820
+WHERE LOWER(t.`servicio`) LIKE LOWER('YENNIFER PAOLA BARRERA MUÑOZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6826
+WHERE LOWER(t.`servicio`) LIKE LOWER('NANCY ERALDA FLOREZ CASTELLANOS%');
+
+UPDATE contracts t
+SET t.`nro` = 6827
+WHERE LOWER(t.`servicio`) LIKE LOWER('YESID GILBERTO LIZARAZO%');
+
+UPDATE contracts t
+SET t.`nro` = 6828
+WHERE LOWER(t.`servicio`) LIKE LOWER('CESAR ALEJANDRO RINCON BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 6831
+WHERE LOWER(t.`servicio`) LIKE LOWER('PAULO ANDRES MURILLO GUTIERREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6833
+WHERE LOWER(t.`servicio`) LIKE LOWER('ALVARO BALLESTEROS BLANCO%');
+
+UPDATE contracts t
+SET t.`nro` = 6834
+WHERE LOWER(t.`servicio`) LIKE LOWER('JHON EDUARD CABRERA PAJA%');
+
+UPDATE contracts t
+SET t.`nro` = 6835
+WHERE LOWER(t.`servicio`) LIKE LOWER('EDUYN CARANGUAY TEPUD%');
+
+UPDATE contracts t
+SET t.`nro` = 6837
+WHERE LOWER(t.`servicio`) LIKE LOWER('MATILDE BECERRA CABRA%');
+
+UPDATE contracts t
+SET t.`nro` = 6838
+WHERE LOWER(t.`servicio`) LIKE LOWER('OLGA LUCIA MENDEZ SALAZAR%');
+
+UPDATE contracts t
+SET t.`nro` = 6839
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE DE LOS SANTOS TORRES GUAUQUE%');
+
+UPDATE contracts t
+SET t.`nro` = 6840
+WHERE LOWER(t.`servicio`) LIKE LOWER('EDWIN ARTURO ZARABANDA%');
+
+UPDATE contracts t
+SET t.`nro` = 6841
+WHERE LOWER(t.`servicio`) LIKE LOWER('YEISON JAVIER BARRERA ROJAS%');
+
+UPDATE contracts t
+SET t.`nro` = 6852
+WHERE LOWER(t.`servicio`) LIKE LOWER('YENNIFER RESTREPO URIBE%');
+
+UPDATE contracts t
+SET t.`nro` = 6853
+WHERE LOWER(t.`servicio`) LIKE LOWER('ALBA TERESA LOPEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6858
+WHERE LOWER(t.`servicio`) LIKE LOWER('MANUEL BUSTOS%');
+
+UPDATE contracts t
+SET t.`nro` = 6860
+WHERE LOWER(t.`servicio`) LIKE LOWER('ELVIA INES ROBAYO NIÑO%');
+
+UPDATE contracts t
+SET t.`nro` = 6864
+WHERE LOWER(t.`servicio`) LIKE LOWER('CARMEN CECILIA CORREDOR%');
+
+UPDATE contracts t
+SET t.`nro` = 6865
+WHERE LOWER(t.`servicio`) LIKE LOWER('SANDRA BEDOYA%');
+
+UPDATE contracts t
+SET t.`nro` = 6866
+WHERE LOWER(t.`servicio`) LIKE LOWER('IVAN DARIO CAMARGO CUERVO%');
+
+UPDATE contracts t
+SET t.`nro` = 6867
+WHERE LOWER(t.`servicio`) LIKE LOWER('VICTOR MANUEL SANCHEZ MOLINA%');
+
+UPDATE contracts t
+SET t.`nro` = 6868
+WHERE LOWER(t.`servicio`) LIKE LOWER('ALI OMAR ARAQUE PERNIA%');
+
+UPDATE contracts t
+SET t.`nro` = 6872
+WHERE LOWER(t.`servicio`) LIKE LOWER('ZANDRA CAROLINA SILVA GONZALEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6874
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA DOLORES RIAÑO TRUJILLO%');
+
+UPDATE contracts t
+SET t.`nro` = 6877
+WHERE LOWER(t.`servicio`) LIKE LOWER('CLEMENTE ALBERTO ALVARADO%');
+
+UPDATE contracts t
+SET t.`nro` = 6878
+WHERE LOWER(t.`servicio`) LIKE LOWER('GLORIA AZUCENA SILVA%');
+
+UPDATE contracts t
+SET t.`nro` = 6881
+WHERE LOWER(t.`servicio`) LIKE LOWER('CESAR AUGUSTO PUENTES%');
+
+UPDATE contracts t
+SET t.`nro` = 6883
+WHERE LOWER(t.`servicio`) LIKE LOWER('SANDRA MIREYA CHAPARRO ALARCON%');
+
+UPDATE contracts t
+SET t.`nro` = 6884
+WHERE LOWER(t.`servicio`) LIKE LOWER('MIGUEL ANGEL RUIZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6888
+WHERE LOWER(t.`servicio`) LIKE LOWER('STEPHANIE DE JESUS MEDINA NAVAS%');
+
+UPDATE contracts t
+SET t.`nro` = 6890
+WHERE LOWER(t.`servicio`) LIKE LOWER('DANIELA ALEJANDRA MEDINA%');
+
+UPDATE contracts t
+SET t.`nro` = 6892
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA VIRGINIA ACUÑA LEON%');
+
+UPDATE contracts t
+SET t.`nro` = 6893
+WHERE LOWER(t.`servicio`) LIKE LOWER('NUBIA ROCIO ALFONSO%');
+
+UPDATE contracts t
+SET t.`nro` = 6894
+WHERE LOWER(t.`servicio`) LIKE LOWER('CAMILO CARDOZO FANDIÑO%');
+
+UPDATE contracts t
+SET t.`nro` = 6896
+WHERE LOWER(t.`servicio`) LIKE LOWER('CLAUDIA ESPERANZA sin contrato ALVAREZ GARCIA%');
+
+UPDATE contracts t
+SET t.`nro` = 6897
+WHERE LOWER(t.`servicio`) LIKE LOWER('STEPHANNY MARGARETH ACOSTA CABRA%');
+
+UPDATE contracts t
+SET t.`nro` = 6899
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANDREA CRISTINA CUERVO PEÑA%');
+
+UPDATE contracts t
+SET t.`nro` = 6900
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANGELA PATRICIA CRUZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6907
+WHERE LOWER(t.`servicio`) LIKE LOWER('JEFERSON SEBASTIAN BERDUGO GARAVITO%');
+
+UPDATE contracts t
+SET t.`nro` = 6908
+WHERE LOWER(t.`servicio`) LIKE LOWER('CARLOS EDUARDO PINTO%');
+
+UPDATE contracts t
+SET t.`nro` = 6916
+WHERE LOWER(t.`servicio`) LIKE LOWER('NOHORA RAQUEL PANQUEVA LOPEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6917
+WHERE LOWER(t.`servicio`) LIKE LOWER('MANUEL ESTEBAN OSUNA RATIVA%');
+
+UPDATE contracts t
+SET t.`nro` = 6920
+WHERE LOWER(t.`servicio`) LIKE LOWER('JAVIER GARCIA GARAVITO%');
+
+UPDATE contracts t
+SET t.`nro` = 6923
+WHERE LOWER(t.`servicio`) LIKE LOWER('JAVIER ALEXANDER BOTELLO AGUILAR%');
+
+UPDATE contracts t
+SET t.`nro` = 6925
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARTHA ROCIO BECERRA FONSECA%');
+
+UPDATE contracts t
+SET t.`nro` = 6926
+WHERE LOWER(t.`servicio`) LIKE LOWER('JUDY TATIANA PAIPILLA CERCADO%');
+
+UPDATE contracts t
+SET t.`nro` = 6927
+WHERE LOWER(t.`servicio`) LIKE LOWER('LINA MARIA SERNA DELGADO%');
+
+UPDATE contracts t
+SET t.`nro` = 6928
+WHERE LOWER(t.`servicio`) LIKE LOWER('PATRICIA CRUZ SOCHA%');
+
+UPDATE contracts t
+SET t.`nro` = 6932
+WHERE LOWER(t.`servicio`) LIKE LOWER('ADRIEL MORALES CALDERON%');
+
+UPDATE contracts t
+SET t.`nro` = 6933
+WHERE LOWER(t.`servicio`) LIKE LOWER('JUAN MANUEL CRISTIANO TAMARA%');
+
+UPDATE contracts t
+SET t.`nro` = 6936
+WHERE LOWER(t.`servicio`) LIKE LOWER('SANDRA CECILIA DIAZ AREVALO%');
+
+UPDATE contracts t
+SET t.`nro` = 6937
+WHERE LOWER(t.`servicio`) LIKE LOWER('MIGUEL ANTONIO AMARILLO PRIETO%');
+
+UPDATE contracts t
+SET t.`nro` = 6938
+WHERE LOWER(t.`servicio`) LIKE LOWER('CARLOS ENRIQUE MEJIA GARCIA%');
+
+UPDATE contracts t
+SET t.`nro` = 6941
+WHERE LOWER(t.`servicio`) LIKE LOWER('INGRID SIERRA CACERES%');
+
+UPDATE contracts t
+SET t.`nro` = 6945
+WHERE LOWER(t.`servicio`) LIKE LOWER('DEISSY VIVIANA CAÑON PIRAJON%');
+
+UPDATE contracts t
+SET t.`nro` = 6947
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUZ HELENA MENDOZA CARDENAS%');
+
+UPDATE contracts t
+SET t.`nro` = 6949
+WHERE LOWER(t.`servicio`) LIKE LOWER('NICOL DAYANE FIGUEROA LOZANO%');
+
+UPDATE contracts t
+SET t.`nro` = 6952
+WHERE LOWER(t.`servicio`) LIKE LOWER('JAVIER BURITICA%');
+
+UPDATE contracts t
+SET t.`nro` = 6955
+WHERE LOWER(t.`servicio`) LIKE LOWER('SANDRA MILENA AYALA%');
+
+UPDATE contracts t
+SET t.`nro` = 6957
+WHERE LOWER(t.`servicio`) LIKE LOWER('IVAN DARIO GOMEZ BENITEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6959
+WHERE LOWER(t.`servicio`) LIKE LOWER('PILAR ESTUPIÑAN VELANDIA%');
+
+UPDATE contracts t
+SET t.`nro` = 6970
+WHERE LOWER(t.`servicio`) LIKE LOWER('ALIRIO SISA PARADA%');
+
+UPDATE contracts t
+SET t.`nro` = 6974
+WHERE LOWER(t.`servicio`) LIKE LOWER('GUSTAVO GONZALEZ RUIZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6976
+WHERE LOWER(t.`servicio`) LIKE LOWER('EMELINA QUINTERO AGUILAR%');
+
+UPDATE contracts t
+SET t.`nro` = 6977
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA JUDITH GARZON VARGAS%');
+
+UPDATE contracts t
+SET t.`nro` = 6980
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA LIGIA GARZON%');
+
+UPDATE contracts t
+SET t.`nro` = 6982
+WHERE LOWER(t.`servicio`) LIKE LOWER('STIFFANY BRISSETTE GONZALEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6984
+WHERE LOWER(t.`servicio`) LIKE LOWER('ORLANDO HERNANDEZ NIÑO%');
+
+UPDATE contracts t
+SET t.`nro` = 6988
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA DANIELA ROJAS HIGUERA%');
+
+UPDATE contracts t
+SET t.`nro` = 6989
+WHERE LOWER(t.`servicio`) LIKE LOWER('EDGAR WILSON TORRES MARTINEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6993
+WHERE LOWER(t.`servicio`) LIKE LOWER('SADETH MICHEL PUERTO REYES%');
+
+UPDATE contracts t
+SET t.`nro` = 6994
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS FELIPE TENJO VARGAS%');
+
+UPDATE contracts t
+SET t.`nro` = 6995
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANDREA CRISTINA CUERVO PEÑA%');
+
+UPDATE contracts t
+SET t.`nro` = 6998
+WHERE LOWER(t.`servicio`) LIKE LOWER('EDWIN CAMILO VIVAS LOPEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6999
+WHERE LOWER(t.`servicio`) LIKE LOWER('BERTILA JIMENA PUPIALES VILLARREAL%');
+
+UPDATE contracts t
+SET t.`nro` = 7002
+WHERE LOWER(t.`servicio`) LIKE LOWER('MADY VIVIANA SANCHEZ LOPEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7005
+WHERE LOWER(t.`servicio`) LIKE LOWER('SANDRA PAOLA SANCHEZ LOPEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7006
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARINELSA RONDON TAMAYO%');
+
+UPDATE contracts t
+SET t.`nro` = 7010
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARCELA WALTEROS%');
+
+UPDATE contracts t
+SET t.`nro` = 7012
+WHERE LOWER(t.`servicio`) LIKE LOWER('JHOIMAR JAVIER NAVARRO CARDENAS%');
+
+UPDATE contracts t
+SET t.`nro` = 7014
+WHERE LOWER(t.`servicio`) LIKE LOWER('HERNANDO enviar a cobrar a partir de abril CASTELLANO GONZALEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7015
+WHERE LOWER(t.`servicio`) LIKE LOWER('YEIMY PAOLA CARVAJAL RIAÑO%');
+
+UPDATE contracts t
+SET t.`nro` = 7016
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANDREA PAOLA CELY%');
+
+UPDATE contracts t
+SET t.`nro` = 7017
+WHERE LOWER(t.`servicio`) LIKE LOWER('KAREN YULIETH PONGUTA ESTUPIÑAN%');
+
+UPDATE contracts t
+SET t.`nro` = 7018
+WHERE LOWER(t.`servicio`) LIKE LOWER('GLORIA EDILSE PRECIADO CHAPARRO%');
+
+UPDATE contracts t
+SET t.`nro` = 7019
+WHERE LOWER(t.`servicio`) LIKE LOWER('EDGAR RAMIRO BONZA%');
+
+UPDATE contracts t
+SET t.`nro` = 7020
+WHERE LOWER(t.`servicio`) LIKE LOWER('CAROLINA CORONADO BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 7027
+WHERE LOWER(t.`servicio`) LIKE LOWER('NICOL TATIANA SANCHEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7030
+WHERE LOWER(t.`servicio`) LIKE LOWER('DERLY LILIANA MORENO%');
+
+UPDATE contracts t
+SET t.`nro` = 7032
+WHERE LOWER(t.`servicio`) LIKE LOWER('KAREN LORENA BUSTOS MOGOLLON%');
+
+UPDATE contracts t
+SET t.`nro` = 7038
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANGIE VANESSA YUSTRE RANGEL%');
+
+UPDATE contracts t
+SET t.`nro` = 7040
+WHERE LOWER(t.`servicio`) LIKE LOWER('NELSON JAVIER BECERRA OCHOA%');
+
+UPDATE contracts t
+SET t.`nro` = 7041
+WHERE LOWER(t.`servicio`) LIKE LOWER('JORGE ENRIQUE CHIA%');
+
+UPDATE contracts t
+SET t.`nro` = 7044
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA STELLA APONTE OJEDA%');
+
+UPDATE contracts t
+SET t.`nro` = 7047
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUZ MIREYA LOPEZ CALDERON%');
+
+UPDATE contracts t
+SET t.`nro` = 7048
+WHERE LOWER(t.`servicio`) LIKE LOWER('EVELIA PUERTO CAMARGO%');
+
+UPDATE contracts t
+SET t.`nro` = 7049
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS CARLOS RODRIGUEZ BETANCUR%');
+
+UPDATE contracts t
+SET t.`nro` = 7051
+WHERE LOWER(t.`servicio`) LIKE LOWER('WILLIAM ARMANDO PEREZ MELO%');
+
+UPDATE contracts t
+SET t.`nro` = 7052
+WHERE LOWER(t.`servicio`) LIKE LOWER('DANIELA GUTIERREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7053
+WHERE LOWER(t.`servicio`) LIKE LOWER('NUBIA STELLA BECERRA MEDINA%');
+
+UPDATE contracts t
+SET t.`nro` = 7059
+WHERE LOWER(t.`servicio`) LIKE LOWER('JUAN ROBERTO RODRIGUEZ GONZALEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7060
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARGIE JULIETH SIABATO CASTILLO%');
+
+UPDATE contracts t
+SET t.`nro` = 7061
+WHERE LOWER(t.`servicio`) LIKE LOWER('CRISTIAN CAMILO GOMEZ BENEDETTY%');
+
+UPDATE contracts t
+SET t.`nro` = 7062
+WHERE LOWER(t.`servicio`) LIKE LOWER('NANCY NATALIA FLECHAS AMEZQUITA%');
+
+UPDATE contracts t
+SET t.`nro` = 7063
+WHERE LOWER(t.`servicio`) LIKE LOWER('SLEYTER MANUEL GOMEZ GOMEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7065
+WHERE LOWER(t.`servicio`) LIKE LOWER('PEDRO IVAN PAREDES SUAREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7066
+WHERE LOWER(t.`servicio`) LIKE LOWER('CESAR DIAZ ACEVEDO%');
+
+UPDATE contracts t
+SET t.`nro` = 7068
+WHERE LOWER(t.`servicio`) LIKE LOWER('ELKIN DUVAN CAÑON BENITEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7069
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOHANNA ESMITH MATTA CAÑON%');
+
+UPDATE contracts t
+SET t.`nro` = 7070
+WHERE LOWER(t.`servicio`) LIKE LOWER('RAQUEL CELESTE MARTINEZ YNDRIAGO%');
+
+UPDATE contracts t
+SET t.`nro` = 7071
+WHERE LOWER(t.`servicio`) LIKE LOWER('HENRY SEBASTIAN GARCIA SAAVEDRA%');
+
+UPDATE contracts t
+SET t.`nro` = 7073
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA ADELA MONROY%');
+
+UPDATE contracts t
+SET t.`nro` = 7075
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOHNATAN PETER QUIJANO GOMEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7076
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS CARLOS TIENE IMS CATV AGUDELO MARIN%');
+
+UPDATE contracts t
+SET t.`nro` = 7077
+WHERE LOWER(t.`servicio`) LIKE LOWER('HORACIO BECERRA GIRATA%');
+
+UPDATE contracts t
+SET t.`nro` = 7078
+WHERE LOWER(t.`servicio`) LIKE LOWER('YENY MARIANGEL VARGAS VELAZQUEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7079
+WHERE LOWER(t.`servicio`) LIKE LOWER('ALEXANDER BARRERA SIAUCHO%');
+
+UPDATE contracts t
+SET t.`nro` = 7080
+WHERE LOWER(t.`servicio`) LIKE LOWER('LAURA PATIÑO%');
+
+UPDATE contracts t
+SET t.`nro` = 7082
+WHERE LOWER(t.`servicio`) LIKE LOWER('ALEJANDRA SARMIENTO RIVERO%');
+
+UPDATE contracts t
+SET t.`nro` = 7083
+WHERE LOWER(t.`servicio`) LIKE LOWER('ELVIRA MARISOL CHAPARRO PINEDA%');
+
+UPDATE contracts t
+SET t.`nro` = 7084
+WHERE LOWER(t.`servicio`) LIKE LOWER('MAIKOL SANTIAGO RODRIGUEZ LEON%');
+
+UPDATE contracts t
+SET t.`nro` = 7085
+WHERE LOWER(t.`servicio`) LIKE LOWER('JHON ESNEYDER FERRO%');
+
+UPDATE contracts t
+SET t.`nro` = 7091
+WHERE LOWER(t.`servicio`) LIKE LOWER('ARMANDO RODRIGUEZ BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 7094
+WHERE LOWER(t.`servicio`) LIKE LOWER('FANNY YANETH CASTILLO%');
+
+UPDATE contracts t
+SET t.`nro` = 7095
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANA MARIA MURCIA ARGUELLO%');
+
+UPDATE contracts t
+SET t.`nro` = 7097
+WHERE LOWER(t.`servicio`) LIKE LOWER('JUAN CARLOS BARON MACIAS%');
+
+UPDATE contracts t
+SET t.`nro` = 7099
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANA CAROLINA LEMUS HERNANDEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7101
+WHERE LOWER(t.`servicio`) LIKE LOWER('DIEGO ARMANDO SANCHEZ HENAO%');
+
+UPDATE contracts t
+SET t.`nro` = 7102
+WHERE LOWER(t.`servicio`) LIKE LOWER('EDILBERTO LOPEZ BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 7104
+WHERE LOWER(t.`servicio`) LIKE LOWER('FABIAN SNEIDER GAFARO BRIÑEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7105
+WHERE LOWER(t.`servicio`) LIKE LOWER('NUBIA MARCELA BECERRA GONZALEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7107
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUNA JINETH LINARES VARGAS%');
+
+UPDATE contracts t
+SET t.`nro` = 7108
+WHERE LOWER(t.`servicio`) LIKE LOWER('EVA TRINIDAD GRANADOS CACERES%');
+
+UPDATE contracts t
+SET t.`nro` = 7109
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS FERNANDO GUERRA PINEDA%');
+
+UPDATE contracts t
+SET t.`nro` = 7110
+WHERE LOWER(t.`servicio`) LIKE LOWER('OSCAR ANDRES PEDRIZA ORTIZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7111
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA CRISTINA VALDERRAMA VALDERRAMA%');
+
+UPDATE contracts t
+SET t.`nro` = 7113
+WHERE LOWER(t.`servicio`) LIKE LOWER('HECTOR HORACIO AMAYA GARCIA%');
+
+UPDATE contracts t
+SET t.`nro` = 7114
+WHERE LOWER(t.`servicio`) LIKE LOWER('MAYERLIN ESTUPIÑAN MONTAÑEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7117
+WHERE LOWER(t.`servicio`) LIKE LOWER('CESAR HUMBERTO DAVILA BELTRAN%');
+
+UPDATE contracts t
+SET t.`nro` = 7120
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA ANTONIA CACERES NAVAS%');
+
+UPDATE contracts t
+SET t.`nro` = 7121
+WHERE LOWER(t.`servicio`) LIKE LOWER('BLANCA PATRICIA MARTINEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7122
+WHERE LOWER(t.`servicio`) LIKE LOWER('DANIEL ALEJANDRO falta diligenciar contrato HIGUERA PUERTO%');
+
+UPDATE contracts t
+SET t.`nro` = 7126
+WHERE LOWER(t.`servicio`) LIKE LOWER('SONIA LORENA BARRERA MORALES%');
+
+UPDATE contracts t
+SET t.`nro` = 7127
+WHERE LOWER(t.`servicio`) LIKE LOWER('ZULEIMA DEL VALLE AGREDA%');
+
+UPDATE contracts t
+SET t.`nro` = 7129
+WHERE LOWER(t.`servicio`) LIKE LOWER('DIEGO FERNANDO FIGUEROA%');
+
+UPDATE contracts t
+SET t.`nro` = 7130
+WHERE LOWER(t.`servicio`) LIKE LOWER('CARLOS MARIO VELASQUEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7132
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA JOSE RIAÑO GUTIERREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7133
+WHERE LOWER(t.`servicio`) LIKE LOWER('AMERICO GONZALEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7136
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSEPTH ZAMIR SARMIENTO TORRES%');
+
+UPDATE contracts t
+SET t.`nro` = 7137
+WHERE LOWER(t.`servicio`) LIKE LOWER('AYDE PATRICIA GALVIS%');
+
+UPDATE contracts t
+SET t.`nro` = 7140
+WHERE LOWER(t.`servicio`) LIKE LOWER('VIVIANA CAROLINA ALVAREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7141
+WHERE LOWER(t.`servicio`) LIKE LOWER('CLAUDIA PEDREROS%');
+
+UPDATE contracts t
+SET t.`nro` = 7142
+WHERE LOWER(t.`servicio`) LIKE LOWER('WILLIAM JHAIRSIGNO SANTIESTEBAN CASTRO%');
+
+UPDATE contracts t
+SET t.`nro` = 7143
+WHERE LOWER(t.`servicio`) LIKE LOWER('IGOR JOSE GONZALEZ GUTIERREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7144
+WHERE LOWER(t.`servicio`) LIKE LOWER('ALEJANDRA DEL PILAR GUAUQUE%');
+
+UPDATE contracts t
+SET t.`nro` = 7145
+WHERE LOWER(t.`servicio`) LIKE LOWER('CARLOS DAVID TERAN%');
+
+UPDATE contracts t
+SET t.`nro` = 7146
+WHERE LOWER(t.`servicio`) LIKE LOWER('CAMILA DEL MAR CELY MORANTES%');
+
+UPDATE contracts t
+SET t.`nro` = 7147
+WHERE LOWER(t.`servicio`) LIKE LOWER('CHRISTOFHER DRUMMOND FONSECA GOMEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7148
+WHERE LOWER(t.`servicio`) LIKE LOWER('MIRYAM RODRIGUEZ PARRA%');
+
+UPDATE contracts t
+SET t.`nro` = 7149
+WHERE LOWER(t.`servicio`) LIKE LOWER('MAIRA YULITZA CASTAÑO CUENCA%');
+
+UPDATE contracts t
+SET t.`nro` = 7162
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOHAN BRADLEY ANGARITA MURILLO%');
+
+UPDATE contracts t
+SET t.`nro` = 7163
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE SALVADOR PULIDO HIGUERA%');
+
+UPDATE contracts t
+SET t.`nro` = 7164
+WHERE LOWER(t.`servicio`) LIKE LOWER('ERIKA VIANNY ORTIZ PANQUEVA%');
+
+UPDATE contracts t
+SET t.`nro` = 7165
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSELYN CHAPARRO MONTAÑA%');
+
+UPDATE contracts t
+SET t.`nro` = 7166
+WHERE LOWER(t.`servicio`) LIKE LOWER('AURA EMILIANA NUÑEZ DE PUERTO%');
+
+UPDATE contracts t
+SET t.`nro` = 7169
+WHERE LOWER(t.`servicio`) LIKE LOWER('CLARA NELLY RODRIGUEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7171
+WHERE LOWER(t.`servicio`) LIKE LOWER('LEIDY JOHANNA FONSECA%');
+
+UPDATE contracts t
+SET t.`nro` = 7172
+WHERE LOWER(t.`servicio`) LIKE LOWER('YORGELIS MIRELES PAREDES%');
+
+UPDATE contracts t
+SET t.`nro` = 7174
+WHERE LOWER(t.`servicio`) LIKE LOWER('JESSICA GISELA pendiente firma contrato SUAREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7175
+WHERE LOWER(t.`servicio`) LIKE LOWER('JENNY LORENA RINCON FLECHAS%');
+
+UPDATE contracts t
+SET t.`nro` = 7176
+WHERE LOWER(t.`servicio`) LIKE LOWER('SERGIO ANDRES CORREDOR%');
+
+UPDATE contracts t
+SET t.`nro` = 7178
+WHERE LOWER(t.`servicio`) LIKE LOWER('ROSALIA ROJAS DAZA%');
+
+UPDATE contracts t
+SET t.`nro` = 7179
+WHERE LOWER(t.`servicio`) LIKE LOWER('AURA LILIA BECERRA VALDERRAMA%');
+
+UPDATE contracts t
+SET t.`nro` = 7180
+WHERE LOWER(t.`servicio`) LIKE LOWER('CATALINA TORRES%');
+
+UPDATE contracts t
+SET t.`nro` = 7181
+WHERE LOWER(t.`servicio`) LIKE LOWER('INES RODRIGUEZ CAMARGO%');
+
+UPDATE contracts t
+SET t.`nro` = 7182
+WHERE LOWER(t.`servicio`) LIKE LOWER('OSCAR ALONSO LAGOS MANCO%');
+
+UPDATE contracts t
+SET t.`nro` = 7183
+WHERE LOWER(t.`servicio`) LIKE LOWER('CAMILA ANDREA PINEDA%');
+
+UPDATE contracts t
+SET t.`nro` = 7184
+WHERE LOWER(t.`servicio`) LIKE LOWER('MAGDA PATRICIA PLAZAS BONILLA%');
+
+UPDATE contracts t
+SET t.`nro` = 7185
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA ANTONIA RIVERA CUSPOCA%');
+
+UPDATE contracts t
+SET t.`nro` = 7186
+WHERE LOWER(t.`servicio`) LIKE LOWER('CESAR TEODORO CARO SANDOVAL%');
+
+UPDATE contracts t
+SET t.`nro` = 7187
+WHERE LOWER(t.`servicio`) LIKE LOWER('LISMAR VILLAMIZAR VEGA%');
+
+UPDATE contracts t
+SET t.`nro` = 7188
+WHERE LOWER(t.`servicio`) LIKE LOWER('CLARA FERNANDA MORENO CASTAÑEDA%');
+
+UPDATE contracts t
+SET t.`nro` = 7189
+WHERE LOWER(t.`servicio`) LIKE LOWER('TERESA DE JESUS BAEZ ZAPATA%');
+
+UPDATE contracts t
+SET t.`nro` = 7190
+WHERE LOWER(t.`servicio`) LIKE LOWER('SERGIO GONZALO CUSPOCA BAUTISTA%');
+
+UPDATE contracts t
+SET t.`nro` = 7191
+WHERE LOWER(t.`servicio`) LIKE LOWER('MILADYS QUICENO MANRIQUE%');
+
+UPDATE contracts t
+SET t.`nro` = 7194
+WHERE LOWER(t.`servicio`) LIKE LOWER('DANIEL FELIPE JIMENEZ DIAZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7195
+WHERE LOWER(t.`servicio`) LIKE LOWER('GENESIS YERALDINES REINA ACOSTA%');
+
+UPDATE contracts t
+SET t.`nro` = 7198
+WHERE LOWER(t.`servicio`) LIKE LOWER('BLANCA DAMARIS DURAN HEREDIA%');
+
+UPDATE contracts t
+SET t.`nro` = 7199
+WHERE LOWER(t.`servicio`) LIKE LOWER('NUBIA BENITA OCHOA FONSECA%');
+
+UPDATE contracts t
+SET t.`nro` = 7201
+WHERE LOWER(t.`servicio`) LIKE LOWER('DIEGO GERMAN MORALES JOYA%');
+
+UPDATE contracts t
+SET t.`nro` = 7202
+WHERE LOWER(t.`servicio`) LIKE LOWER('DIANA CAROLINA PEREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7203
+WHERE LOWER(t.`servicio`) LIKE LOWER('DANA ALEJANDRA PEREZ PAEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7205
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE OSWALDO CETINA CETINA%');
+
+UPDATE contracts t
+SET t.`nro` = 7208
+WHERE LOWER(t.`servicio`) LIKE LOWER('DIANA ROSIO PEREZ PEÑA%');
+
+UPDATE contracts t
+SET t.`nro` = 7209
+WHERE LOWER(t.`servicio`) LIKE LOWER('WILSON MORALES LOPEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7210
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE MILAN SUAREZ AGUILAR%');
+
+UPDATE contracts t
+SET t.`nro` = 7211
+WHERE LOWER(t.`servicio`) LIKE LOWER('HUBER ALEJANDRO SALAMANCA RODRIGUEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7216
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANGIE ALEJANDRA CORREDOR%');
+
+UPDATE contracts t
+SET t.`nro` = 7217
+WHERE LOWER(t.`servicio`) LIKE LOWER('CARLOS JAVIER TEJEDOR RODRIGUEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7218
+WHERE LOWER(t.`servicio`) LIKE LOWER('ROSA CECILIA SANDOVAL ALVAREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7219
+WHERE LOWER(t.`servicio`) LIKE LOWER('PAULINA falta contrato diligenciar para enviar y lo firme LARA%');
+
+UPDATE contracts t
+SET t.`nro` = 7221
+WHERE LOWER(t.`servicio`) LIKE LOWER('LIZETH YAMILE HIGUERA ALVAREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7224
+WHERE LOWER(t.`servicio`) LIKE LOWER('SHARON VANESA LAGOS CELY%');
+
+UPDATE contracts t
+SET t.`nro` = 7225
+WHERE LOWER(t.`servicio`) LIKE LOWER('ZAILE PALACIOS%');
+
+UPDATE contracts t
+SET t.`nro` = 7226
+WHERE LOWER(t.`servicio`) LIKE LOWER('YENI VIVIANA BARRERA MESA%');
+
+UPDATE contracts t
+SET t.`nro` = 7227
+WHERE LOWER(t.`servicio`) LIKE LOWER('PAULA ANDREA PONGUTA ESTUPIÑAN%');
+
+UPDATE contracts t
+SET t.`nro` = 7228
+WHERE LOWER(t.`servicio`) LIKE LOWER('YEIMY LORENA DUEÑAS CAMARGO%');
+
+UPDATE contracts t
+SET t.`nro` = 7229
+WHERE LOWER(t.`servicio`) LIKE LOWER('RAFAEL LEONARDO GARCIA%');
+
+UPDATE contracts t
+SET t.`nro` = 7230
+WHERE LOWER(t.`servicio`) LIKE LOWER('LIGIA GIRALDO DE NIÑO%');
+
+UPDATE contracts t
+SET t.`nro` = 7231
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA NELLY BECERRA MORALES%');
+
+UPDATE contracts t
+SET t.`nro` = 7232
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA VICTORIA GUIO HIGUERA%');
+
+UPDATE contracts t
+SET t.`nro` = 7236
+WHERE LOWER(t.`servicio`) LIKE LOWER('FRANCISCO JAVIER falta firmar contrato GRIMALDOS RINCON%');
+
+UPDATE contracts t
+SET t.`nro` = 7237
+WHERE LOWER(t.`servicio`) LIKE LOWER('LEIDY KATHERINE NUÑEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7238
+WHERE LOWER(t.`servicio`) LIKE LOWER('MICHAEL STEVEN TORRES PAEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7241
+WHERE LOWER(t.`servicio`) LIKE LOWER('BLANCA LIGIA MARTINEZ MORALES%');
+
+UPDATE contracts t
+SET t.`nro` = 7243
+WHERE LOWER(t.`servicio`) LIKE LOWER('AYDE PATRICIA GALVIS%');
+
+UPDATE contracts t
+SET t.`nro` = NULL
+WHERE LOWER(t.`servicio`) LIKE LOWER('%');
+
+UPDATE contracts t
+SET t.`nro` = 410
+WHERE LOWER(t.`servicio`) LIKE LOWER('GLADYS AMANDA PINEDA%');
+
+UPDATE contracts t
+SET t.`nro` = 3000
+WHERE LOWER(t.`servicio`) LIKE LOWER('ADRIANA LUCIA GRIMALDOS PEREA%');
+
+UPDATE contracts t
+SET t.`nro` = 3001
+WHERE LOWER(t.`servicio`) LIKE LOWER('ADRIANA MEDINA CRISTANCHO%');
+
+UPDATE contracts t
+SET t.`nro` = 3002
+WHERE LOWER(t.`servicio`) LIKE LOWER('AICARDO EMANUEL SUAREZ BALAGUERA%');
+
+UPDATE contracts t
+SET t.`nro` = 3003
+WHERE LOWER(t.`servicio`) LIKE LOWER('ALBEIRO ARLEY AMADO%');
+
+UPDATE contracts t
+SET t.`nro` = 3004
+WHERE LOWER(t.`servicio`) LIKE LOWER('OMAR ALBEIRO PARRA%');
+
+UPDATE contracts t
+SET t.`nro` = 3005
+WHERE LOWER(t.`servicio`) LIKE LOWER('ALIX YANIRA VERDUGO FERNANDEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 3006
+WHERE LOWER(t.`servicio`) LIKE LOWER('ALVARO GARCIA LOPEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 3007
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANA AIRETH VALBUENA CORSO%');
+
+UPDATE contracts t
+SET t.`nro` = 3009
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANA DANIELA SILVA ROJAS%');
+
+UPDATE contracts t
+SET t.`nro` = 3010
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANA DILIA GIL CARDENAS%');
+
+UPDATE contracts t
+SET t.`nro` = 3012
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANA ELVIA MORENO AMADO%');
+
+UPDATE contracts t
+SET t.`nro` = 3015
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANA MARCELA BALAGUERA GALLO%');
+
+UPDATE contracts t
+SET t.`nro` = 3019
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANA YOLIMA LOPEZ CASTRO%');
+
+UPDATE contracts t
+SET t.`nro` = 3021
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANDREA MILENA ALVAREZ TELLEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 3023
+WHERE LOWER(t.`servicio`) LIKE LOWER('AFRELINA MOGOLLON VARGAS%');
+
+UPDATE contracts t
+SET t.`nro` = 3024
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANGELA ELSY CARDENAS ALBARRACIN%');
+
+UPDATE contracts t
+SET t.`nro` = 3026
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANGELA MILENA CASTRO RONDEROS%');
+
+UPDATE contracts t
+SET t.`nro` = 3028
+WHERE LOWER(t.`servicio`) LIKE LOWER('ARACELY BALAGUERA DE CORDOBA%');
+
+UPDATE contracts t
+SET t.`nro` = 3031
+WHERE LOWER(t.`servicio`) LIKE LOWER('AURA DELIA ALARCON SISA%');
+
+UPDATE contracts t
+SET t.`nro` = 3035
+WHERE LOWER(t.`servicio`) LIKE LOWER('BLANCA ROBIRA DIAZ%');
+
+UPDATE contracts t
+SET t.`nro` = 3037
+WHERE LOWER(t.`servicio`) LIKE LOWER('CARLOS ALBEIRO MOLINA%');
+
+UPDATE contracts t
+SET t.`nro` = 3038
+WHERE LOWER(t.`servicio`) LIKE LOWER('CARLOS ALBERTO CORDOBA SANTOS%');
+
+UPDATE contracts t
+SET t.`nro` = 3039
+WHERE LOWER(t.`servicio`) LIKE LOWER('CARLOS ANDRES FONSECA BARON%');
+
+UPDATE contracts t
+SET t.`nro` = 3040
+WHERE LOWER(t.`servicio`) LIKE LOWER('CARLOS AUGUSTO AVELLANEDA GALLO%');
+
+UPDATE contracts t
+SET t.`nro` = 3041
+WHERE LOWER(t.`servicio`) LIKE LOWER('CAROLINA ALARCON PEREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 3045
+WHERE LOWER(t.`servicio`) LIKE LOWER('CLARA MARIA LOPEZ DE HERNANDEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 3046
+WHERE LOWER(t.`servicio`) LIKE LOWER('CLAUDIA ALEJANDRA ZUNIGA ESTUPIÑAN%');
+
+UPDATE contracts t
+SET t.`nro` = 3051
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANA MARIA MARQUEZ SISSA%');
+
+UPDATE contracts t
+SET t.`nro` = 3056
+WHERE LOWER(t.`servicio`) LIKE LOWER('DANIEL FERNANDO LOPEZ CARDENAS%');
+
+UPDATE contracts t
+SET t.`nro` = 3060
+WHERE LOWER(t.`servicio`) LIKE LOWER('DAYANA ASTRID HIGUERA SANDOVAL%');
+
+UPDATE contracts t
+SET t.`nro` = 3063
+WHERE LOWER(t.`servicio`) LIKE LOWER('DIANA CAROLINA ALVAREZ CARDENAS%');
+
+UPDATE contracts t
+SET t.`nro` = 3064
+WHERE LOWER(t.`servicio`) LIKE LOWER('DIANA CAROLINA CORREDOR SANTOS%');
+
+UPDATE contracts t
+SET t.`nro` = 3068
+WHERE LOWER(t.`servicio`) LIKE LOWER('DIANA MARCELA VEGA NUÑEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 3072
+WHERE LOWER(t.`servicio`) LIKE LOWER('DOMINGO HERNANDEZ PEÑA%');
+
+UPDATE contracts t
+SET t.`nro` = 3073
+WHERE LOWER(t.`servicio`) LIKE LOWER('DORA MARILSE CARDENAS CORREDOR%');
+
+UPDATE contracts t
+SET t.`nro` = 3078
+WHERE LOWER(t.`servicio`) LIKE LOWER('EDILMA RINCON SILVA%');
+
+UPDATE contracts t
+SET t.`nro` = 3079
+WHERE LOWER(t.`servicio`) LIKE LOWER('EDITH GONZALEZ HENRIQUEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 3082
+WHERE LOWER(t.`servicio`) LIKE LOWER('EDWIN CAMILO LOPEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 3083
+WHERE LOWER(t.`servicio`) LIKE LOWER('EDWIN YAHIR ARGUELLO AGREDO%');
+
+UPDATE contracts t
+SET t.`nro` = 3084
+WHERE LOWER(t.`servicio`) LIKE LOWER('EFREN GARCIA ALARCON%');
+
+UPDATE contracts t
+SET t.`nro` = 3087
+WHERE LOWER(t.`servicio`) LIKE LOWER('ELISENIA PEREZ DIAZ%');
+
+UPDATE contracts t
+SET t.`nro` = 3088
+WHERE LOWER(t.`servicio`) LIKE LOWER('ELSA YANETH ALDANA AMADO%');
+
+UPDATE contracts t
+SET t.`nro` = 3089
+WHERE LOWER(t.`servicio`) LIKE LOWER('ELVER PEREZ DIAZ%');
+
+UPDATE contracts t
+SET t.`nro` = 3092
+WHERE LOWER(t.`servicio`) LIKE LOWER('ESGAR FERNEY FERNANDEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 3093
+WHERE LOWER(t.`servicio`) LIKE LOWER('ESMERALDA LOZADA MARTINEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 3094
+WHERE LOWER(t.`servicio`) LIKE LOWER('LEIDY PAOLA DIAZ%');
+
+UPDATE contracts t
+SET t.`nro` = 3095
+WHERE LOWER(t.`servicio`) LIKE LOWER('EVER ARMANDO ESTUPIÑAN RIVERA%');
+
+UPDATE contracts t
+SET t.`nro` = 3096
+WHERE LOWER(t.`servicio`) LIKE LOWER('FABIAN ARBEY MOJICA FERNANDEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 3097
+WHERE LOWER(t.`servicio`) LIKE LOWER('FERNANDO JAVIER VEGA%');
+
+UPDATE contracts t
+SET t.`nro` = 3098
+WHERE LOWER(t.`servicio`) LIKE LOWER('FLAMINIO DE JESUS AGUDELO%');
+
+UPDATE contracts t
+SET t.`nro` = 3099
+WHERE LOWER(t.`servicio`) LIKE LOWER('FLOR ALBA CASTRO SUAREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 3102
+WHERE LOWER(t.`servicio`) LIKE LOWER('FRANCY AIDE AMADO PEREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 3103
+WHERE LOWER(t.`servicio`) LIKE LOWER('FRANCY COROMOTO ZAMBRANO%');
+
+UPDATE contracts t
+SET t.`nro` = 3104
+WHERE LOWER(t.`servicio`) LIKE LOWER('FRAXEDIS DEL PILAR ZARATE TELLEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 3105
+WHERE LOWER(t.`servicio`) LIKE LOWER('FRAXEDIS DEL PILAR ZARATE TELLEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 3106
+WHERE LOWER(t.`servicio`) LIKE LOWER('FREDY LEONARDO GUTIERREZ GOMEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 3110
+WHERE LOWER(t.`servicio`) LIKE LOWER('GLORIA SANABRIA SANTOS%');
+
+UPDATE contracts t
+SET t.`nro` = 3112
+WHERE LOWER(t.`servicio`) LIKE LOWER('GUILLERMO EDUARDO PINTO AMAYA%');
+
+UPDATE contracts t
+SET t.`nro` = 3115
+WHERE LOWER(t.`servicio`) LIKE LOWER('HERMES JOAQUIN VARGAS%');
+
+UPDATE contracts t
+SET t.`nro` = 3117
+WHERE LOWER(t.`servicio`) LIKE LOWER('INES DEL CARMEN BOADA DE VARGAS%');
+
+UPDATE contracts t
+SET t.`nro` = 3118
+WHERE LOWER(t.`servicio`) LIKE LOWER('INIRIDA GUERRERO HERNANDEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 3120
+WHERE LOWER(t.`servicio`) LIKE LOWER('IRMA YANETH SANCHEZ CEPEDA%');
+
+UPDATE contracts t
+SET t.`nro` = 3121
+WHERE LOWER(t.`servicio`) LIKE LOWER('ISABELLA CASTRO LOPEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 3122
+WHERE LOWER(t.`servicio`) LIKE LOWER('IVAN DARIO CARREÑO PINEDA%');
+
+UPDATE contracts t
+SET t.`nro` = 3123
+WHERE LOWER(t.`servicio`) LIKE LOWER('IVVON YENIFER VARGAS%');
+
+UPDATE contracts t
+SET t.`nro` = 3126
+WHERE LOWER(t.`servicio`) LIKE LOWER('JAMES DAVID SANABRIA MACHUCA%');
+
+UPDATE contracts t
+SET t.`nro` = 3127
+WHERE LOWER(t.`servicio`) LIKE LOWER('JAVIER ANTONIO INFANTE ALARCON%');
+
+UPDATE contracts t
+SET t.`nro` = 3128
+WHERE LOWER(t.`servicio`) LIKE LOWER('JAVIER RINCON GUERRERO%');
+
+UPDATE contracts t
+SET t.`nro` = 3129
+WHERE LOWER(t.`servicio`) LIKE LOWER('JEISSON ANDRES MESA SUAN%');
+
+UPDATE contracts t
+SET t.`nro` = 3130
+WHERE LOWER(t.`servicio`) LIKE LOWER('JESICA GERALDINE CRISTANCHO AYALA%');
+
+UPDATE contracts t
+SET t.`nro` = 3131
+WHERE LOWER(t.`servicio`) LIKE LOWER('JHON FREDY ARAQUE ALARCON%');
+
+UPDATE contracts t
+SET t.`nro` = 3133
+WHERE LOWER(t.`servicio`) LIKE LOWER('JIMENO ARAQUE ROJAS%');
+
+UPDATE contracts t
+SET t.`nro` = 3134
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOHANNA ELIZABETH GUTIERREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 3139
+WHERE LOWER(t.`servicio`) LIKE LOWER('JHON JAIRO MERCHAN%');
+
+UPDATE contracts t
+SET t.`nro` = 3140
+WHERE LOWER(t.`servicio`) LIKE LOWER('JORGE CAMILO SIERRA SUAN%');
+
+UPDATE contracts t
+SET t.`nro` = 3141
+WHERE LOWER(t.`servicio`) LIKE LOWER('JORGE ENRIQUE CARDENAS ALBARRACIN%');
+
+UPDATE contracts t
+SET t.`nro` = 3144
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE BENJAMIN TORRES PALACIOS%');
+
+UPDATE contracts t
+SET t.`nro` = 3145
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE DEL ROSARIO DIAZ RINCON%');
+
+UPDATE contracts t
+SET t.`nro` = 3146
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE DOMINGO ACERO PARRA%');
+
+UPDATE contracts t
+SET t.`nro` = 3147
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE DOMINGO VARGAS%');
+
+UPDATE contracts t
+SET t.`nro` = 3149
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE NARCIZO MARTINEZ ANGARITA%');
+
+UPDATE contracts t
+SET t.`nro` = 3150
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARTHA JANET VARGAS DE BAEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 3151
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE RINCON VARGAS%');
+
+UPDATE contracts t
+SET t.`nro` = 3153
+WHERE LOWER(t.`servicio`) LIKE LOWER('LEIDY CONSUELO BAUTISTA GUERRERO%');
+
+UPDATE contracts t
+SET t.`nro` = 3154
+WHERE LOWER(t.`servicio`) LIKE LOWER('JUAN ANTONIO TRIANA PATARROYO%');
+
+UPDATE contracts t
+SET t.`nro` = 3158
+WHERE LOWER(t.`servicio`) LIKE LOWER('JULIAN ALVAREZ DAZA%');
+
+UPDATE contracts t
+SET t.`nro` = 3159
+WHERE LOWER(t.`servicio`) LIKE LOWER('JULIETH HASBLEIDY PEREZ CAICEDO%');
+
+UPDATE contracts t
+SET t.`nro` = 3161
+WHERE LOWER(t.`servicio`) LIKE LOWER('JULIO CESAR CASTRO AYALA%');
+
+UPDATE contracts t
+SET t.`nro` = 3162
+WHERE LOWER(t.`servicio`) LIKE LOWER('JULIO VICENTE DAZA%');
+
+UPDATE contracts t
+SET t.`nro` = 3164
+WHERE LOWER(t.`servicio`) LIKE LOWER('KAREN LICED PAREDES OLARTE%');
+
+UPDATE contracts t
+SET t.`nro` = 3165
+WHERE LOWER(t.`servicio`) LIKE LOWER('KAREN YOHANA TOBASIA VERDUGO%');
+
+UPDATE contracts t
+SET t.`nro` = 3168
+WHERE LOWER(t.`servicio`) LIKE LOWER('LEIDY PAOLA AYALA GALLO%');
+
+UPDATE contracts t
+SET t.`nro` = 3169
+WHERE LOWER(t.`servicio`) LIKE LOWER('LEIDY LILIANA BECERRA GALLO%');
+
+UPDATE contracts t
+SET t.`nro` = 3171
+WHERE LOWER(t.`servicio`) LIKE LOWER('LEIDY YAMILE PUENTES ARIAS%');
+
+UPDATE contracts t
+SET t.`nro` = 3173
+WHERE LOWER(t.`servicio`) LIKE LOWER('LIBIA ESLAVA MANOSALVA%');
+
+UPDATE contracts t
+SET t.`nro` = 3174
+WHERE LOWER(t.`servicio`) LIKE LOWER('LICETH ARGUELLO AGREDO%');
+
+UPDATE contracts t
+SET t.`nro` = 3177
+WHERE LOWER(t.`servicio`) LIKE LOWER('LINA ROSA SOLANO GUERRERO%');
+
+UPDATE contracts t
+SET t.`nro` = 3184
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS ERNESTO PEREZ ARAQUE%');
+
+UPDATE contracts t
+SET t.`nro` = 3186
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS FRANCISCO SALAMANCA%');
+
+UPDATE contracts t
+SET t.`nro` = 3188
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUZ DARY TOBACIA INFANTE%');
+
+UPDATE contracts t
+SET t.`nro` = 3191
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUZ YADIRA PINEDA MALDONADO%');
+
+UPDATE contracts t
+SET t.`nro` = 3192
+WHERE LOWER(t.`servicio`) LIKE LOWER('LYDA ISABEL ZARATE%');
+
+UPDATE contracts t
+SET t.`nro` = 3194
+WHERE LOWER(t.`servicio`) LIKE LOWER('MAGOLA LARA%');
+
+UPDATE contracts t
+SET t.`nro` = 3197
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARCELA PATRICIA VARGAS VARGAS%');
+
+UPDATE contracts t
+SET t.`nro` = 3198
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARCELA YOLANDA SILVA RINCON%');
+
+UPDATE contracts t
+SET t.`nro` = 3200
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARCO ANTONIO NOVA%');
+
+UPDATE contracts t
+SET t.`nro` = 3202
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA CUSTODIA MENDIVELSO%');
+
+UPDATE contracts t
+SET t.`nro` = 3206
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA ELENA DIAZ ANGARITA%');
+
+UPDATE contracts t
+SET t.`nro` = 3208
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA EUGENIA CONTRERAS SALMANCA%');
+
+UPDATE contracts t
+SET t.`nro` = 3213
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA INES ARAQUE%');
+
+UPDATE contracts t
+SET t.`nro` = 3215
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA ISABEL VARGAS TIBADUIZA%');
+
+UPDATE contracts t
+SET t.`nro` = 3218
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA MARGARITA CRISTANCHO%');
+
+UPDATE contracts t
+SET t.`nro` = 3221
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA ROSARIO MALDONADO CARDENAS%');
+
+UPDATE contracts t
+SET t.`nro` = 3222
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIBEL ALARCON GALLO%');
+
+UPDATE contracts t
+SET t.`nro` = 3223
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARICELA CORREDOR PEREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 3224
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIELA FONSECA%');
+
+UPDATE contracts t
+SET t.`nro` = 3225
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIELA MORA DE LOPEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 3226
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIO ANDRES JAIME GIL%');
+
+UPDATE contracts t
+SET t.`nro` = 3330
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARLENI SANCHEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 3338
+WHERE LOWER(t.`servicio`) LIKE LOWER('MATEO EMANUEL PIÑEROS KATTAH%');
+
+UPDATE contracts t
+SET t.`nro` = 3340
+WHERE LOWER(t.`servicio`) LIKE LOWER('MAYERLY ANDREA OLIVARES DIAZ%');
+
+UPDATE contracts t
+SET t.`nro` = 3341
+WHERE LOWER(t.`servicio`) LIKE LOWER('MERY MACHUCA ROJAS%');
+
+UPDATE contracts t
+SET t.`nro` = 3344
+WHERE LOWER(t.`servicio`) LIKE LOWER('MILTON ANTONIO PACHON CARREÑO%');
+
+UPDATE contracts t
+SET t.`nro` = 3346
+WHERE LOWER(t.`servicio`) LIKE LOWER('MIRIAM CONSUELO MORENO CONTRERAS%');
+
+UPDATE contracts t
+SET t.`nro` = 3350
+WHERE LOWER(t.`servicio`) LIKE LOWER('NANCY MARCELA AMADO LARA%');
+
+UPDATE contracts t
+SET t.`nro` = 3352
+WHERE LOWER(t.`servicio`) LIKE LOWER('NANCY TATIANA  se realizo cambio de equipo ROJAS PEREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 3354
+WHERE LOWER(t.`servicio`) LIKE LOWER('NELLY NARANJO ARDILA%');
+
+UPDATE contracts t
+SET t.`nro` = 3357
+WHERE LOWER(t.`servicio`) LIKE LOWER('ROBERTO JOSE GUERRERO%');
+
+UPDATE contracts t
+SET t.`nro` = 3358
+WHERE LOWER(t.`servicio`) LIKE LOWER('OMAIRA DEL CARMEN GOMEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 3360
+WHERE LOWER(t.`servicio`) LIKE LOWER('ORLANDO DE JESUS se cambio ont AYALA%');
+
+UPDATE contracts t
+SET t.`nro` = 3364
+WHERE LOWER(t.`servicio`) LIKE LOWER('OSCAR HERNANDO RODRIGUEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 3367
+WHERE LOWER(t.`servicio`) LIKE LOWER('OSWALDO AYALA CASTRO%');
+
+UPDATE contracts t
+SET t.`nro` = 3369
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUZ YANETH LOPEZ GARCIA%');
+
+UPDATE contracts t
+SET t.`nro` = 3371
+WHERE LOWER(t.`servicio`) LIKE LOWER('PEDRO JAVIER CEPEDA BARRETO%');
+
+UPDATE contracts t
+SET t.`nro` = 3373
+WHERE LOWER(t.`servicio`) LIKE LOWER('PEDRO JOSE ARAQUE ANGARITA%');
+
+UPDATE contracts t
+SET t.`nro` = 3375
+WHERE LOWER(t.`servicio`) LIKE LOWER('PEDRO JOSE RINCON MORANTES%');
+
+UPDATE contracts t
+SET t.`nro` = 3376
+WHERE LOWER(t.`servicio`) LIKE LOWER('RAFAEL EDUARDO MARTINEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 3378
+WHERE LOWER(t.`servicio`) LIKE LOWER('RODRIGO ALEJANDRO AMAYA LOPEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 3379
+WHERE LOWER(t.`servicio`) LIKE LOWER('ROSAURA TORRES%');
+
+UPDATE contracts t
+SET t.`nro` = 3381
+WHERE LOWER(t.`servicio`) LIKE LOWER('ROSA MARINA SUAN RINCON%');
+
+UPDATE contracts t
+SET t.`nro` = 3383
+WHERE LOWER(t.`servicio`) LIKE LOWER('ROSANA PACHON SOLANO%');
+
+UPDATE contracts t
+SET t.`nro` = 3385
+WHERE LOWER(t.`servicio`) LIKE LOWER('SANDRA MILENA LOPEZ MORA%');
+
+UPDATE contracts t
+SET t.`nro` = 3387
+WHERE LOWER(t.`servicio`) LIKE LOWER('SANTIAGO FEDERICO ALVAREZ SOLEDAD%');
+
+UPDATE contracts t
+SET t.`nro` = 3388
+WHERE LOWER(t.`servicio`) LIKE LOWER('SAUL OSWALDO CORREA%');
+
+UPDATE contracts t
+SET t.`nro` = 3389
+WHERE LOWER(t.`servicio`) LIKE LOWER('SEBASTIAN ALEJANDRO GARCIA FONSECA%');
+
+UPDATE contracts t
+SET t.`nro` = 3390
+WHERE LOWER(t.`servicio`) LIKE LOWER('YAMIT FABIAN RIVERA RODRIGUEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 3391
+WHERE LOWER(t.`servicio`) LIKE LOWER('SEGUNDO FERNEY MOLINA CARDENAS%');
+
+UPDATE contracts t
+SET t.`nro` = 3392
+WHERE LOWER(t.`servicio`) LIKE LOWER('SERGIO ALBERTO MERCHAN BALAGUERA%');
+
+UPDATE contracts t
+SET t.`nro` = 3394
+WHERE LOWER(t.`servicio`) LIKE LOWER('SONIA CARDENAS GOMEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 3395
+WHERE LOWER(t.`servicio`) LIKE LOWER('SONIA CASTRO CASTRO%');
+
+UPDATE contracts t
+SET t.`nro` = 3398
+WHERE LOWER(t.`servicio`) LIKE LOWER('TERESA ganadora tv CASTRO%');
+
+UPDATE contracts t
+SET t.`nro` = 3401
+WHERE LOWER(t.`servicio`) LIKE LOWER('YENNIFER CASTILLO SANABRIA%');
+
+UPDATE contracts t
+SET t.`nro` = 3403
+WHERE LOWER(t.`servicio`) LIKE LOWER('VERONICA VEGA CARVAJAL%');
+
+UPDATE contracts t
+SET t.`nro` = 3405
+WHERE LOWER(t.`servicio`) LIKE LOWER('VICTOR HUGO PEREZ ROZO%');
+
+UPDATE contracts t
+SET t.`nro` = 3406
+WHERE LOWER(t.`servicio`) LIKE LOWER('VICTOR JULIO DUEÑAS BALAGUERA%');
+
+UPDATE contracts t
+SET t.`nro` = 3407
+WHERE LOWER(t.`servicio`) LIKE LOWER('VICTOR RAFAEL RINCON%');
+
+UPDATE contracts t
+SET t.`nro` = 3408
+WHERE LOWER(t.`servicio`) LIKE LOWER('VIVIANA CAROLINA ROJAS NIÑO%');
+
+UPDATE contracts t
+SET t.`nro` = 3409
+WHERE LOWER(t.`servicio`) LIKE LOWER('WILLIAM PEREZ ROZO%');
+
+UPDATE contracts t
+SET t.`nro` = 3411
+WHERE LOWER(t.`servicio`) LIKE LOWER('WILLIAN GIOVANY LOPEZ VEGA%');
+
+UPDATE contracts t
+SET t.`nro` = 3413
+WHERE LOWER(t.`servicio`) LIKE LOWER('YANETH CELMIRA RIVERA%');
+
+UPDATE contracts t
+SET t.`nro` = 3416
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS GUILLERMO BOADA GRIMALDOS%');
+
+UPDATE contracts t
+SET t.`nro` = 3418
+WHERE LOWER(t.`servicio`) LIKE LOWER('YENNY CONSUELO RODRIGUEZ ALARCON%');
+
+UPDATE contracts t
+SET t.`nro` = 3420
+WHERE LOWER(t.`servicio`) LIKE LOWER('YENY LUCIA AMADO LARA%');
+
+UPDATE contracts t
+SET t.`nro` = 3421
+WHERE LOWER(t.`servicio`) LIKE LOWER('YESID ALEXANDER PACHON%');
+
+UPDATE contracts t
+SET t.`nro` = 3423
+WHERE LOWER(t.`servicio`) LIKE LOWER('JHON ENRIQUE CARDENAS LOPEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 3430
+WHERE LOWER(t.`servicio`) LIKE LOWER('YULY CATERIN VARGAS ARAQUE%');
+
+UPDATE contracts t
+SET t.`nro` = 3431
+WHERE LOWER(t.`servicio`) LIKE LOWER('ZANDRA YANETH ROJAS TRIANA%');
+
+UPDATE contracts t
+SET t.`nro` = 3432
+WHERE LOWER(t.`servicio`) LIKE LOWER('ZULIMA LINEY PARRA VERGARA%');
+
+UPDATE contracts t
+SET t.`nro` = 3433
+WHERE LOWER(t.`servicio`) LIKE LOWER('GLADYS RINCON CARDENAS%');
+
+UPDATE contracts t
+SET t.`nro` = 3434
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA CECILIA AMAYA%');
+
+UPDATE contracts t
+SET t.`nro` = 3435
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA ALEXANDRA SILVA SIERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 6021
+WHERE LOWER(t.`servicio`) LIKE LOWER('BLANCA YAMILE CARREÑO MARTINEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6040
+WHERE LOWER(t.`servicio`) LIKE LOWER('YURY ALEJANDRA ARGUELLO AGREDO%');
+
+UPDATE contracts t
+SET t.`nro` = 6041
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS GERARDO GALLO GUERRERO%');
+
+UPDATE contracts t
+SET t.`nro` = 6043
+WHERE LOWER(t.`servicio`) LIKE LOWER('SUSANA DEL PILAR ZARATE LEON%');
+
+UPDATE contracts t
+SET t.`nro` = 6045
+WHERE LOWER(t.`servicio`) LIKE LOWER('ALBA LUZ DIAZ PINEDA%');
+
+UPDATE contracts t
+SET t.`nro` = 6074
+WHERE LOWER(t.`servicio`) LIKE LOWER('YANETH MARITZA PACHON VEGA%');
+
+UPDATE contracts t
+SET t.`nro` = 6101
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANA DORAINE BALAGUERA BALAGUERA%');
+
+UPDATE contracts t
+SET t.`nro` = 6107
+WHERE LOWER(t.`servicio`) LIKE LOWER('GILMA CONSUELO CARDENAS SOLANO%');
+
+UPDATE contracts t
+SET t.`nro` = 6108
+WHERE LOWER(t.`servicio`) LIKE LOWER('WILSON FERNANDO MARTINEZ CARVAJAL%');
+
+UPDATE contracts t
+SET t.`nro` = 6110
+WHERE LOWER(t.`servicio`) LIKE LOWER('DEISY PAOLA RODRIGUEZ GUERRERO%');
+
+UPDATE contracts t
+SET t.`nro` = 6164
+WHERE LOWER(t.`servicio`) LIKE LOWER('ASTRID CONSUELO FUENTES DIAZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6229
+WHERE LOWER(t.`servicio`) LIKE LOWER('FABIAN ALBERTO BERNAL CUBIDES%');
+
+UPDATE contracts t
+SET t.`nro` = 6231
+WHERE LOWER(t.`servicio`) LIKE LOWER('KARLA JULIETH VARGAS ARAQUE%');
+
+UPDATE contracts t
+SET t.`nro` = 6232
+WHERE LOWER(t.`servicio`) LIKE LOWER('YURANY CARDENAS RODRIGUEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6233
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA TERESA DALLOS DE MOJICA%');
+
+UPDATE contracts t
+SET t.`nro` = 6234
+WHERE LOWER(t.`servicio`) LIKE LOWER('OSCAR ALIRIO MACHUCA GONZALEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6250
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANGELA VANESA LEON DIAZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6264
+WHERE LOWER(t.`servicio`) LIKE LOWER('DEICY CARDENAS RODRIGUEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6265
+WHERE LOWER(t.`servicio`) LIKE LOWER('YULY ANDREA CRUZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6301
+WHERE LOWER(t.`servicio`) LIKE LOWER('LEIDY MARCELA LOPEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6302
+WHERE LOWER(t.`servicio`) LIKE LOWER('MAURICIO SANCHEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6303
+WHERE LOWER(t.`servicio`) LIKE LOWER('CARMEN ROSA ROJAS ANGARITA%');
+
+UPDATE contracts t
+SET t.`nro` = 6304
+WHERE LOWER(t.`servicio`) LIKE LOWER('JAIRO FABIAN TOSCANO MONGUI%');
+
+UPDATE contracts t
+SET t.`nro` = 6305
+WHERE LOWER(t.`servicio`) LIKE LOWER('EDISON LOPEZ BENAVIDES%');
+
+UPDATE contracts t
+SET t.`nro` = 6307
+WHERE LOWER(t.`servicio`) LIKE LOWER('LILIANA ALVAREZ RIVERA%');
+
+UPDATE contracts t
+SET t.`nro` = 6308
+WHERE LOWER(t.`servicio`) LIKE LOWER('YEFER ORLANDO DIAZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6319
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE ERNESTO GUERRERO%');
+
+UPDATE contracts t
+SET t.`nro` = 6343
+WHERE LOWER(t.`servicio`) LIKE LOWER('PEDRO ANTONIO SISA BALAGUERA%');
+
+UPDATE contracts t
+SET t.`nro` = 6345
+WHERE LOWER(t.`servicio`) LIKE LOWER('YENY ELIZABETH pendiente de pago de enero a marzo usuaria estaba activa desde sept ojo verificar si tiene tv AYALA BAEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6346
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANGELA RUBIELA ALVAREZ FERNANDEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6358
+WHERE LOWER(t.`servicio`) LIKE LOWER('JAIME RODRIGUEZ LEAL%');
+
+UPDATE contracts t
+SET t.`nro` = 6383
+WHERE LOWER(t.`servicio`) LIKE LOWER('JAIRO CORREA%');
+
+UPDATE contracts t
+SET t.`nro` = 6392
+WHERE LOWER(t.`servicio`) LIKE LOWER('RONNY RODRIGUEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6396
+WHERE LOWER(t.`servicio`) LIKE LOWER('ALFONSO AMAYA PACON%');
+
+UPDATE contracts t
+SET t.`nro` = 6414
+WHERE LOWER(t.`servicio`) LIKE LOWER('MICHELLE ALEJANDRA GUTIERREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6419
+WHERE LOWER(t.`servicio`) LIKE LOWER('PEDRO JOSE ARELLANO ESCALANTE%');
+
+UPDATE contracts t
+SET t.`nro` = 6420
+WHERE LOWER(t.`servicio`) LIKE LOWER('CRUZ CELINA MELO%');
+
+UPDATE contracts t
+SET t.`nro` = 6422
+WHERE LOWER(t.`servicio`) LIKE LOWER('ALEXANDER CORREDOR ARISMENDI%');
+
+UPDATE contracts t
+SET t.`nro` = 6454
+WHERE LOWER(t.`servicio`) LIKE LOWER('DIANA MARCELA TAPIAS%');
+
+UPDATE contracts t
+SET t.`nro` = 6456
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOHANA PAHOLA PERNETT PEÑA%');
+
+UPDATE contracts t
+SET t.`nro` = 6457
+WHERE LOWER(t.`servicio`) LIKE LOWER('KAREN DAYANA CAMARGO%');
+
+UPDATE contracts t
+SET t.`nro` = 6458
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE ANGEL QUIROGA VARGAS%');
+
+UPDATE contracts t
+SET t.`nro` = 6459
+WHERE LOWER(t.`servicio`) LIKE LOWER('NANCY CAROLINA MACHUCA SAAVEDRA%');
+
+UPDATE contracts t
+SET t.`nro` = 6460
+WHERE LOWER(t.`servicio`) LIKE LOWER('ARELIS ILDA CASTILLO CASTILLO%');
+
+UPDATE contracts t
+SET t.`nro` = 6471
+WHERE LOWER(t.`servicio`) LIKE LOWER('LIZETH TATIANA BARRETO SUAREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6476
+WHERE LOWER(t.`servicio`) LIKE LOWER('NIDIA CAROLINA MENDOZA TORRES%');
+
+UPDATE contracts t
+SET t.`nro` = 6504
+WHERE LOWER(t.`servicio`) LIKE LOWER('OSCAR GAVRIEL MARQUEZ CORDERO%');
+
+UPDATE contracts t
+SET t.`nro` = 6505
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUZ MERY PEREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6515
+WHERE LOWER(t.`servicio`) LIKE LOWER('DEISY MAYERLY CRISTANCHO HERNANDEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6516
+WHERE LOWER(t.`servicio`) LIKE LOWER('CLARA ELIZABETH PARRA BAEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6517
+WHERE LOWER(t.`servicio`) LIKE LOWER('YULY ANDREA RODRIGUEZ GOMEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6520
+WHERE LOWER(t.`servicio`) LIKE LOWER('BRAYAN FERNANDO HERNANDEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6521
+WHERE LOWER(t.`servicio`) LIKE LOWER('PAULO CESAR DONADO PAREDES%');
+
+UPDATE contracts t
+SET t.`nro` = 6522
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA CRISTINA MARTINEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6564
+WHERE LOWER(t.`servicio`) LIKE LOWER('KEYLA ALEXANDRA PEREZ RUJANO%');
+
+UPDATE contracts t
+SET t.`nro` = 6566
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANGIE PILAR ALARCON PINTO%');
+
+UPDATE contracts t
+SET t.`nro` = 6568
+WHERE LOWER(t.`servicio`) LIKE LOWER('ROBIN ALEXANDER GALINDO%');
+
+UPDATE contracts t
+SET t.`nro` = 6571
+WHERE LOWER(t.`servicio`) LIKE LOWER('NEIDY PAOLA HERNANDEZ NARANJO%');
+
+UPDATE contracts t
+SET t.`nro` = 6593
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS ANTONIO BARINAS SATOBA%');
+
+UPDATE contracts t
+SET t.`nro` = 6634
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS EDUARDO DUEÑAS SANABRIA%');
+
+UPDATE contracts t
+SET t.`nro` = 6636
+WHERE LOWER(t.`servicio`) LIKE LOWER('JHON ALEXANDER GUZMAN%');
+
+UPDATE contracts t
+SET t.`nro` = 6638
+WHERE LOWER(t.`servicio`) LIKE LOWER('LEIDY YOLIMA AMADO PEREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6639
+WHERE LOWER(t.`servicio`) LIKE LOWER('DORIS TOBACIA INFANTE%');
+
+UPDATE contracts t
+SET t.`nro` = 6689
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA CRISTINA MACHUCA%');
+
+UPDATE contracts t
+SET t.`nro` = 6692
+WHERE LOWER(t.`servicio`) LIKE LOWER('DIEGO FERNANDO ALFONSO DUARTE%');
+
+UPDATE contracts t
+SET t.`nro` = 6693
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARTHA CECILIA BECERRA CARDENAS%');
+
+UPDATE contracts t
+SET t.`nro` = 6694
+WHERE LOWER(t.`servicio`) LIKE LOWER('CRISTIAN CAMILO CASTRO%');
+
+UPDATE contracts t
+SET t.`nro` = 6695
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANDERSON YESID PAREDES DIAZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6696
+WHERE LOWER(t.`servicio`) LIKE LOWER('JORGE LUIS HUERTAS GAMEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6697
+WHERE LOWER(t.`servicio`) LIKE LOWER('ALICIA RAVELO PEREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6726
+WHERE LOWER(t.`servicio`) LIKE LOWER('PAULA ANDREA ALARCON RINCON%');
+
+UPDATE contracts t
+SET t.`nro` = 6758
+WHERE LOWER(t.`servicio`) LIKE LOWER('GRATINIANO MACHUCA VARGAS%');
+
+UPDATE contracts t
+SET t.`nro` = 6762
+WHERE LOWER(t.`servicio`) LIKE LOWER('IVAN DE JESUS FUENTES%');
+
+UPDATE contracts t
+SET t.`nro` = 6764
+WHERE LOWER(t.`servicio`) LIKE LOWER('PAOLA ANDREA VARGAS CALDAS%');
+
+UPDATE contracts t
+SET t.`nro` = 6765
+WHERE LOWER(t.`servicio`) LIKE LOWER('ZULLY MANUELA DIAZ BAEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6767
+WHERE LOWER(t.`servicio`) LIKE LOWER('NIDIA ELIANA ALFONZO%');
+
+UPDATE contracts t
+SET t.`nro` = 6768
+WHERE LOWER(t.`servicio`) LIKE LOWER('LEIDY DEL PILAR CASTRO%');
+
+UPDATE contracts t
+SET t.`nro` = 6769
+WHERE LOWER(t.`servicio`) LIKE LOWER('JUAN DAVID RAVELO AMADO%');
+
+UPDATE contracts t
+SET t.`nro` = 6770
+WHERE LOWER(t.`servicio`) LIKE LOWER('PEDRO CELY VERDUGO falta contrato%');
+
+UPDATE contracts t
+SET t.`nro` = 6771
+WHERE LOWER(t.`servicio`) LIKE LOWER('YAIDI GIL HERRERA%');
+
+UPDATE contracts t
+SET t.`nro` = 6799
+WHERE LOWER(t.`servicio`) LIKE LOWER('EDILMA CORDOBA%');
+
+UPDATE contracts t
+SET t.`nro` = 6808
+WHERE LOWER(t.`servicio`) LIKE LOWER('LEIDY MARCELA HERNANDEZ PINZON%');
+
+UPDATE contracts t
+SET t.`nro` = 6843
+WHERE LOWER(t.`servicio`) LIKE LOWER('EMELCY ROOSMERY BALAGUERA%');
+
+UPDATE contracts t
+SET t.`nro` = 6844
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARTHA CECILIA TIMOTE%');
+
+UPDATE contracts t
+SET t.`nro` = 6845
+WHERE LOWER(t.`servicio`) LIKE LOWER('BELLA NUBIA VERGARA%');
+
+UPDATE contracts t
+SET t.`nro` = 6846
+WHERE LOWER(t.`servicio`) LIKE LOWER('LORENA FRACICA DE LOS RIOS%');
+
+UPDATE contracts t
+SET t.`nro` = 6847
+WHERE LOWER(t.`servicio`) LIKE LOWER('VEIMAR RIBERA RODRIGUEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6848
+WHERE LOWER(t.`servicio`) LIKE LOWER('PAOLA ANDREA VARGAS CALDAS%');
+
+UPDATE contracts t
+SET t.`nro` = 6902
+WHERE LOWER(t.`servicio`) LIKE LOWER('JUAN CARLOS LEON CHIA%');
+
+UPDATE contracts t
+SET t.`nro` = 6903
+WHERE LOWER(t.`servicio`) LIKE LOWER('SEBASTIAN CONTRERAS GOMEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6905
+WHERE LOWER(t.`servicio`) LIKE LOWER('LEIDY PATRICIA RINCON%');
+
+UPDATE contracts t
+SET t.`nro` = 6906
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARTHA YANETH AMADO%');
+
+UPDATE contracts t
+SET t.`nro` = 6913
+WHERE LOWER(t.`servicio`) LIKE LOWER('RAFAEL OROZCO  CARREÑO%');
+
+UPDATE contracts t
+SET t.`nro` = 6914
+WHERE LOWER(t.`servicio`) LIKE LOWER('OLGA LUCIA PADILLA BLANCO%');
+
+UPDATE contracts t
+SET t.`nro` = 6915
+WHERE LOWER(t.`servicio`) LIKE LOWER('PAULA SANTOS%');
+
+UPDATE contracts t
+SET t.`nro` = 6918
+WHERE LOWER(t.`servicio`) LIKE LOWER('MONICA LIZETH VARGAS BOADA%');
+
+UPDATE contracts t
+SET t.`nro` = 6919
+WHERE LOWER(t.`servicio`) LIKE LOWER('ADRIANA YISEET PAREDES GARCIA%');
+
+UPDATE contracts t
+SET t.`nro` = 6924
+WHERE LOWER(t.`servicio`) LIKE LOWER('ADRIANA MARIA LOPEZ VELANDIA%');
+
+UPDATE contracts t
+SET t.`nro` = 6929
+WHERE LOWER(t.`servicio`) LIKE LOWER('SOLANYI TATIANA SALDANA%');
+
+UPDATE contracts t
+SET t.`nro` = 6931
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUZ MERY SILVA ARAQUE%');
+
+UPDATE contracts t
+SET t.`nro` = 6934
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE ANGEL CARDENAS SOLANO%');
+
+UPDATE contracts t
+SET t.`nro` = 6935
+WHERE LOWER(t.`servicio`) LIKE LOWER('RONY ALEXANDER SANCHEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6939
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS ANGEL MUÑOZ CONTRERAS%');
+
+UPDATE contracts t
+SET t.`nro` = 6946
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARISOL CORREA PEREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6948
+WHERE LOWER(t.`servicio`) LIKE LOWER('CARLOS ANDRES BUITRAGO RINCON%');
+
+UPDATE contracts t
+SET t.`nro` = 6956
+WHERE LOWER(t.`servicio`) LIKE LOWER('ALEXANDER CASTRO CORREA%');
+
+UPDATE contracts t
+SET t.`nro` = 6958
+WHERE LOWER(t.`servicio`) LIKE LOWER('RONALD LOPEZ MENDOZA%');
+
+UPDATE contracts t
+SET t.`nro` = 6960
+WHERE LOWER(t.`servicio`) LIKE LOWER('SANDRA MILENA ARISMENDI%');
+
+UPDATE contracts t
+SET t.`nro` = 6962
+WHERE LOWER(t.`servicio`) LIKE LOWER('JUAN DE JESUS ALVAREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 6963
+WHERE LOWER(t.`servicio`) LIKE LOWER('YAJAIRA COROMOTO CORONADO%');
+
+UPDATE contracts t
+SET t.`nro` = 6964
+WHERE LOWER(t.`servicio`) LIKE LOWER('PRAXEDIS CASTAÑEDA NIÑO%');
+
+UPDATE contracts t
+SET t.`nro` = 6966
+WHERE LOWER(t.`servicio`) LIKE LOWER('VICTOR ALFONZO CRISTANCHO%');
+
+UPDATE contracts t
+SET t.`nro` = 6967
+WHERE LOWER(t.`servicio`) LIKE LOWER('YANETH CELMIRA RIVERA MORENO%');
+
+UPDATE contracts t
+SET t.`nro` = 6969
+WHERE LOWER(t.`servicio`) LIKE LOWER('DIANA PATRICIA CELY CARO%');
+
+UPDATE contracts t
+SET t.`nro` = 6981
+WHERE LOWER(t.`servicio`) LIKE LOWER('JUAN DAVID SANTOS%');
+
+UPDATE contracts t
+SET t.`nro` = 6987
+WHERE LOWER(t.`servicio`) LIKE LOWER('YEIMY YOJANA RINCON%');
+
+UPDATE contracts t
+SET t.`nro` = 6990
+WHERE LOWER(t.`servicio`) LIKE LOWER('JEFERSON TRIANA%');
+
+UPDATE contracts t
+SET t.`nro` = 7003
+WHERE LOWER(t.`servicio`) LIKE LOWER('OSCAR ANDRES ARCILA%');
+
+UPDATE contracts t
+SET t.`nro` = 7004
+WHERE LOWER(t.`servicio`) LIKE LOWER('HECTOR LUIS GALLO%');
+
+UPDATE contracts t
+SET t.`nro` = 7007
+WHERE LOWER(t.`servicio`) LIKE LOWER('JULIO FERNEY CEPEDA%');
+
+UPDATE contracts t
+SET t.`nro` = 7013
+WHERE LOWER(t.`servicio`) LIKE LOWER('WILSON FERNANDO MARTINEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7022
+WHERE LOWER(t.`servicio`) LIKE LOWER('DORA MARLENY LADINO%');
+
+UPDATE contracts t
+SET t.`nro` = 7023
+WHERE LOWER(t.`servicio`) LIKE LOWER('KAREN TATIANA VARGAS INFANTE%');
+
+UPDATE contracts t
+SET t.`nro` = 7024
+WHERE LOWER(t.`servicio`) LIKE LOWER('CARLOS ANDRES PACHON CARDENAS%');
+
+UPDATE contracts t
+SET t.`nro` = 7025
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE JAIR LARA RODRIGUEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7026
+WHERE LOWER(t.`servicio`) LIKE LOWER('ODALIS CRISBEL RAMIREZ MONCADA%');
+
+UPDATE contracts t
+SET t.`nro` = 7028
+WHERE LOWER(t.`servicio`) LIKE LOWER('JESUS ANTONIO se hizo cambio de plan 5-03-2025 VILLAMIZAR VARGAS%');
+
+UPDATE contracts t
+SET t.`nro` = 7029
+WHERE LOWER(t.`servicio`) LIKE LOWER('NELSON ANTONIO RINCON%');
+
+UPDATE contracts t
+SET t.`nro` = 7031
+WHERE LOWER(t.`servicio`) LIKE LOWER('YAMILETH DEL VALLE ARAUJO%');
+
+UPDATE contracts t
+SET t.`nro` = 7034
+WHERE LOWER(t.`servicio`) LIKE LOWER('ELVIA NOVA BARRERA%');
+
+UPDATE contracts t
+SET t.`nro` = 7035
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOTA MARIO BASTIDAS%');
+
+UPDATE contracts t
+SET t.`nro` = 7036
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOTA MARIO BASTIDAS%');
+
+UPDATE contracts t
+SET t.`nro` = 7037
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANA BRISEIDA FUENTES%');
+
+UPDATE contracts t
+SET t.`nro` = 7039
+WHERE LOWER(t.`servicio`) LIKE LOWER('RAFAEL ANTONIO SILVA SISA%');
+
+UPDATE contracts t
+SET t.`nro` = 7043
+WHERE LOWER(t.`servicio`) LIKE LOWER('FLOR ALBA RODRIGUEZ FONSECA%');
+
+UPDATE contracts t
+SET t.`nro` = 7045
+WHERE LOWER(t.`servicio`) LIKE LOWER('GABRIEL ESAU PATIÑO DIAZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7046
+WHERE LOWER(t.`servicio`) LIKE LOWER('DILSA FABIOLA MONCADA%');
+
+UPDATE contracts t
+SET t.`nro` = 7050
+WHERE LOWER(t.`servicio`) LIKE LOWER('EDWIN ALIRIO MARTINEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7054
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA ISABEL DUEÑAS GALLO%');
+
+UPDATE contracts t
+SET t.`nro` = 7055
+WHERE LOWER(t.`servicio`) LIKE LOWER('GERMAN DE JESUS GUERRERO%');
+
+UPDATE contracts t
+SET t.`nro` = 7056
+WHERE LOWER(t.`servicio`) LIKE LOWER('JHON ENRIQUE CARDENAS BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 7057
+WHERE LOWER(t.`servicio`) LIKE LOWER('YURY NATIVA SANDOVAL DE ESCALANTE%');
+
+UPDATE contracts t
+SET t.`nro` = 7058
+WHERE LOWER(t.`servicio`) LIKE LOWER('DEISY MARCELA HERNANDEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7072
+WHERE LOWER(t.`servicio`) LIKE LOWER('GUILLERMO CUSPOCA NIÑO%');
+
+UPDATE contracts t
+SET t.`nro` = 7074
+WHERE LOWER(t.`servicio`) LIKE LOWER('REINALDO DE JESUS BECERRA RAVELO%');
+
+UPDATE contracts t
+SET t.`nro` = 7081
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUZ ALBA BLANCO DE QUIJANO%');
+
+UPDATE contracts t
+SET t.`nro` = 7087
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANGIE CATHERINE VEGA%');
+
+UPDATE contracts t
+SET t.`nro` = 7088
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANYER JAVIER VIVAS%');
+
+UPDATE contracts t
+SET t.`nro` = 7092
+WHERE LOWER(t.`servicio`) LIKE LOWER('ELDA LUCILA TORO%');
+
+UPDATE contracts t
+SET t.`nro` = 7093
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE RICAURTE ROJAS%');
+
+UPDATE contracts t
+SET t.`nro` = 7096
+WHERE LOWER(t.`servicio`) LIKE LOWER('DANIELA ALBARRACIN DIAZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7098
+WHERE LOWER(t.`servicio`) LIKE LOWER('RAMIRO CELY CARDENAS%');
+
+UPDATE contracts t
+SET t.`nro` = 7103
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE DANILO SISSA%');
+
+UPDATE contracts t
+SET t.`nro` = 7106
+WHERE LOWER(t.`servicio`) LIKE LOWER('NINI JOHANA BUSTAMANTE%');
+
+UPDATE contracts t
+SET t.`nro` = 7115
+WHERE LOWER(t.`servicio`) LIKE LOWER('OSCAR ANDRES FUENTES TORRES%');
+
+UPDATE contracts t
+SET t.`nro` = 7116
+WHERE LOWER(t.`servicio`) LIKE LOWER('LEIDY KATERIN FERNANDEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7118
+WHERE LOWER(t.`servicio`) LIKE LOWER('AMY DANIELA MANCIPE VARGAS%');
+
+UPDATE contracts t
+SET t.`nro` = 7119
+WHERE LOWER(t.`servicio`) LIKE LOWER('FABIOLA PEÑARANDA DIAZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7123
+WHERE LOWER(t.`servicio`) LIKE LOWER('LURDIS MARLEY CUESTA LEON%');
+
+UPDATE contracts t
+SET t.`nro` = 7124
+WHERE LOWER(t.`servicio`) LIKE LOWER('KAREN LORENA BLANCO SISA%');
+
+UPDATE contracts t
+SET t.`nro` = 7125
+WHERE LOWER(t.`servicio`) LIKE LOWER('ROSOLINO GUERRERO DIAZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7128
+WHERE LOWER(t.`servicio`) LIKE LOWER('FLORINDA QUIÑONEZ VERA%');
+
+UPDATE contracts t
+SET t.`nro` = 7131
+WHERE LOWER(t.`servicio`) LIKE LOWER('NINI MILENA DUEÑAZ PINEDA%');
+
+UPDATE contracts t
+SET t.`nro` = 7134
+WHERE LOWER(t.`servicio`) LIKE LOWER('NANCY LILIANA BALAGUERA%');
+
+UPDATE contracts t
+SET t.`nro` = 7135
+WHERE LOWER(t.`servicio`) LIKE LOWER('CORBIN ESCOLIN RAMIREZ MONCADA%');
+
+UPDATE contracts t
+SET t.`nro` = 7138
+WHERE LOWER(t.`servicio`) LIKE LOWER('LISETH CASTRO GOMEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7150
+WHERE LOWER(t.`servicio`) LIKE LOWER('REINEL ORLANDO MENDIVELSO%');
+
+UPDATE contracts t
+SET t.`nro` = 7151
+WHERE LOWER(t.`servicio`) LIKE LOWER('DOLLY EUNICE AMADO PRIETO%');
+
+UPDATE contracts t
+SET t.`nro` = 7152
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUZ MARY MACHUCA MACHUCA%');
+
+UPDATE contracts t
+SET t.`nro` = 7153
+WHERE LOWER(t.`servicio`) LIKE LOWER('ALICIA ALARCON SISA%');
+
+UPDATE contracts t
+SET t.`nro` = 7154
+WHERE LOWER(t.`servicio`) LIKE LOWER('JUAN PABLO VARGAS BECERRA%');
+
+UPDATE contracts t
+SET t.`nro` = 7155
+WHERE LOWER(t.`servicio`) LIKE LOWER('NYDIA ESPERANZA AGREDO%');
+
+UPDATE contracts t
+SET t.`nro` = 7156
+WHERE LOWER(t.`servicio`) LIKE LOWER('STEVE MARTINEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7158
+WHERE LOWER(t.`servicio`) LIKE LOWER('LADY JOHANNA contrato pendiente por reclamar portero MONTOYA%');
+
+UPDATE contracts t
+SET t.`nro` = 7159
+WHERE LOWER(t.`servicio`) LIKE LOWER('NELSY ALARCON HERNANDEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7160
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE ALBERTO GUTIERREZ DIAZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7161
+WHERE LOWER(t.`servicio`) LIKE LOWER('PAULA ANDREA ALARCON RINCON%');
+
+UPDATE contracts t
+SET t.`nro` = 7167
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANDERSON YOBANY GRANADOS%');
+
+UPDATE contracts t
+SET t.`nro` = 7168
+WHERE LOWER(t.`servicio`) LIKE LOWER('DAYANA MILEIDY PADILLA%');
+
+UPDATE contracts t
+SET t.`nro` = 7170
+WHERE LOWER(t.`servicio`) LIKE LOWER('YESSICA VALENTINA VARGAS%');
+
+UPDATE contracts t
+SET t.`nro` = 7173
+WHERE LOWER(t.`servicio`) LIKE LOWER('ZULMA MARCELA HURTADO CRUZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7177
+WHERE LOWER(t.`servicio`) LIKE LOWER('SEBASTIAN CONTRERAS GOMEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7192
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOHAN SEBASTIAN SILVA%');
+
+UPDATE contracts t
+SET t.`nro` = 7193
+WHERE LOWER(t.`servicio`) LIKE LOWER('CARLOS ALBERTO ALARCON JIMENEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7196
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANGELA LILIANA TINJACA AGUILAR%');
+
+UPDATE contracts t
+SET t.`nro` = 7197
+WHERE LOWER(t.`servicio`) LIKE LOWER('WILLIAM GIOVANNI CARVAJAL%');
+
+UPDATE contracts t
+SET t.`nro` = 7200
+WHERE LOWER(t.`servicio`) LIKE LOWER('KATHERYN KAROLAY BENAVENTE%');
+
+UPDATE contracts t
+SET t.`nro` = 7204
+WHERE LOWER(t.`servicio`) LIKE LOWER('JIMMY CONTRERAS GOMEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7206
+WHERE LOWER(t.`servicio`) LIKE LOWER('ERIK JOHANAN VALERO CORDERO%');
+
+UPDATE contracts t
+SET t.`nro` = 7207
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE ANDRES VARGAS%');
+
+UPDATE contracts t
+SET t.`nro` = 7212
+WHERE LOWER(t.`servicio`) LIKE LOWER('JHONATAN MEDINA%');
+
+UPDATE contracts t
+SET t.`nro` = 7213
+WHERE LOWER(t.`servicio`) LIKE LOWER('SANDRA MILENA LEON CELY%');
+
+UPDATE contracts t
+SET t.`nro` = 7214
+WHERE LOWER(t.`servicio`) LIKE LOWER('FLOR MARIA falta contrato ALARCON AMADO%');
+
+UPDATE contracts t
+SET t.`nro` = 7215
+WHERE LOWER(t.`servicio`) LIKE LOWER('AMALIA FERNANDA PEÑALOZA%');
+
+UPDATE contracts t
+SET t.`nro` = 7220
+WHERE LOWER(t.`servicio`) LIKE LOWER('LUIS CARLOS PARRA FLOREZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7222
+WHERE LOWER(t.`servicio`) LIKE LOWER('GLORIA ANITA MACHUCA%');
+
+UPDATE contracts t
+SET t.`nro` = 7223
+WHERE LOWER(t.`servicio`) LIKE LOWER('JOSE ALBERTO MELO%');
+
+UPDATE contracts t
+SET t.`nro` = 7233
+WHERE LOWER(t.`servicio`) LIKE LOWER('ALEX MAURICIO RIAÑO MARTIN%');
+
+UPDATE contracts t
+SET t.`nro` = 7235
+WHERE LOWER(t.`servicio`) LIKE LOWER('BLANCA EDILIA falta contrato HERNANDEZ VELANDIA%');
+
+UPDATE contracts t
+SET t.`nro` = 7239
+WHERE LOWER(t.`servicio`) LIKE LOWER('MARIA EUGENIA SIERRA HERNANDEZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7242
+WHERE LOWER(t.`servicio`) LIKE LOWER('NIDIA ROCIO CARDENAS AMAYA%');
+
+UPDATE contracts t
+SET t.`nro` = 7244
+WHERE LOWER(t.`servicio`) LIKE LOWER('YOSNEIDER ENRIQUE CARDENAS MUÑOZ%');
+
+UPDATE contracts t
+SET t.`nro` = 7245
+WHERE LOWER(t.`servicio`) LIKE LOWER('ANDREA JOYA TEGUA%');

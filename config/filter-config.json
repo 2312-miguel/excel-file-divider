@@ -1,0 +1,19 @@
+{
+  "inputFile": "",
+  "sheetName": "Hoja1",
+  "outputDir": "output",
+  "filters": [
+    {
+      "column": "Nombre",
+      "operator": "contains",
+      "value": "Juan"
+    },
+    {
+      "column": "Edad",
+      "operator": "greaterThan",
+      "value": 18
+    }
+  ],
+  "logLevel": "info",
+  "logFile": "logs/filter.log"
+} 

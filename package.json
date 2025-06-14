@@ -1,32 +1,63 @@
 {
-  "name": "excel-file-divider",
+  "name": "divide-xlsx",
   "version": "1.0.0",
-  "description": "A tool for splitting large Excel files into smaller parts while maintaining data integrity",
-  "main": "dividirExcel.js",
+  "description": "Herramienta para dividir y procesar archivos Excel",
+  "main": "src/index.js",
   "scripts": {
-    "start": "node dividirExcel.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node src/index.js",
+    "test": "jest",
+    "lint": "eslint .",
+    "format": "prettier --write .",
+    "divide": "node bin/divide-xlsx.js",
+    "filter": "node bin/filter-xlsx.js",
+    "to-sql": "node bin/excel-to-sql.js",
+    "match-names": "node bin/match-names.js",
+    "clean": "rimraf dist temp logs",
+    "build": "npm run clean && npm run lint && npm run test",
+    "dev": "nodemon src/index.js",
+    "prepare": "husky install"
   },
   "keywords": [
     "excel",
     "xlsx",
-    "split",
-    "divide",
-    "large-files",
+    "csv",
+    "sql",
     "data-processing"
   ],
-  "author": "Your Name",
-  "license": "MIT",
+  "author": "",
+  "license": "ISC",
   "dependencies": {
-    "xlsx": "^0.18.5",
+    "chalk": "^4.1.2",
+    "commander": "^11.1.0",
+    "csv-parse": "^5.5.3",
+    "csv-stringify": "^6.4.5",
+    "exceljs": "^4.4.0",
+    "inquirer": "^9.2.12",
+    "ora": "^5.4.1",
+    "winston": "^3.11.0",
     "yargs": "^17.7.2"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/yourusername/excel-file-divider.git"
+  "devDependencies": {
+    "@types/jest": "^29.5.11",
+    "@types/node": "^20.10.5",
+    "eslint": "^8.56.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-jest": "^27.6.3",
+    "eslint-plugin-prettier": "^5.1.2",
+    "husky": "^8.0.3",
+    "jest": "^29.7.0",
+    "lint-staged": "^15.2.0",
+    "nodemon": "^3.0.2",
+    "prettier": "^3.1.1",
+    "rimraf": "^5.0.5"
   },
-  "bugs": {
-    "url": "https://github.com/yourusername/excel-file-divider/issues"
+  "lint-staged": {
+    "*.js": [
+      "eslint --fix",
+      "prettier --write"
+    ]
   },
-  "homepage": "https://github.com/yourusername/excel-file-divider#readme"
+  "engines": {
+    "node": ">=14.0.0"
+  }
 }

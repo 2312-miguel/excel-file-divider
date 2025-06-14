@@ -1,6 +1,8 @@
 const XLSX = require('xlsx');
 const fs = require('fs');
 const path = require('path');
+const { Transform } = require('stream');
+const ExcelJS = require('exceljs');
 
 /**
  * ExcelDivider class handles the division of large Excel files into smaller parts
@@ -9,12 +11,20 @@ const path = require('path');
 class ExcelDivider {
   /**
    * Creates an instance of ExcelDivider
-   * @param {string} configPath - Path to the configuration file (defaults to 'config.json')
+   * @param {string|Object} config - Path to the configuration file or configuration object
    */
-  constructor(configPath = 'config.json') {
-    this.loadConfig(configPath);
+  constructor(config) {
+    if (typeof config === 'string') {
+      this.loadConfig(config);
+    } else {
+      this.config = config;
+    }
     this.validateConfig();
     this.createOutputDir();
+    this.currentPart = 1;
+    this.rowsInCurrentPart = 0;
+    this.currentWorkbook = null;
+    this.rowCount = 0;
   }
 
   /**
@@ -36,7 +46,7 @@ class ExcelDivider {
    * @throws {Error} If any required field is missing
    */
   validateConfig() {
-    const requiredFields = ['inputFile', 'sheetName', 'rowsPerFile', 'excludeColumns', 'itemColumnIndex'];
+    const requiredFields = ['inputFile', 'sheetName', 'rowsPerFile'];
     for (const field of requiredFields) {
       if (!(field in this.config)) {
         throw new Error(`Missing required configuration field: ${field}`);
@@ -56,12 +66,14 @@ class ExcelDivider {
   }
 
   /**
-   * Main process method to handle Excel file division
-   * @returns {boolean} True if process succeeds, false otherwise
+   * Main method to process the Excel file
+   * @returns {Promise<boolean>} Success status
    */
-  processExcel() {
+  async processExcel() {
     try {
       console.log('📖 Reading Excel file...');
+      
+      // Read the Excel file
       const workbook = XLSX.readFile(this.config.inputFile);
       const sheet = workbook.Sheets[this.config.sheetName];
 
@@ -69,20 +81,33 @@ class ExcelDivider {
         throw new Error(`Sheet "${this.config.sheetName}" not found`);
       }
 
+      // Convert to JSON with headers
       const data = XLSX.utils.sheet_to_json(sheet, { header: 1 });
-
       if (data.length < 2) {
         throw new Error('Excel file is empty or has insufficient data');
       }
 
-      console.log('🔍 Processing data...');
       const headers = data[0];
       const rows = data.slice(1);
+      console.log(`🔍 Processing ${rows.length} rows...`);
 
-      const cleanData = this.cleanData(headers, rows);
-      this.saveFiles(cleanData);
+      // Process rows in batches
+      for (let i = 0; i < rows.length; i++) {
+        const row = rows[i];
+        await this.processRow(row, headers);
+        this.rowCount++;
+        
+        if (this.rowCount % 100 === 0 || this.rowCount === rows.length) {
+          console.log(`Progress: ${this.rowCount}/${rows.length} rows processed`);
+        }
+      }
 
-      console.log('✨ Process completed successfully');
+      // Save any remaining rows
+      if (this.currentWorkbook) {
+        await this.saveCurrentWorkbook();
+      }
+
+      console.log(`✨ Process completed successfully. Total rows: ${this.rowCount}`);
       return true;
     } catch (error) {
       console.error('❌ Error:', error.message);
@@ -91,56 +116,63 @@ class ExcelDivider {
   }
 
   /**
-   * Cleans and filters the data according to configuration
-   * @param {Array} headers - Header row from Excel file
-   * @param {Array} rows - Data rows from Excel file
-   * @returns {Array} Cleaned data array including headers
+   * Processes a single row and writes it to the appropriate output file
+   * @param {Array} row - Data row
+   * @param {Array} headers - Column headers
    */
-  cleanData(headers, rows) {
-    // Sort exclude columns in descending order
-    const sortedExcludeColumns = [...this.config.excludeColumns].sort((a, b) => b - a);
+  async processRow(row, headers) {
+    try {
+      // Clean and filter the row
+      const cleanRow = this.cleanRow(row);
 
-    // Clean headers by removing excluded columns
-    const cleanHeaders = headers.filter((_, index) =>
-      !sortedExcludeColumns.includes(index));
+      // Check if we need to start a new file
+      if (this.rowsInCurrentPart >= this.config.rowsPerFile) {
+        await this.saveCurrentWorkbook();
+        this.currentPart++;
+        this.rowsInCurrentPart = 0;
+        this.currentWorkbook = null;
+      }
 
-    // Clean and filter rows
-    const cleanRows = rows
-      .map(row => row.filter((_, index) => !sortedExcludeColumns.includes(index)))
-      .filter(row => {
-        const item = row[this.config.itemColumnIndex];
-        return item !== undefined && item !== null && String(item).trim() !== '';
-      });
+      // Initialize new workbook if needed
+      if (!this.currentWorkbook) {
+        this.currentWorkbook = new ExcelJS.Workbook();
+        const worksheet = this.currentWorkbook.addWorksheet('Data');
+        worksheet.addRow(headers);
+      }
 
-    return [cleanHeaders, ...cleanRows];
+      // Add the row
+      this.currentWorkbook.getWorksheet('Data').addRow(cleanRow);
+      this.rowsInCurrentPart++;
+    } catch (error) {
+      console.error('Error processing row:', error);
+      throw error;
+    }
   }
 
   /**
-   * Saves the processed data into multiple Excel files
-   * @param {Array} data - Cleaned data to be saved
+   * Saves the current workbook to a file
    */
-  saveFiles(data) {
-    const headers = data[0];
-    const rows = data.slice(1);
-    const totalParts = Math.ceil(rows.length / this.config.rowsPerFile);
+  async saveCurrentWorkbook() {
+    if (!this.currentWorkbook) return;
 
-    console.log(`📁 Dividing into ${totalParts} files...`);
+    const fileName = `${this.config.sheetName}_part_${this.currentPart.toString().padStart(3, '0')}.xlsx`;
+    const filePath = path.join(this.outputDir, fileName);
+    
+    await this.currentWorkbook.xlsx.writeFile(filePath);
+    console.log(`✅ Saved: ${fileName}`);
+  }
 
-    for (let i = 0; i < totalParts; i++) {
-      const start = i * this.config.rowsPerFile;
-      const end = start + this.config.rowsPerFile;
-      const part = [headers, ...rows.slice(start, end)];
+  /**
+   * Cleans and filters a single row according to configuration
+   * @param {Array} row - Data row to clean
+   * @returns {Array} Cleaned row
+   */
+  cleanRow(row) {
+    // Sort exclude columns in descending order
+    const sortedExcludeColumns = [...this.config.excludeColumns].sort((a, b) => b - a);
 
-      const sheet = XLSX.utils.aoa_to_sheet(part);
-      const workbook = XLSX.utils.book_new();
-      XLSX.utils.book_append_sheet(workbook, sheet, 'Data');
-
-      const fileName = `${this.config.sheetName}_part_${(i + 1).toString().padStart(3, '0')}.xlsx`;
-      const filePath = path.join(this.outputDir, fileName);
-
-      XLSX.writeFile(workbook, filePath);
-      console.log(`✅ Saved: ${fileName}`);
-    }
+    // Clean row by removing excluded columns
+    return row.filter((_, index) => !sortedExcludeColumns.includes(index));
   }
 }
 
@@ -188,7 +220,10 @@ if (require.main === module) {
   if (argv.rows) divider.config.rowsPerFile = argv.rows;
   if (argv.output) divider.config.outputDir = argv.output;
 
-  divider.processExcel();
+  divider.processExcel().catch(error => {
+    console.error('Fatal error:', error);
+    process.exit(1);
+  });
 }
 
 module.exports = ExcelDivider;

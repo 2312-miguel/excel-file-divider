@@ -1,0 +1,13 @@
+{
+  "inputFile": "",
+  "sheetName": "Hoja1",
+  "rowsPerFile": 1000,
+  "outputDir": "output",
+  "includeHeaders": true,
+  "filePrefix": "part_",
+  "fileExtension": "xlsx",
+  "logLevel": "info",
+  "logFile": "logs/divider.log",
+  "excludeColumns": [],
+  "itemColumnIndex": 0
+} 

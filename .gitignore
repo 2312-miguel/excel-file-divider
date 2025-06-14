@@ -27,3 +27,9 @@ Thumbs.db
 dist/
 build/
 out/ 
+
+# Data files
+data/
+
+# Output files
+output/
