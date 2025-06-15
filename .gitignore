@@ -33,3 +33,6 @@ data/
 
 # Output files
 output/
+filtered_output/*
+logs/*
+sql_output/*
