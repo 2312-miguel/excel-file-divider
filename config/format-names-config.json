@@ -1,0 +1,9 @@
+{
+  "input": "Buena_FORMATTED.xlsx",
+  "sheet": "Hoja1",
+  "column": "NOMBRE",
+  "output": "output/Buena_FORMATTED_3.xlsx",
+  "concatColumn1": "G",
+  "concatColumn2": "H",
+  "concatNewColumn": "PLAN_CONCATENADO"
+} 
